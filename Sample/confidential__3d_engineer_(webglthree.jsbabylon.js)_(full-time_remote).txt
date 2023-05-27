@@ -1,0 +1,62 @@
+Website: https://www.linkedin.com/jobs/view/3613081534
+
+3D Engineer (WebGL/Three.js/Babylon.js) (Full-time remote)
+
+Job overview and responsibility
+
+About PixCap
+
+- Problem: There is still no easy way to get 3D based stock photos/icons exactly how designers would want, while finding animated 3D gifs/videos is almost non-existent.
+
+- PixCap: PixCap solves this as a web-based editor to easily create and export 3D designs. A good analogy would be Canva for 3D.
+
+- Mission: Unlocking 3D for design and the internet.
+
+
+
+
+General Description:
+
+This role will involve improving PixCap’s web-based 3D editor and helping to create a 3D character creator, similar to ReadyPlayerMe. A solid understanding of 3D graphics and software (e.g. Maya and Blender) is required, as well as knowledge of Babylon.js or Three.js or WebGL.
+
+
+
+
+Required skills and experiences
+
+- Strong Experience (3+ years) with WebGL/Three.js/Babylon.js or any other web-based 3d graphics library
+
+- Strong knowledge of how 3D models, textures, materials, and rigging etc work
+
+- Good knowledge of shaders
+
+
+
+
+Preferred skills and experiences
+
+- Experience with frontend frameworks e.g. VueJS/React
+
+- Experience with Computer Graphics in other programming languages e.g. C++
+
+- Experience rigging and animating 3D characters
+
+- Experience working with Maya/Blender/Unity
+
+- Experience developing any of: retargeting, graph editor, modelling tools, inverse kinematics
+
+
+
+
+Why Candidate should apply this position
+
+- Competitive salary (up to 7500 USD)
+
+- Equity options package
+
+
+
+
+Report to
+
+CEO

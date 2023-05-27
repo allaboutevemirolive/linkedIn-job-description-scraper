@@ -1,0 +1,24 @@
+Website: https://www.linkedin.com/jobs/view/3501489831
+
+Performance Tester
+
+Diagnose issues that an in house performance testing team has been unable to.
+
+Conduct five aspects to Performance Engineering software development lifecycle and architecture, performance testing and validation, capacity planning, application performance management and problem detection and resolution.
+
+Experience working in SDLC.
+
+One or more programming language
+
+Java, Go, etc. , aligned to needs for performance tools
+
+Linux and shell scripting skills
+
+Networking and webservice related knowledge
+
+Experience with Performance Testing tools
+
+Load Generators, Performance Monitoring Tools, Reporting Tools, etc.
+
+JMeter is preferred.
+

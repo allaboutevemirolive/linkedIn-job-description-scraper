@@ -1,0 +1,100 @@
+Website: https://www.linkedin.com/jobs/view/3404092419
+
+Senior Network and Telecom Engineer
+
+Job Description
+
+Based in our APAC HQ in Kuala Lumpur, you will be reporting to our Infrastructure Manager. As a Telecom Engineer, you will work as a L2 support for both Network and Telephony. This position requires technical knowledge about Network, Voice - SIP and will need to be keen in troubleshooting. You are required to assist IT Support for common Network and Voice related faults.
+
+Job Description:
+
+
+ * Serve as the 2nd level support with troubleshooting skill to assist IT Support seeking technical assistance
+ * Determine the best solution based on the issue and details provided by L1 and users
+ * Respond to and log all inquiries received from L1
+ * Keep well documented and updated case notes.
+ * Identify, analyze, troubleshoot and resolve client service requests.
+ * Properly escalate and communicate to a higher level of support as necessary including service that exceeds skills level, reasonable repair time, lack of parts, or any other issue that could impact customer satisfaction.
+ * Work as a team member to collaboratively resolve client requests and technical issues with other team members, partners and vendors.
+ * Provide higher level support regarding switch configuration, Router and routes management, Firewall maintenance
+ * Provides in-depth support for Voice regarding, local / Toll Free numbers - subscription / management, Call flow design with diagram and configuration. IVR setup.
+ * Monitor and provide support for WAN / LAN management for HQ, DC and Stores that will included communication with ISPs.
+ * Manage multiple cases at one time.
+ * Setup and configure new network and Voice devices.
+ * Should be able to work with Microsoft teams.
+ * Identify and suggest possible improvements on procedures and resolution
+   
+   
+
+Must have Good Knowledge of:
+
+
+ * Active Directory
+ * RADIUS
+ * Operating Systems
+ * Office 365 (Outlook/Word/Excel/PowerPoint/Access/Project/Visio)
+ * Security Application – Antivirus/Proxy
+ * SDWAN
+ * Logging Tools - Graylog, Kibana
+   
+   
+
+Must have experienced knowledge of:
+
+
+ * Network LAN/WAN - Routers/Switch/Modem/Firewall/AP/VPN with different brands preferably - Cisco, Fortigate, Palo Alto
+ * Routing protocols - BGP/ EIGRP
+ * DHCP configurations
+ * DNS configurations
+ * IT Monitoring Tools - PRTG, Icinga, Graphana
+ * SIP technology - Voice configuration - prefer Cisco WebEx (Basic Avaya configuration knowledge is added advantage)
+   
+   
+
+Qualifications:
+
+
+ * Proven experience as a network and voice technician
+ * Tech savvy with working knowledge of office automation products, Network, Server System and IT Processes
+ * Good understanding of IT System
+ * Ability to diagnose and resolve technical issues related to switch, routers, firewall, SIP
+ * Should have basic knowledge of cisco devices and cisco Webex. Experience in integration with MS Teams is added advantage.
+ * Proficiency in English
+ * Excellent communication skills
+ * Customer-oriented and cool-tempered
+ * Minimum Certificate, Diploma or Professional course on IT Services
+   
+   
+
+Responsibilities
+
+
+ * Serve as the 2nd level support with troubleshooting skill to assist IT Support seeking technical assistance
+ * Determine the best solution based on the issue and details provided by L1 and users
+ * Respond to and log all inquiries received from L1
+ * Keep well documented and updated case notes.
+ * Identify, analyze, troubleshoot and resolve client service requests.
+ * Properly escalate and communicate to a higher level of support as necessary including service that exceeds skills level, reasonable repair time, lack of parts, or any other issue that could impact customer satisfaction.
+ * Work as a team member to collaboratively resolve client requests and technical issues with other team members, partners and vendors.
+ * Provide higher level support regarding switch configuration, Router and routes management, Firewall maintenance
+ * Provides in-depth support for Voice regarding, local / Toll Free numbers - subscription / management, Call flow design with diagram and configuration. IVR setup.
+ * Monitor and provide support for WAN / LAN management for HQ, DC and Stores that will included communication with ISPs.
+ * Manage multiple cases at one time.
+ * Setup and configure new network and Voice devices.
+ * Should be able to work with Microsoft teams.
+ * Identify and suggest possible improvements on procedures and resolution
+   
+   
+
+Qualifications
+
+
+ * Proven experience as a network and voice technician
+ * Tech savvy with working knowledge of office automation products, Network, Server System and IT Processes
+ * Good understanding of IT System
+ * Ability to diagnose and resolve technical issues related to switch, routers, firewall, SIP - configuration of VLANs, trunks, port-channel, acts/ policies, routing protocols as BGP/ EIGRP
+ * Should have basic knowledge of cisco devices and cisco Webex. Experience in integration with MS Teams is added advantage.
+ * Proficiency in English
+ * Excellent communication skills
+ * Customer-oriented and cool-tempered
+ * Minimum Certificate, Diploma or Professional course on IT Services

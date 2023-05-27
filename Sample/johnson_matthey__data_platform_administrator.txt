@@ -1,0 +1,68 @@
+Website: https://www.linkedin.com/jobs/view/3613038261
+
+Data Platform Administrator
+
+Vacancy: Data Platform Administrator
+
+Location: Kuala Lumpur, Malaysia (Hybrid)
+
+Job Family: IT
+
+Together for a cleaner, healthier world.
+
+Johnson Matthey, a FTSE 100 company, is a global leader in sustainable technologies specialising in catalysis, precious metal products, chemicals and process technology. With operations in over 30 countries, we employ more than 13,000 people. Johnson Matthey uses science to make the world cleaner and healthier. Over the past two centuries we have built our reputation and place as a global leader through quality, integrity, and innovation. Today, more than 93% of the group's sales come from products and services which provide sustainability benefits through the positive impact they have on the environment, resource efficiency and human health, but that’s not enough. We have ambitious plans for growth and need talented individuals to help shape and lead us into our next century.
+
+As a Data Platform Administrator you will be primarily responsible for working alongside the data platform engineer to ensure that JM data platform continues to work and ensuring JM is getting the most from its data platform assets ensuring good architecture is in place. The role will be responsible for ensuring that appropriate licences are provided to business users for Tableau, KNIME, Intelligens and other data software used by JM, it will ensure that our data analytics servers operate to their most optimum by monitoring their performance and carrying out “health checks”. The role is also responsible for working with the software vendors to ensure JM is utilising the most from its data software.
+
+Your responsibilities:
+
+ * Manage the use of a number applications such as KNIME, Collibra, SciBite and Power BI
+ * Work with the Platform Engineer to ensure that the data platform is optimized by understanding its architecture.
+ * Develop and maintain procedures for system maintenance (upgrade/backup/restore)
+ * Monitor the performance of applications and operating model, and perform trouble shooting
+ * Manage users and user group
+   
+   
+
+Requirements for the role:
+
+ * Experience of managing Servers and P1 incidents related to server crash.
+ * Basic experience of platform architecture
+ * Knowledge of data structures and database fundamentals and cloud platform fundamentals (AWS, Azure)
+ * Knowledge of TCP/IP protocols, understanding security groups.
+ * Experience with Linux and server upgrades.
+ * Experience as Power BI admin.
+ * Minimum 1 year experience in a similar role.
+   
+   
+
+How you will be rewarded:
+
+We offer a competitive compensation and JM Elements benefits package including bonus, excellent pension contributions and generous annual leave. Our JM Elements Benefits programme helps our employees understand and manage the JM benefits, as well as helping you focus on your overall wellbeing – for you and your family.
+
+We use our inspiring science and technology to enhance lives. For those who are passionate about sustainable solutions and shaping our markets, we offer stretch and a wealth of diverse opportunities.
+
+We’ll give you freedom to bring your whole self to work and be part of a team where difference matters and all voices are heard, that genuinely cares for you and where your contribution is appreciated. We’ll empower you to lean in and make things happen, to create solutions and value for our customers. United by our values and vision, we’re self-starters sharing the same values and accountability and always with a shared commitment to doing the right thing. We’re passionate about making a difference and delivering a better tomorrow for us and for you – a cleaner and healthier world, today and for future generations.
+
+“Johnson Matthey is open for discussion on part time, job share and flexible working patterns”
+
+Closing date for applications: This job advertisement will be posted for a minimum of 2 weeks, early application is advised
+
+For any queries or should you require any reasonable adjustments to support your application please contact UKRecruit@matthey.com.
+
+How to apply:
+
+If you have the necessary skills and experience to join our team, please apply online. For any queries or should you require any reasonable adjustments to support your application please let your recruiter know when they contact you.
+
+If you are already a Johnson Matthey Employee, please visit the internal careers site to apply: Find Jobs - Workday (myworkday.com)
+
+All applications are carefully considered and your details will be stored on our secure Application Management System. This is used throughout Johnson Matthey for the selection of suitable candidates for our vacancies as they arise. Johnson Matthey respects your privacy and is committed to protecting your personal information. For more information about how your personal data is used please view our privacy notice:  Johnson Matthey Privacy Notice
+
+You will be contacted by the Johnson Matthey Talent Acquisition team once your details have been reviewed. Please allow four weeks from the closing date to allow for screening to take place.
+
+We appreciate the time and effort taken in completing an application.
+
+By applying for this role and creating an account you are agreeing to Johnson Matthey Privacy Notice
+
+Johnson Matthey Plc is an equal opportunities employer and positively encourages applications from suitably qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, marriage or civil partnership, pregnancy or maternity, religion or belief.
+

@@ -1,0 +1,34 @@
+Website: https://www.linkedin.com/jobs/view/3549684347
+
+Mainframe Developer
+
+About Capgemini:
+
+
+
+
+Capgemini is a global leader in consulting, digital transformation, technology and engineering services. The Group is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong 50-year+ heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people. Today, it is a multicultural company of 340,000 team members in almost 50 countries. With Altran, the Group reported 2019 combined revenues of €17billion.
+
+
+
+
+Top Skills must Have:
+
+ * Working experience in Banking systems.
+ * Must possess at least 4 years experience in CICS, COBOL, JCL, VSAM, MVS, z/OS and mainframe environment
+ * Experience in Agile project delivery and DEVOPS tools.
+
+
+
+
+Required
+
+ * Analysis of user stories and assessment of changes required in the system.
+ * Participate in Agile ceremonies (Daily Stand-up, Sprint Planning, Retrospective)
+ * Story points estimation and sub-task estimation.
+ * Design program specifications aligning to COBOL/JCL coding best practices for efficient system performance
+ * Perform Cobol/CICS program coding and testing
+ * JIRA/ Confluence updates
+ * User Acceptance Testing support that includes test environment set-up/configuration, batch execution and responding to business queries and clarifications.
+ * Supports project deployment activities and post implementation monitoring.
+ * Supports production issue investigation and resolution whenever need arises.

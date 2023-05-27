@@ -1,0 +1,62 @@
+Website: https://www.linkedin.com/jobs/view/3613007296
+
+DevOps Engineer
+
+Job Responsibilities
+
+
+
+
+ * Develop, implement, and maintain continuous integration and continuous delivery (CI/CD) pipelines.
+ * Automate deployment, scaling, and monitoring of geospatial data processing and storage infrastructure.
+ * Collaborate with software engineers and geospatial data experts to understand and optimize the data processing and storage requirements.
+ * Troubleshoot and resolve production issues in a timely manner.
+ * Develop and maintain software documentation.
+   
+   
+
+
+
+
+Job Requirements
+
+
+
+
+ * Bachelor's or master's degree in computer science or a related field.
+ * At least 3 years of experience as a DevOps Engineer.
+ * Strong experience with cloud computing platforms, particularly AWS.
+ * Strong experience with containerization technologies, such as Docker and Kubernetes.
+ * Strong experience with automation tools, such as Ansible, Terraform, or CloudFormation.
+ * Strong experience with scripting languages, such as Python or Bash.
+ * Excellent communication and interpersonal skills
+   
+   
+
+
+
+
+Perks & Benefits
+
+
+
+
+ * A position in one of the most exciting high-tech companies in Malaysia
+ * An international team with some of the best software engineers from all over the world
+ * A low overhead, flat management structure designed to minimise bureaucracy so you can focus on what you’re great at
+ * Flexi working times & locations and a true work-life balance
+ * Opportunity to participate in organised social events with like-minded colleagues
+   
+   
+
+
+
+
+Apply online or feel free to contact me directly for more information about this opportunity. Due to the high volume of applicants, we regret to inform that only shortlisted candidates will be notified. Thank you for your understanding.
+
+
+
+
+#countrymalaysia
+
+

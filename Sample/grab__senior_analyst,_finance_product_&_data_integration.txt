@@ -1,0 +1,64 @@
+Website: https://www.linkedin.com/jobs/view/3535029716
+
+Senior Analyst, Finance Product & Data Integration
+
+Job Description:
+
+
+
+
+Life at Grab
+
+
+
+
+At Grab, every Grabber is guided by The Grab Way, which spells out our mission, how we believe we can achieve it, and our operating principles - the 4Hs: Heart, Hunger, Honour and Humility. These principles guide and help us make decisions as we work to create economic empowerment for the people of Southeast Asia.
+
+
+
+
+Get to know our Team:
+
+
+
+
+Finance product & data integration team mainly focuses on developing and implementing data - driven strategies to support finance stakeholders for reporting activities . The data strategy component of the team focuses on developing a comprehensive understanding of the organization’s data assets and implementing strategies to leverage the data to make informed decisions. This includes designing data infrastructure , setting data governance policies and ensuring data is accurate , accessible and secure.
+
+
+
+
+What you will do/ The day-to-day activities:
+
+
+
+
+ * Responsible for analyzing data requirements and developing data integration solutions that meet business needs. Candidates should be able to review source data structures, identify data quality issues, and develop strategies to overcome data integration challenges.
+ * Work closely with the country finance team, group reporting and business finance team, DA and DE in understanding the related business process and interpreting it into the script.
+ * Designs and implements data integration solutions, which involves selecting appropriate data integration tools, developing data mapping, transformation and load (ETL) processes, and creating data integration workflows.
+ * In charge of requirement analysis, design and build finance operational reporting or dashboards including the automation of the existing reporting/processing.
+ * Able to provide any technical support to resolve data integration issues , troubleshoots data -related problems.
+ * In charge of the Finance Operations BAU tasks, especially during the Month End / Year End Close period.
+
+
+
+
+What you need/ the must-haves:
+
+
+
+
+ * 2-4 years exposure at minimum in finance operations/data analytics/business intelligence area.
+ * Fluent in SQL language, comfortable diving in messy and scattered data.
+ * Exposure in financial reporting, Oracle ERP and data reconciliation is preferred.
+ * Exposure in VBA, ETL tool, tableau, python is preferred.
+ * Good communication skills, able to deliver technical communication to the non-technical audience.
+
+
+
+
+Our Commitment
+
+
+
+
+We are committed to building diverse teams and creating an inclusive workplace that enables all Grabbers to perform at their best, regardless of nationality, ethnicity, religion, age, gender identity or sexual orientation and other attributes that make each Grabber unique.

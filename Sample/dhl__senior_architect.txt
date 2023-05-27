@@ -1,0 +1,100 @@
+Website: https://www.linkedin.com/jobs/view/3619115491
+
+Senior Architect
+
+Summary
+
+Begin your career with DHL IT Services!
+
+We are seeking for an enthusiastic Senior Architect to join our team. You will investigate, analyze and record all or part of a business in a systematic approach. You will also define architecture requirements and create viable specifications of the processes and systems.
+
+You are required to manage architecture-related communication inside IT Services and outside DP DHL.
+
+You will design and develop integrated solutions that meet current and future business needs. You need to take account of relevant architectures, strategies and policies.
+
+What You Will Do
+
+
+ * Work with people responsible for architectural communication in all regions of IT Services and in DP DHL Business divisions
+ * Communicate all important news to the architectural community effectively
+ * Analyze public events regarding IT architecture and bring them to the attention of the members of the team
+ * Lead definition, initiation and design of architecture in projects/ programs and coordinate collaboration with external service providers
+ * Apply standard methodologies when creating new architecture, programs and applications or when maintaining existing ones
+ * Document work using the required standards, methods and tools
+ * May oversee the completion of projects and may contribute to employees’ professional development
+ * Act as technical lead of development teams on issues of performance, tools, and standards
+ * May act as a consultant during requirements discussions with Business team for new and existing projects
+   
+   
+
+APPLICATION YOU WILL USE
+
+
+ * Openshift Platform for container-based applications
+ * Jenkins for CI/CD Pipelines
+ * Enterprise Git for source code maintenance
+ * Microsoft Azure Cloud Services (specially Azure AKS) for application deployment
+ * Oracle, PostgreSQL, Teradata & Snowflake Databases
+ * Jira/Confluence for project documentation
+ * Java Spring Boot for backend, Angular or React for Front End in application development projects
+ * SonarQube, Fortify, Twistlock and DAST scan for security compliance.
+   
+   
+
+What You Should Have
+
+
+ * 8 years of experience in software engineering with relevant qualifications in IT field and methods including formal methods (e.g. Prince 2)
+ * Experience in the field of Business Systems Analysis, Business Performance and Analysis
+ * Experience in Business, Data, Technical Architecture and leveraging tools
+ * Inquisitive and analytical minded
+ * Proven ability to manage non-direct reports to achieve results and to work in a multi-cultural multi-functional environment where consensus is critical for success
+ * Customer and end-user focused and have excellent oral and written communications skills
+ * Experience with Microservices based architecture design
+   
+   
+
+What Is The Plus Point(s)
+
+
+ * CKAD Certification or Microsoft Azure AZ204 Certification
+ * Knowledge of Teradata or Snowflake Databases
+ * Experience in DEVOPS project and Agile processes
+ * Experience with Container based application development
+ * Strong communication skills to interact with both technical and non-technical stakeholders of the project
+   
+   
+
+What You Will Get From Us
+
+
+ * Great Team of IT Professionals with Global Working Exposure
+ * Flexible Benefits – Customized According to Individual Needs
+ * On-Going Professional and Technical Training and Certifications
+ * A Multicultural Environment in Modern Offices
+ * Choose Any Day for Your Vacation From Earned Public Holiday (Saturday and Ad Hoc)
+ * Smart Casual Everyday
+ * Global Internal Job Opportunities Available Within DPDHL
+ * Unlimited Outpatient Medical
+ * Home Office Possibilities
+   
+   
+
+Sounds good? Start your application now!
+
+DHL IT Services – About Us
+
+IT Services is the internal provider of specialized IT Build services and industrialized IT Run services to Deutsche Post DHL (DPDHL) Group:
+
+
+ * Supports over 260,000 DPDHL e-mail users;
+ * Runs more than 7700 servers;
+ * Supports more than 2000 global services and applications;
+ * Processes 9 million shipment information messages per day;
+ * 200,000 man days per year of development application.
+   
+   
+
+Apart from being more than 5000 highly skilled IT professionals with an intimate knowledge of the logistics industry, we at IT Services altogether represent more than 80 nationalities. IT Services is working behind the scenes 24-hours a day, 7 days a week, 365 days a year in the data centers and offices across three continents – Americas (Mechanicsburg, Westerville, Tempe in USA and Mexico, Costa Rica and Brazil), Europe (Prague in Czech Republic; Bonn and Darmstadt in Germany) and Asia (Cyberjaya in Malaysia and Chennai in India).
+
+You would be part of over 1800 highly skilled IT professionals working in a friendly, multicultural environment of 26 nationalities in Cyberjaya.

@@ -1,0 +1,40 @@
+Website: https://www.linkedin.com/jobs/view/3613606600
+
+Flutter Developer
+
+Role - Flutter Developer
+
+Experience - 4+ Years
+
+Notice Period - 30 Days
+
+CTC - Norms
+
+
+
+
+Job Description
+
+
+
+
+As a Flutter Developer, you will be in charge of reviewing the software specifications and UI mockups, developing a cross-browser mobile application from scratch, and leading the application testing effort. You'll work alongside a backend developer, as well as a UI designer to ensure you create high-performing application with a a smooth user experience.
+
+
+
+
+Roles and Responsibilities
+
+
+
+
+ * Designing, developing, testing, maintaining, and deploying software in the Flutter framework and Dart language.
+ * Developing user interface components and implementing them by following well-known Flutter / Dart workflows and practices.
+ * Communicating with product and engineering leads to implement business and project objectives.
+ * Code review of team members' commits as part of CI/CD cycle.
+ * Participate in testing, quality assurance and bug fixes as part of the CI/CD cycle.
+
+
+
+
+If you are interested, Kindly share your resume to harikaran@purpledrive.com or Whatsapp - 9677231047

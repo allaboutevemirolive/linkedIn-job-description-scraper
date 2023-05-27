@@ -1,0 +1,63 @@
+Website: https://www.linkedin.com/jobs/view/3596451408
+
+Senior Specialist, Independent Model Validation
+
+Job Description:
+
+
+
+
+Get to know our Digital Bank Team:
+
+
+
+
+Grab is leading a consortium for Digital Bank licence and building a bank with the right foundation - using data, technology and trust to solve problems and serve customers. We have big dreams to unlock and financial inclusion for people in our region is just one. If you have what it takes, help build our new Digibank with us.
+
+
+
+
+Get To Know The Role:
+
+
+
+
+Perform independent model validation as part of the second line of defence in Digibank, drive the effective implementation of the Model Risk policy and recommend improvements.
+
+
+
+
+Roles & Responsibilities:
+
+
+
+
+ * Manage and complete the model validation from end to end for new/ existing models in the bank, which covers:
+ * Qualitative review: underlying model assumptions and algorithms, i.e. supervised learning and unsupervised learning models, use of model & its interpretation.
+ * Quantitative review: hands-on in data validation/ assessment and perform statistical test
+ * Review model documentation
+ * Perform model stress testing
+ * Ensuring the model is fit for use as per the Bank’s Model Risk Management framework
+ * Collaborate with various stakeholders, e.g. Model Developer, Model Owner, Data Science team, model vendor etc, for model risk identification and assessment.
+ * Propose model risk mitigation solution and recommend improvements
+ * Improve Model Risk Management framework to embed industry best practice. Ensure the model validation standard meets regulatory guidelines/ requirements
+ * Work effectively as a team member with other quantitative analysts in the Bank, as well as with external consultants.
+ * Validate IFRS9/ Basel models not limited to PD, LGD, EAD etc.
+ * Work with GXS Singapore counterparts to perform model FEAT assessment in accordance to MAS guideline
+ * Synchronise with group-wide frameworks, processes (including modelling), tools and reporting which support the desired outcomes for risk modelling and capital optimization.
+
+
+
+
+The Must Haves
+:
+
+
+
+
+ * Passionate in Data which includes ETL, analyse, and interpret data patterns within a complex data environment
+ * Well versed in credit modelling and/ or data science techniques (AI/ ML models) which includes hands-on model development and implementation
+ * Highly proficient in coding (Python/ SQL or R etc); familiar with modern and emerging technology techniques and an interest to stay abreast of industry developments (e.g. DevOps, MLOps, Cloud, APIs, service-oriented architectures etc).
+ * At least 2 years / 5+ years of work experience in quantitative modelling, numerical simulation, and data analysis.
+ * Team orientation and ability to work in a fast paced environment.
+ * Strong quantitative problem solving skills. Advanced degree in a quantitative discipline such as statistics, data science, maths, physics, engineering, computer science, or financial engineering

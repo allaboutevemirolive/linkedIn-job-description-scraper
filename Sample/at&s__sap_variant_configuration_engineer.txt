@@ -1,0 +1,56 @@
+Website: https://www.linkedin.com/jobs/view/3618568332
+
+SAP Variant Configuration Engineer
+
+Kulim, MY
+
+May 26, 2023
+
+15744
+
+Be part of our team!
+
+AT&S is a world leading high-tech PCB & IC Substrates Company. With roughly 15,000 employees worldwide, production plants in Austria, China, India, Korea and Sales Support Offices around the globe, AT&S is building its first production site in Southeast Asia: Kulim Hi-Tech Park, Kedah, Malaysia. Once the commercial operation commences by the end of 2024, the Kulim production site will focus on ABF substrate solutions for the semicon industry. To enable its successful growth, AT&S Malaysia offers excellent career opportunities for committed talents and professionals with the will to take ownership and make an impact. For our Finance team in AT&S Malaysia, we are looking for an experienced.
+
+SAP Variant Configuration Engineer
+
+Your Responsibilities
+
+ * New Product Introductions – Create variant configurator models for new product.
+ * Product changes – Update variant configuration models and manage effectivity as part of the product change process.
+ * Create, maintain, and program SAP Variant Configuration (VC) models, including building model structures using SAP class-system (classes, characteristics, and characteristic values) and maintaining dependency logic with SAP VC functions (table rules, procedures, constraints,…).
+ * Test configurable models to ensure business requirements, process efficiency and configurable product data quality.
+ * Collaborate with product experts in order to keep configurator models up-to-date with current business requirements.
+ * Interpret business needs and translate them into application requirements.
+ * Regular reporting on cost trends, activity rates, material and others as well as close cooperation with costing team.
+ * Participate in Continuous Improvement activities.
+   
+   
+
+Your Profile
+
+ * Bachelor's Degree in Finance, costing or equivalent.
+ * 1-5 years of relevant working experience.
+ * Strong knowledge in SAP ERP
+ * High proficiency in MS excel (e.g., formulas, pivot tables, macros, tables and graph production) and MS PowerPoint
+ * Strong project management skills
+ * Strong analytical and communication skills
+ * Fluent in English, both written and speaking. Mandarin as a plus.
+ * Ability to influence and work in a support role
+ * Ability to prioritize work and meet deadlines
+ * Ability to work independently and under high pressure
+   
+   
+
+Our Offer
+
+ * Personal and professional growth opportunities in a Greenfield Project of a recognized MNC
+ * A chance to actively contribute to AT&S´ success and to create value
+ * A secure position with long-term career perspective in an internationally expanding environment
+ * Attractive and competitive compensation package
+   
+   
+
+If you are looking for a new challenging task, please send us your application and your detailed resume.
+
+It´s just a click to apply online and we are looking forward to it. Your HR Team!

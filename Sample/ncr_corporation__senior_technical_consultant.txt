@@ -1,0 +1,44 @@
+Website: https://www.linkedin.com/jobs/view/3619346736
+
+Senior Technical Consultant
+
+About NCR
+
+NCR Corporation (NYSE: NCR) is a leading software- and services-led enterprise provider in the financial, retail and hospitality industries. NCR is headquartered in Atlanta, Georgia, with 36,000 employees globally. NCR is a trademark of NCR Corporation in the United States and other countries.
+
+Summary: We are the global leader in payment industry. Our hardware (Self Service Machines) and software (POS and payment solutions) cross sell extensively to retail and hospitality segments. Incumbent will be involved in development project to design software for ATM's and POS terminals. Analysis, design and development to Authentic software products, and implementation of client projects.
+
+Key Responsibilities
+
+ * Assist in gathering of user requirements from clients.
+ * Document design specifications for discussion with the Product Management team.
+ * Develop enhancements or corrections to software according to approved designs and following industry best practices and company standards and quality procedures.
+ * Assist in documentation where relevant.
+ * Provide 24x7 maintenance support to clients (when rostered).
+ * Implement client projects within budgeted timeframes and costs.
+ * Assist in any ad-hoc projects and tasks as assigned.
+   
+   
+
+Qualification and Desired work experience
+
+ * Diploma or Degree in Information Technology or related discipline.
+ * At least 5 years working experience using Java programing language.
+ * Should have basic SQL knowledge.
+ * Should possess good logical thinking and analytical skills.
+ * Proven skills in the implementation of significant Java-based product development.
+ * A rigorous and thorough approach to quality.
+ * Candidates from a payments systems environment, or from a product vendor background or from a strong background working with concurrency will have an advantage.
+ * Excellent communication skills in English.
+   
+   
+
+Offers of employment are conditional upon passage of screening criteria applicable to the job.
+
+EEO Statement
+
+Integrated into our shared values is NCR's commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment without regard to sex, age, race, color, creed, religion, national origin, disability, sexual orientation, gender identity, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment.
+
+Statement to Third Party Agencies
+
+To ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.

@@ -1,0 +1,46 @@
+Website: https://www.linkedin.com/jobs/view/3501488757
+
+Network Engineer
+
+
+Resolve second and third level incident tickets on LAN/WAN, Firewall, Proxy services/systems. This includes escalations and complex tickets involving P1 tickets and VIP users.
+
+Collaborate with the other support teams to resolve incidents; service request and change; servers, storage and backup team, security team, service assurance, WPS/site IT and application owner.
+
+Support the resolution of problem tickets, analyze the root cause, identify, and implement the permanent solution.
+
+Work on change tickets and change task (both break/fix and non-break/fix changes). Represent Network team in CAB meeting.
+
+Perform capacity planning and craft proposals on the recommended change initiatives. Monitor the network devices/systems capacity and perform the necessary tuning to keep them running at optimal levels.
+
+Work on assigned project tasks within timeline. Join project meetings with clients and internal support team. Act as project engineer for migration activities.
+
+Perform network/systems health check. Perform preventive housekeeping and maintenance tasks such as device patching, health check, reporting and security remediations scheduled or when required.
+
+Participate in disaster recovery plans and testing.
+
+
+Diploma/Bachelor's degree holder in Computer Sciences, Networking and/or qualified IT-related certifications e.g., ITIL/CCNA/CCNP (preferred)
+
+Preferred technical certifications (not compulsory) include the following:
+
+Network: CCNA / CCNP Routing & Switching, Cloud, or
+
+Security: CCNP Security, or Check Point Certified Security Administrator (CCSA)
+
+Data Center: CCNA Data Center, Dell EMC Storage (PS/SC Series Storage), or NetApp Certified Data Administrator
+
+Customer Experience: CCNP Voice, or Avaya Implementation Professional Specialist
+
+Has at least 4 to 5 years of experience in related network support operations in a professional services environment.
+
+Working knowledge of LAN/WAN, Firewall and Proxy services and related support operations.
+
+Able to support network devices under Cisco / Cisco ACI, Juniper, Aruba wireless, Mikrotik, Checkpoint, Bluecoat proxy and Citrix Netscaler.
+
+Familiar with ITIL concepts and its applications.
+
+Has prior experience in providing remote support for other countries.
+
+Must be able to write, read and communicate fluently in Mandarin (compulsory for China Support) or Bahasa Indonesia (compulsory for Indonesia support).
+

@@ -1,0 +1,44 @@
+Website: https://www.linkedin.com/jobs/view/3501493309
+
+Magento Developer - Architect Copy 05
+
+Design, build and configure applications to meet business process and application requirements. Work with the platform technologies and languages such as PHP, graphql, HTML, CSS, JavaScript, and REST/API services. - Customize the platform's storefront accelerator to build fully functioning e-commerce sites on desktop, tablet, and mobile devices - All code must conform to platform-specific & industry-leading practices.
+
+Key Responsibilities:
+
+Demonstrated ability to understand technical documentation such as functional requirements and technical designs and translate these documents into working code.
+
+Demonstrated ability to debug and troubleshoot issues with both existing and new code on the Magento Commerce platform
+
+Develop Digital Consumer experiences based on a foundation of Magento commerce
+
+Develop awesome features such as product search, order management, promotions, store locator, social ecommerce etc
+
+Setup Magento development environments and sandboxes
+
+Develop and deploy simple custom CMS components
+
+Diagnose and solve technical problems related to commerce and Magento implementation
+
+Write application code that exceeds the defined quality standards
+
+Knowledge of project and collaboration tools such as JIRA, Rally, Microsoft Teams, Confluence, and SharePoint.
+
+3-4yrs of Magento commerce development experience
+
+Solid understanding of Magento Commerce architecture. Fastly, Redis, Database, Search, MCOM etc
+
+Knowledge expertise in Magento version 2 is required and should have experience in implementing supporting Magento B2C, B2B applications
+
+Good in Object Oriented Programming concepts, MVC architecture
+
+Magento Expertise - basic concepts configurations, DB schema, Theming Layouts
+
+JavaScript/JQuery, MySQL, CSS, HTML5, Bootstrap, PHPUnit, Web services
+
+Good communication and team handling skills
+
+Good analytical and presentation skills
+
+Knowledge on software architecture and multiple project methodologies: waterfall, agile, Scrum, et al.
+

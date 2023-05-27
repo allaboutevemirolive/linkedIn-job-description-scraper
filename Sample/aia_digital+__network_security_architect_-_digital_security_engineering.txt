@@ -1,0 +1,43 @@
+Website: https://www.linkedin.com/jobs/view/3615442768
+
+Network Security Architect - Digital Security Engineering
+
+At AIA we’ve started an exciting movement to create a healthier, more sustainable future for everyone.
+
+As pioneering innovators for over 100 years, we’re now transforming our organisation to be faster, simpler and more connected. Because we want to be even better equipped to develop digital solutions and experiences that help more people live Healthier, Longer, Better Lives.
+
+To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhanced experiences that will impact the lives of millions of people and create a healthier future for everyone.
+
+If you believe in developing a better tomorrow, read on.
+
+About The Role
+
+Network Security Engineer - Digital Security Engineering
+
+ * Responsible for designing or reviewing Network Security under a hybrid infrastructure (on prem and cloud)
+ * Assist in the strategy, standards, compliance and architecture of the Security operations and architecture.
+ * Be the technical lead to onboard new security technologies or expand the capabilities of existing systems.
+ * Able to drive projects, devise what needs to be done and ensure it is executed. The position will not be the actual doer operating platforms yet need to direct objectives.
+   
+   
+
+Job Requirements
+
+ * Minimum 5 years of experience in Network Security with a focus on architecture
+ * Practical experiences as Network administrator
+ * Practical experience in Network Security
+ * Extensive knowledge of Network Security under Microsoft Azure cloud environment
+ * Good experience or understanding of concepts such as micro segmentation, managed devices, Network protocols, Zero Trust, Access management, Firewall, IPS, VPN, Web proxy, other Network Security devices
+ * Able to discuss with service providers
+ * Able to evaluate business requests and propose designs to determine feasibility.
+ * Experience in designing Security controls or usecases for logs of network security devices
+ * Practical experiences in managing devices such as Firewall, IPS, Routers from various network solutions providers (though the position will no need to actually operate them)
+ * Good English communication skills
+ * Bachelor’s degree in Computer Science, Computer engineering, Information Systems or a related field
+ * Network certification
+   
+   
+
+Build a career with us as we help our customers and the community live Healthier, Longer, Better Lives.
+
+You must provide all requested information, including Personal Data, to be considered for this career opportunity. Failure to provide such information may influence the processing and outcome of your application. You are responsible for ensuring that the information you submit is accurate and up-to-date.

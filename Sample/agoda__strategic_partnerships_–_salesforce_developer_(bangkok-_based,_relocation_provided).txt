@@ -1,0 +1,94 @@
+Website: https://www.linkedin.com/jobs/view/3535002144
+
+Strategic Partnerships – Salesforce Developer (Bangkok- based, relocation provided)
+
+About Agoda
+
+
+
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+
+
+
+The Opportunity:
+
+
+
+
+Salesforce Developer will get to be a part of Agoda’s Strategic Partnerships (SP) team, which drive partnership initiatives to scale and drive growth of 3 brands: Agoda, Booking.com and Rocketmiles.com. You will join an expanding team where you will design the CRM landscape for Strategic Partnership team, allowing them to serve both Agoda, Rocketmiles.com and Booking.com products to our strategic partners. The role will require you to work across multi-functional teams, including teams from Agoda’s sister company, Booking.com. You will have plenty of opportunities to learn from a multi-cultural team and top talents across the world. We’re looking for future leaders who think critically, test, learn from mistakes, and adapt quickly.
+
+
+
+
+This position is based in Bangkok, Thailand.
+
+
+
+
+In this Role, You’ll Get to:
+
+
+
+
+ * Create a roadmap and build a holistic Salesforce CRM to support the Strategic Partnerships growth 3 brands: Agoda, Booking.com and Rocketmiles.com
+ * Work with stakeholders to define business requirements, translate the requirements into detailed technical specifications that result in effective, scalable, and reliable solutions
+ * Lead the implementation, optimization, and maintenance of Salesforce CRM
+ * Perform code reviews and identify opportunities to optimize technical workflow
+ * Design reports and dashboards that provide necessary information for business users and leaderships to make business decisions effectively are effective in giving recommendations to business users
+
+
+
+
+What You’ll Need to Succeed:
+
+
+
+
+ * At least 5 years of experience developing custom solutions on the Salesforce platform using Apex Classes, Apex Triggers, Visualforce Pages, and Lightning Components
+ * Experience with Salesforce page layouts, profiles, permissions, workflows, and approval processes.
+ * Knowledgeable of all levels of the SDLC and all testing phases.
+ * Experience working with and writing intermediate to advanced queries in relational databases (SOQL, SQL, etc.)
+ * Experience working with Salesforce APIs and Web Services (REST, SOAP)
+ * Experience with data migration and system integration techniques
+
+
+
+
+It’s great if you have:
+
+
+
+
+ * Project management experience
+ * Experience with operations or process optimization
+ * Experience with Partnerships or Travel Industry
+ * Team management experience
+
+
+
+
+#bangkok #manila #kualalumpur #hcmc #hanoi #ANLS #IT #salesforce #2 #3 #4
+
+
+
+
+Equal Opportunity Employer
+
+
+
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+
+
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+
+
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+
+

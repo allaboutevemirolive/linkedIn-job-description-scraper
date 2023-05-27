@@ -1,0 +1,55 @@
+Website: https://www.linkedin.com/jobs/view/3597359277
+
+Senior Software Tester
+
+
+As a Senior Software Tester at Deriv, you’ll ensure the reliability of our applications by identifying our business requirements and engaging in the quality control of our software from the product development to deployment stage. Your strong automation proficiency and excellent critical and analytical skills are crucial in delivering the best version of every product: optimised, functional, and agile.
+
+Our team
+
+You’ll be part of our Quality Assurance team, where we safeguard the quality, stability, and usability of our products. We work directly with developers and product designers to ensure that our clients always get the best trading experience.
+
+Your challenges
+
+ * Champion continuous software quality improvement by executing manual and automated tests on our websites, applications, back-end infrastructure, and systems.
+ * Detect bugs in our product lifecycle, implement automated testing frameworks, and develop comprehensive tests to integrate into the build pipeline by using Selenium or Robot Framework.
+ * Drive innovation by developing and performing detailed, comprehensive, and well-structured test plans based on system requirements.
+ * Ensure third-party data is accurately interpreted and processed by testing third-party APIs on our platforms.
+ * Increase our product quality by designing, maintaining, and creating test scripts to address critical areas such as software scenarios, regression testing, error or bug retests, and negative testing.
+ * Drive knowledge transfer and consistency by updating and documenting internal processes and manual guides of the Quality Assurance team.
+ * Assist the team lead to define automation strategy and share your product knowledge with the Customer Support team.
+   
+   
+
+Requirements
+
+ * Bachelor’s degree in computer science, or an equivalent combination of technical education, training, and work experience
+ * Ability to write high-quality, self-documenting code using test-driven development techniques
+ * Experience in designing and executing test plans (both automated and manual)
+ * Experience with agile development methods such as Scrum or Kanban
+ * Strong knowledge of version control systems, preferably Git.
+ * Extensive knowledge of continuous integration testing
+ * Passion for Linux and other open-source platforms
+ * Excellent spoken and written English communication skills
+   
+   
+
+What’s Good To Have
+
+ * Experience in automation testing frameworks such as Robot Framework and Selenium
+ * Experience with PostgreSQL or another RDBMS
+ * Extensive knowledge of JavaScript, AJAX, JSON, CSS
+ * Experience in performance and load testing
+ * Proficiency with one or more programming languages, preferably Perl, but we also accept Python, PHP, C/C++
+   
+   
+
+Benefits
+
+ * The best workplace you can possibly imagine, a gorgeous 5-storey building including a rooftop garden, a gym, squash court, yoga room, barbecue pit, jam studio, and a lot more!
+ * A chance to work with top talent from across the globe (55+ nationalities)
+ * Ample team-building and bonding activities
+ * Great verseas travel opportunities
+ * Competitive salary, annual performance bonus, and retirement plan
+ * A range of health benefits
+ * Casual dress code

@@ -1,0 +1,96 @@
+Website: https://www.linkedin.com/jobs/view/3611152119
+
+Senior Software Engineer
+
+Getting onboard Razer will place you on a global mission to revolutionize the way the world games. Razer is a place to do great work, offering you the opportunity to make an impact globally while working across a global team located across 5 continents. Razer is also a great place to work, providing you the unique, gamer-centric #LifeAtRazer experience that will put you in an accelerated growth, both personally and professionally.
+
+
+
+
+Job Responsibilities
+
+
+
+
+We are seeking a highly skilled Senior Software Engineer with extensive experience in LAMP stack (Linux, Apache, MySQL, and PHP) and expertise in developing payment gateway applications, integrating payment channels, implementing payment modules, creating and maintaining APIs. As a Senior Software Engineer, you will be responsible for leading the development and deployment of payment gateway systems, collaborating with cross-functional teams, and delivering high-quality solutions that meet business requirements.
+
+
+
+
+Key Responsiblities
+
+
+
+
+ * Develop, test and deploy payment gateway applications and modules using LAMP stack (Linux, Apache, MySQL, and PHP) technologies
+ * Integrate payment channels such as credit/debit cards, Google Pay, Apple Pay, and others payment gateway
+ * Design and implement APIs for payment processing and ensure proper documentation and maintenance of the APIs
+ * Collaborate with cross-functional teams to understand business requirements and provide technical solutions that meet those requirements
+ * Work with third-party vendors and service providers to ensure seamless integration of payment systems
+ * Troubleshoot and resolve issues related to payment processing, including transaction failures, chargebacks, and refunds
+ * Develop and implement security protocols to ensure the safe and secure processing of payments and protect sensitive data
+ * Mentor and provide technical guidance to junior developers
+ * Continuously updating knowledge of new technologies and industry trends to ensure the software applications are up-to-date and competitive
+ * Other duties as assigned
+
+
+
+
+Requirements
+
+
+
+
+ * Bachelor's degree in Computer Science or a related field
+ * 5+ years of experience in software development, with a focus on LAMP stack (Linux, Apache, MySQL, and PHP)
+ * Extensive experience in developing web applications using the LAMP stack (Linux, Apache, MySQL, and PHP) and related technologies such as HTML, CSS, JavaScript, and jQuery
+ * Strong understanding of software development best practices and design patterns
+ * Experience with Agile development methodologies
+ * Experience with Laravel framework
+ * Experience with Git development tool
+ * Excellent communication skills and ability to collaborate with cross-functional teams
+ * Ability to create project timelines, estimate project tasks and resources, and track progress
+ * Ability to troubleshoot and debug complex software applications
+ * Strong analytical skills and ability to break down problems and find solutions
+
+
+
+
+Pre-Requisites
+
+
+
+
+ * Bachelor's degree in Computer Science or a related field
+ * 5+ years of experience in software development, with a focus on LAMP stack (Linux, Apache, MySQL, and PHP)
+ * Extensive experience in developing web applications using the LAMP stack (Linux, Apache, MySQL, and PHP) and related technologies such as HTML, CSS, JavaScript, and jQuery
+ * Strong understanding of software development best practices and design patterns
+ * Experience with Agile development methodologies
+ * Experience with Laravel framework
+ * Experience with Git development tool
+ * Excellent communication skills and ability to collaborate with cross-functional teams
+ * Ability to create project timelines, estimate project tasks and resources, and track progress
+ * Ability to troubleshoot and debug complex software applications
+ * Strong analytical skills and ability to break down problems and find solutions
+
+
+
+
+Preferred
+
+
+
+
+ * Experience with Testing modules in Laravel framework
+ * Familiarity with CI/CD pipelines and DevOps principles
+ * Experience with PCI DSS compliance and security protocols
+ * Experience with Docker container
+ * Familiarity with AWS or other cloud-based infrastructure
+ * Knowledge of other programming languages such as Python, .NET, or Java
+ * In-depth knowledge of payment gateway APIs and payment channels
+ * Proven track record of developing and deploying complex payment gateway systems
+
+
+
+
+Are you game?

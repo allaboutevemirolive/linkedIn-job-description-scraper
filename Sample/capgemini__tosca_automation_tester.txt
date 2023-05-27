@@ -1,0 +1,53 @@
+Website: https://www.linkedin.com/jobs/view/3419657011
+
+Tosca Automation Tester
+
+About Capgemini:
+
+Capgemini is a global leader in consulting, digital transformation, technology and engineering services. The Group is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong 50-year+ heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people. Today, it is a multicultural company of 350,000 team members in almost 50 countries. With Altran, the Group reported 2019 combined revenues of €17billion.
+
+
+
+Responsibilities:
+
+ * Identify issues in requirements, design specifications, application architecture and product documentation.
+ * Develop test specifications based on various requirement documents within schedule constraints.
+ * Develop test bed and verify test environments (based on project requirements).
+ * Perform functional and technical test execution activities (automated testing, where applicable) as per project engagement.
+ * Constant communication and follow up with various stakeholders during test planning and execution phases.
+ * Log software application defects (in standard defect management tools) and track it to closure.
+ * Report and update test status promptly and accurately.
+
+
+
+
+Process and Compliance
+
+ * Good understanding and able to apply test processes laid down within GTM, and/or standards as defined by project.
+ * Comply with the software quality management practices and policies (defined by QMF).
+
+
+
+
+Customer and Service Focus
+
+ * Responsive to customer and project needs, as well as managing customer expectations.
+ * Establish a close working rapport with project team to understand issues and risks underlying the project.
+
+
+
+
+Must Have
+
+1. Automation Testing Skills (Tosca)
+
+2. Good to have Banking domain knowledge
+
+3. Test execution, Test Management
+
+
+
+
+Capgemini Offers:
+
+Our company culture is based on 7 shared values. Honesty and trust allow collaboration; team spirit and modesty sustain it; and the resulting creative freedom and boldness lead to quality results –especially when infused with a sense of fun In addition to an interesting remuneration package, we offer you a professional and international work environment where you will work on major projects. We provide you with intense professional development and stretch you as much as needed to put your skills into action, learn and progress

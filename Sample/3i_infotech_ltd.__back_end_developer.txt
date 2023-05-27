@@ -1,0 +1,51 @@
+Website: https://www.linkedin.com/jobs/view/3616397081
+
+Back End Developer
+
+Back End Developer (Only Local Malaysian can apply)
+
+
+
+
+Job Details :-
+
+ * Bachelor or Master’s degree in Computer Science / engineering or equivalent, Relevant Certification
+ * 8 years of experience in enterprise software development
+ * Extensive application development experience with clear understanding of digital solutions for banking and Consumer Banking businesses
+ * Experience in adopting tools for development during code review, build/packaging process and etc.
+ * Experience in solving complex problems with a high-level of understanding of technical specification
+ * Experience working in a collaborative multi-disciplinary and matrixed environment
+ * Design and Development experience, with OOD/MVC design, Java/J2EE, web services, RESTFul API, JSON, XML, Linux/Unix development tools, scripting languages Python, Perl, JavaScript.
+ * Development experience with AngularJS, NodeJS, Typescript, Cordova hybrid mobile application framework, Firebase.
+ * Solid understanding of RDBMS data models. More than one database knowledge is essential.
+
+Technical/Functional skills
+
+ * Full stack development experience is highly regarded
+ * Hands on experience on Java/J2EE, web services, RESTFul API, JSON
+ * Hands on experience on AngularJS single page application development, Cordova mobile application frameworks and hybrid mobile application development
+ * Expertise in Spring framework and Hibernate ORM.
+ * Hands on experience integrating with ESB and enterprise systems via synchronous, asynchronous, online, and offline patterns.
+ * Experience with IBM WebSphere
+ * Strong understanding of RDMS (IBM DB2, Oracle, MySQL)
+ * Good understanding of web and mobile front-end technologies
+ * Good understanding of digital banking UX
+ * Working experience with CI/CD tool chain
+ * Strong experience in DevOps tools
+ * Microservice and Kubernetes experience will be added advantage
+ * Experience building digital banking or eCommerce apps
+ * Agile and Waterfall project experience
+
+Personal skills (Soft Competencies [Core/Leadership])
+
+ * Self-starter and motivated with ability to work in a fast-paced Rapid Application Development environment. Ability to handle multiple development tasks and assignments simultaneously
+ * Skilled in communicating complex information with business and technical stakeholders as appropriate
+ * Strong collaboration and teamwork skills
+ * Result-focused with critical and strategic viewpoints
+ * Team Leading/Coaching
+ * Customer and Service Oriented
+ * Stakeholder Management
+ * Change Management
+ * Troubleshooting, Investigation and Diagnostic
+ * Analytical/Problem Solving
+

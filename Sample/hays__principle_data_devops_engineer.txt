@@ -1,0 +1,52 @@
+Website: https://www.linkedin.com/jobs/view/3616369401
+
+Principle Data DevOps Engineer
+
+Your new company
+
+Your new company is one of Malaysia's largest financial utilities' providers whose product portfolio helps banks across the country provide instant transfers and is working towards an improved Malaysian GDP.
+
+
+
+
+Your new role
+
+in your new position you will be creating an environment for data pipelines, data analysis and data governance to be easily accessed by the greater company allowing for easy data ingestion and warehousing, utilising AWS Services such as Apache Kafka, S3, Glue, to intake from different databases such as SQL or MySQL and Oracle.
+
+
+
+
+What you'll need to succeed
+
+To succeed in this position you will need in depth experience in the following:
+
+ * AWS Services such as Kafka, S3 or Glue
+ * Strong database management skills with SQL or MySQL and Oracle.
+ * Familiarity with Change Data Capture practices and mechanisms
+ * Understanding of ETL processes
+
+
+
+
+Additionally, an open mindset, willingness to learn and ability to articulate thoughts and concepts will be critical to the position as you will be interacting with many members of the team
+
+
+
+
+What you'll get in return
+
+ * Hybrid working arrangements
+ * Transportation allowance
+ * 16% EPF contributions
+ * 21 days Annual Leave
+ * Opportunities to gain certifications
+ * Medical insurance
+ * Dental coverage
+ * Optical coverage
+
+
+
+
+What you need to do now
+
+If you're interested in this role, click 'apply now' or call 603-7611-8680 for a confidential consultation call.

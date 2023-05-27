@@ -1,0 +1,63 @@
+Website: https://www.linkedin.com/jobs/view/3501492384
+
+Application Development Analyst (Digital Banking)
+
+About Accenture
+
+Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Interactive, Technology and Operations services—all powered by the world’s largest network of Advanced Technology and Intelligent Operations centres. Our 506,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at www.accenture.com.
+
+Application Development Analyst (Digital Banking)
+
+Join Accenture and help transform leading organizations and communities around the world. The sheer scale of our capabilities and client engagements and the way we collaborate, operate and deliver value provides an unparalleled opportunity to grow and advance. Choose Accenture and make delivering innovative work part of your extraordinary career.
+
+Technology moves at a breakneck pace. Today’s new breakthrough is tomorrow’s obsolete solution. Are you just bystanders watching it all go by or are you leveraging your expertise to help clients innovate grow and improve their operations?
+
+Accenture Technology delivers everything from point solutions for a single business function to large, long-term outsourcing services and complex systems integration installations spanning multiple businesses and functions. Join us and become an integral part of our experienced Technology team with the credibility, expertise and insight to help our clients become high-performing organizations.
+
+Job Description
+
+
+Responsible for end-to-end software development and support for all work transitioned from Group (which could be projects, quarterly change requests, L3 production fixes). This includes analysis and design to development, implementation, testing and support.
+
+Responsible for quality assurance of the team delivery in conformance to the Bank-defined software delivery methodology and tools.
+
+Partner closely with the Group domain team to plan and manage transitioned deliverables
+
+Devops, Agile practices, and Management reporting knowledge/experience
+
+Good to have experienced working in Banking Industry.
+
+Devops, Agile practices, and Management reporting knowledge/experience
+
+To serve as Senior Level 3 Support Lead
+
+Backend development - Java, Spring, Spring Boot, Spring Batch
+
+Good to have skills: Oracle Database, J2EE, JSP, Weblogic Portal, Unix, SQL, XML, Agile, DevOps
+
+Frontend development – Web and/or Mobile development – React, React Native, JavaScript, TypeScript
+
+Good to have skills: CSS, UI, HTML, CMS, TeamSite (LSCS, LSDS), Angular, Native mobile development, Agile, DevOps
+
+Domain-Specific / Technical Skills
+
+Hands on knowledge of backend / server side development (Java) & infrastructure
+
+Experience is setting up & Managing Agile Software development teams
+
+Experience/knowledge of DevOps, CICD, Agile Tooling
+
+Experience in service management/production support
+
+Platform / Product: Digital Bank / Digital Banking / Infinity Digital Banking
+
+Server / Database: Oracle
+
+Language: J2EE, JSP, React JS, JS, CSS, XML, SQL, Unix Scripting
+
+OS: HPUX, Linux, Solaris
+
+You will also have opportunities to hone your functional skills and expertise in an area of specialization. We offer a variety of formal and informal training programs at every level to help you acquire and build specialized skills faster. Learning takes place both on the job and through formal training conducted online, in the classroom, or in collaboration with teammates. The sheer variety of work we do, and the experience it offers, provide an unbeatable platform from which to build a career.
+
+Accenture is an equal opportunities employer and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, or any other basis as protected by applicable law.
+

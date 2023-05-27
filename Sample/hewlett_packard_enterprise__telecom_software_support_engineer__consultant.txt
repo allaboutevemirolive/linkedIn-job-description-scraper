@@ -1,0 +1,148 @@
+Website: https://www.linkedin.com/jobs/view/3612340337
+
+Telecom Software Support Engineer / Consultant
+
+This role has been designated as ‘Edge’, which means you will primarily work outside of an HPE office.
+
+
+
+
+Job Description
+
+
+
+
+Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyse, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know diverse backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.
+
+
+
+
+Our Communications Technology Group (CTG, Introducing the Hewlett Packard Enterprise Communications Technology Group | HPE) business brings digital transformation expertise of over 30 years to telecommunications and media companies. We help communication service providers solve their most pressing business problems every day. We are driven to innovate, delivering solid solutions to an industry in constant transformation. We believe in the power of collaboration and building long term relationships with our telecommunication customers and partners.
+
+
+
+
+Act – Innovate – Partner are the values we live by.
+
+
+
+
+We are looking for a Telecom Software Customer Support Consultant / Engineer you will provide technical product support on CTG OSS products to Worldwide customers, HPE delivery teams and resellers, system integrators via incoming customer contact to HPE Customer Solutions Centers that focus on solutions for OSS Assurance software products. You will focus on achieving industry leading customer satisfaction and loyalty through delivery of high level technical consulting to our customers (hardware or software issues). If you have a track record in a similar role, want to be part of a business that is growing—with great opportunities, and are ready for your next role, then please apply today.
+
+
+
+
+What You Will Be Doing
+
+
+
+
+ * You will be part of a CTG Worldwide Customer Experience and Support organization
+ * You will work in the Product support team that provides support to HPE CTG OSS Products and Solutions internal and external customers by:
+ * Taking ownership and accountability in managing cases and customer situations using trouble tracking tools like SFDC.
+ * Troubleshooting & resolving the incidents and problem tickets within SLA/SLO.
+ * Working on complex problems / projects, performing troubleshooting and diagnosis of complex issues in the HPE Operations Support Systems [OSS] Assurance Products (such as HPE vTeMIP, UCA, UOC, UMB, USLAM, INT-A, AA, etc.; more information can be found under these links: Telecom Operations, Network Automation, OSS & BSS Solutions | HPE, and https://www.hpe.com/us/en/collaterals/collateral.a00054139.HPE-OSS-Assurance-solutions-brochure.html?rpv=cpf&parentPage=/us/en/solutions/telecom-network-automation )
+ * Supporting the root cause analysis process, and ensuring remediation of major issues, development, testing and delivery of workaround and fixes.
+ * Partnering with HPE Product Development and Product / Solution Implementation teams in providing a fast and verified solution back to the customer.
+ * Working with other Product support team members and Product development for HPE product supportability improvements, Product innovation and SaaS readiness
+
+
+
+
+About You
+
+
+
+
+ * You have Software solutions delivery, operations and maintenance, Enterprise software product support or R&D background, preferably with experience in the OSS Assurance, Fulfilment or Orchestration Products
+ * You have UNIX (Linux, Solaris, HP-UX, AIX, etc.) and Kubernetes-based systems experience, SQL and no-SQL (Oracle, EDB, Impala, Neo4j etc.), Java, C/C++, other development languages skills, log analysis and troubleshooting knowledge, enterprise product support, IT systems administration, deployment or integration experience.
+ * You are familiar with DevOps, Agile SW development and implementation methodology and tools (like Jenkins, GitHub, etc. )
+ * You have Software, Computer Systems, or Telecommunications related or similar educational background, or working experience, and B.Sc. or higher degree and at least 5+ years on-job experience
+ * You are problem solver, eager to lean new technologies and solutions, have ability to comprehend complex systems, have passion for innovate-on-the-job.
+ * You are self-motivated and self-organized, problem solver and a quick learner,
+ * You have good written and verbal communication (in English), customer interaction skills, and have strong teamwork mindset and are motivated to help / guide others.
+
+
+
+
+Join us and make your mark!
+
+
+
+
+We Offer
+
+
+
+
+ * A competitive salary and extensive social benefits
+ * Diverse and dynamic work environment
+ * Work-life balance and support for career development
+ * An amazing life inside the element! Want to know more about it?
+
+
+
+
+Then let’s stay connected!
+
+
+
+
+https://www.facebook.com/HPECareers
+
+
+
+
+https://twitter.com/HPE_Careers
+
+
+
+
+HPE Careers (@hpecareers)
+
+
+
+
+ * Instagram photos and videos
+
+
+
+
+HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT and Affirmative Action employer. We are committed to diversity and building a team that represents a variety of backgrounds, perspectives, and skills. We do not discriminate and all decisions we make are made on the basis of qualifications, merit, and business need.
+
+
+
+
+#malaysia
+
+
+
+
+Job
+
+
+
+
+Services
+
+
+
+
+Job Level
+
+
+
+
+Expert
+
+
+
+
+Hewlett Packard Enterprise is EEO F/M/Protected Veteran/ Individual with Disabilities.
+
+
+
+
+HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.
+
+

@@ -1,0 +1,52 @@
+Website: https://www.linkedin.com/jobs/view/3597540657
+
+Senior Associate, Backend Engineer
+
+WHY JOIN US?
+
+ * We practise a vibrant & energetic office culture.
+ * We provide opportunities for career advancement within the company.
+ * Good performance is always rewarded accordingly.
+   
+
+Job Responsibilities
+
+What you will do:
+
+ * Compile and analyse data, processes, and codes to troubleshoot problems and identify areas for improvement.
+ * Collaborating with the front-end, mobile developers and other team members to establish objectives and design more functional, cohesive codes to enhance the user experience.
+ * Write code and tests, build prototypes, resolve issues, and profile and analyse bottlenecks.
+ * Design robust APIs to support mobile and web site.
+ * Optimize web applications for performance and scalability.
+ * Developing ideas for new programs, products, or features by monitoring industry developments and trends.
+ * Recording data and reporting it to proper parties, such as clients or leadership.
+ * Produce quality code, investigate performance of the APIs.
+ * Writing reusable, testable, and efficient code.
+ * Implementation of security and data protection.
+   
+
+Requirements
+
+Who you are:
+
+ * Fluency in Node.js and SME in Back End Development
+ * Extensive knowledge of JavaScript, web stacks, libraries, and frameworks.
+ * Assisting with the design and evolution of their DevOps tooling.
+ * Amazon Web Services, in particular AWS Lambda, DynamoDB, EKS, RDS & cost optimisation.
+ * Must have good knowledge in RDBMS such as MySQL
+ * Must have experience on development, UAT and production deployments in AWS cloud.
+ * Must have good understanding of CI/CD, pipelines setup.
+ * Strong understanding and good experience in web development cycle and programming techniques and tools.
+ * Focus on efficiency, user experience, and process improvement.
+ * Excellent project and time management skills.
+ * Proficient understanding of code versioning tools, such as Git.
+ * Knowledge of front-end technologies such as HTML and CSS.
+ * Ability to work independently and as a team player.
+ * Passion for leading and coaching juniors and knowledge sharing
+ * Experience working within an Agile environment.
+ * Good to have knowledge in Kentico CMS is a plus.
+ * Excellent communication and problem solving skills, with the ability to work in partnership with both business and technology teams.
+ * Proactive and truly passionate about technology.
+   
+
+It’s our people that make Astro Malaysia’s leading entertainment company. That’s why we work hard to be an inclusive employer, so everyone at Astro can be their best.

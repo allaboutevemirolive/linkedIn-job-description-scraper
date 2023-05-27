@@ -1,0 +1,35 @@
+Website: https://www.linkedin.com/jobs/view/3613000903
+
+Nodejs Developer
+
+As a Senior NodeJS/ReactJS Developer, you must have the following key skills:
+
+ * 3+ years of commercial experience in NodeJS and ReactJS
+ * Backend experience with Node.js/GraphQL
+ * Node.js + AWS + GCP
+ * Professional understanding of RESTful and SOAP APIs
+ * Document DB and Elastic Search in MongoDB
+ * Intimate understanding of Microservices and Microservice architecture
+ * Worked within an Agile team
+ * Good English communication skills – written, spoken and read
+
+
+
+It would be a bonus if you had some or all the following:
+
+ * Experience in the finance sector
+ * Experience working with e-commerce
+ * Worked with NextJS and/or NestJS
+ * Experience with Java Spring
+
+
+
+
+Benefits:
+
+ * Work from home: our entire company has worked virtually since inception. We have well-developed systems and processes to support remote work.
+ * Rapid Growth Business: our company is growing rapidly and there is opportunity to grow with our team.
+ * Excellent Team Culture and a positive, supportive environment. Relaxed, friendly vibe with a regional HQ.
+ * Above Market Rate Salary
+ * Slr up to 3.000 ($)
+

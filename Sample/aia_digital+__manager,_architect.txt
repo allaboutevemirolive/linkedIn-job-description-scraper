@@ -1,0 +1,47 @@
+Website: https://www.linkedin.com/jobs/view/3615443730
+
+Manager, Architect
+
+At AIA we’ve started an exciting movement to create a healthier, more sustainable future for everyone.
+
+As pioneering innovators for over 100 years, we’re now transforming our organisation to be faster, simpler and more connected. Because we want to be even better equipped to develop digital solutions and experiences that help more people live Healthier, Longer, Better Lives.
+
+To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhanced experiences that will impact the lives of millions of people and create a healthier future for everyone.
+
+If you believe in developing a better tomorrow, read on.
+
+WE ARE LOOKING FOR .....
+
+This person coordinates and facilitates the work with the help of software developers, system admins, and other IT staff members. They work with collaborated efforts to merge the jobs of developments, operations, testing, and deployment. He is responsible for end to end duties and responsibilities of the DevOps pipeline and DevOps life cycle management. Some of the roles and responsibilities of DevSecOps engineer include the following,
+
+Experience, And Licensing Requirements
+
+ * Use of Maven and Jenkins for the CI/CD DevOps pipeline process
+ * Hands-on experience with Operating scripting languages such as Ruby, Pearl, etc
+ * Great at working in a team and have excellent collaboration and communication skills.
+ * Experience with algorithms, computer engineering, cloud, containerization, etc
+ * Experience in the various cloud such as Azure, GCP, and AWS, etc
+ * Experience in DevOps tools for CI/CD pipeline and all the DevOps phases
+ * Experience in configuration management tools such as Ansible, Saltstack, and Puppet, etc.
+ * Experience in coding and scripting solutions such as bash, python and power shell, etc
+ * Experience in building VM's and containerization using Kubernetes and Docker etc
+ * Experience in automation of the tools and the DevOps phases
+ * Experience in agile software development such as C/C++, Java, and Python, etc.
+ * Excellent knowledge of Linux and Windows operating systems.
+ * Certification in DevOps is preferred
+   
+   
+
+Qualifications And Skills
+
+ * Able to collaborate and lead the team of developers, IT staffs, and system administrators
+ * Excellent problem-solving and troubleshooting skills
+ * Excellent process management and documentation skills
+ * Knowledge of best practices of development, testing, operations, production, deployment, and monitoring.
+ * Knowledge and certification in agile software development technologies and DevSecOps.
+   
+   
+
+Build a career with us as we help our customers and the community live Healthier, Longer, Better Lives.
+
+You must provide all requested information, including Personal Data, to be considered for this career opportunity. Failure to provide such information may influence the processing and outcome of your application. You are responsible for ensuring that the information you submit is accurate and up-to-date.

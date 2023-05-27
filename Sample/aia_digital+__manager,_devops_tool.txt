@@ -1,0 +1,49 @@
+Website: https://www.linkedin.com/jobs/view/3615446331
+
+Manager, DevOps Tool
+
+At AIA we’ve started an exciting movement to create a healthier, more sustainable future for everyone.
+
+As pioneering innovators for over 100 years, we’re now transforming our organisation to be faster, simpler and more connected. Because we want to be even better equipped to develop digital solutions and experiences that help more people live Healthier, Longer, Better Lives.
+
+To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhanced experiences that will impact the lives of millions of people and create a healthier future for everyone.
+
+If you believe in developing a better tomorrow, read on.
+
+WE ARE LOOKING FOR .....
+
+GE&D – Delivery’s value lies in maximising the business benefits to AIA Group, by optimising its investment in transformational change. This will be underpinned by being attentive to the Voice of the Customer (VoC), the establishment and embedment of robust but sensible governance, and a talented group of people and business leaders who are collaborative, who are committed to continued excellence in thought leadership and in delivery, and who demand continual improvement of self and others.
+
+Roles And Responsibilities
+
+ * Establish and maintain a globally deployed, supported and standard DevSecOps toolsets that includes Atlassian suite of products, Azure DevOps, Jenkins, GitHub, Miro and others which may be assess and approve in the future:
+ * Define, maintain, and own the process & procedures for subscriptions creation & user management
+ * Track and manage required licenses purchase, renewal by engagement with respective subscription owners
+ * Ensure required budget and forecast exercise with respective business units are conducted following the budget cycle plan or as required on ad-hoc basis
+ * Implement improvements to ensure security risk and compliance issues are addressed
+ * Drive incident, problem & change management related activities which has an impact to the scope of services at organization level
+ * Orchestrate and work with key vendors.
+ * Actively seek improvements to the team’s process.
+ * Actively participate in operational ITIL processes i.e. Incident, Change Management (CAB), Release Management, Problem Management, and Availability Management.
+   
+   
+
+Minimum Job Requirements
+
+Education – Degree holder in IT / Computer Science or equivalent discipline
+
+ * Experience managing Atlassian in an enterprise-wide organization; managing, controlling user access, subscription creations and product integration
+ * Sound knowledge in best practices in product governance and management
+ * Strong collaboration skills, with a demonstrated ability to work well as part of a team.
+ * Inquisitive, Flexibility, adaptability, and desire to learn new languages, tool and technologies.
+ * Strong analytical and troubleshooting skills.
+ * Ability to investigate and analyze information, and to draw conclusions.
+ * Strong verbal and written communication skills.
+ * Disciplined and structured and able to work under a fast-paced learning environment.
+ * Knowledge in one or more coding languages e.g. Java, Python is desirable
+   
+   
+
+Build a career with us as we help our customers and the community live Healthier, Longer, Better Lives.
+
+You must provide all requested information, including Personal Data, to be considered for this career opportunity. Failure to provide such information may influence the processing and outcome of your application. You are responsible for ensuring that the information you submit is accurate and up-to-date.

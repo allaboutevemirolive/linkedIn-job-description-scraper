@@ -1,0 +1,42 @@
+Website: https://www.linkedin.com/jobs/view/3618844096
+
+Data Scientist
+
+We are a fast-growing IT consultancy specialising in the transformation of complex global enterprises. We are looking for passionate and hardworking individuals, that to help deliver for our global customer base. We embrace the opportunities of the future and work proactively to make good use of technology. As you can imagine, this means that we have a vibrant and diverse mix of skills and people making our company a great place to work.
+
+We help global enterprises modernize their Data and Analytics landscapes using Azure. We are rapidly growing our Data Engineering & Science practice and looking for hard working passionate team members to join our exciting journey.
+
+We are looking to expand our current team and need experienced individuals who can lead our ongoing and upcoming projects in this space. You will be given significant training and development opportunities whilst working on projects for global household names.
+
+The data scientist is to provide his/her deep technical expertise in data science tools and methodologies both to shape the data strategy of the company and to provide actual solutions to business challenges.
+
+Key Responsibilities
+
+ * Work with business partners using a collaborative, agile approach to identify possible business opportunities and devise the appropriate modeling approach or framework.
+ * Develop mathematical, analytical, optimization and artificial intelligence or machine learning models to support evidence-based decision making. Ensure overall quality of data and solutions throughout the analytic development process.
+ * To fine tune those data modeling from time to time for better precision and accuracy.
+ * Refining data prediction model for demo, prototyping that leads to eventual productization.
+ * Implementing production ready solutions, with performance and robustness constraints.
+ * Work with other departments (IT and business) to ensure operational use of results and measure impacts on key business indicators.
+ * Design and qualifying processes for data gathering, storage, processing and integration.
+ * Liaison with Business and Data Engineering Units to support required data analysis.
+   
+
+Requirements
+
+ * Degree/Master in Computer Science, Mathematics, Statistics, Data Science or relevant education
+ * Familiar with big data platform e.g. Microsoft Azure
+ * Prefer candidates with 2-5 years of working experience
+ * AI/ML related
+ * Strong quantitative and analytical skills, with statistical knowledge
+ * Knowledge on Python
+ * Experience with visualization tool - Power BI
+ * Familiar with OpenAI application e.g. GPT-3
+ * Familiar with SAP ECC or S4
+ * Familiar with MLOps framework and methodology
+   
+
+BenefitsA career with us will give you a path towards progression and opportunities, with the current rate of growth we have dedicated time towards individual growth, recognizing individual contributions, filling the team with a strong sense of purpose along with providing a
+
+fun, flexible and friendly work environment.
+

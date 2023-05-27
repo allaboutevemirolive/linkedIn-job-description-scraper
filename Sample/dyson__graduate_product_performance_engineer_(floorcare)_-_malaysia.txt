@@ -1,0 +1,108 @@
+Website: https://www.linkedin.com/jobs/view/3596183544
+
+Graduate Product Performance Engineer (Floorcare) - Malaysia
+
+About Us
+
+
+
+
+Dyson is a global technology enterprise. We solve the problems others choose to ignore, with surprising new inventions that defy convention and simply work better. We’re driven by progress and thrive on the challenge of relentless improvement. We’re growing fast and our ambition is huge – more categories, more locations and more people.
+
+
+
+
+Our scale and rapid growth make Dyson rich in new opportunities. We value new ideas and diverse perspectives, so our people are trusted with real work and responsibility from the outset. You’ll develop fast and have the chance to move into different business areas and regions. And you’ll be part of a global network of like-minded people – a community that supports and learns from each other.
+
+
+
+
+At Dyson we’re obsessed with continuously making things better, pushing the boundaries of what others have defined as impossible. We do this by making products that solve real world problems using both novel technologies and established technologies, in new and innovative ways. Integrating these technologies into a product and ensuring that we are delivering market leading performance to our customers is a challenging job, and one that takes specialist skills. That’s where the Technology Development team comes in.
+
+
+
+
+About The Role
+
+
+
+
+We are looking for a Graduate Product Performance Engineer to join our Technology Development team, to support the key performance development of our new floorcare products.
+
+
+
+
+Working as part of a small team you will be responsible for the primary product performance which included Pick up and Separation Systems. You will be working alongside the design team to create new ways to measure and predict key performance parameters; and ensure that our technologies are up to meeting their ambitious targets. You will use a mixture of test, simulation, and engineering judgement to solve the problems that arise as we develop our technologies and products. You will work from the very early stages of a project, taking responsibility of development when the technologies leave the research stage, developing them to a feasible solution and then supporting our SEA counterparts to take them through to production.
+
+
+
+
+Some Of Your Tasks Could Include
+
+
+
+
+ * Identify and manage product/sub-assembly/part level challenges associated with product performance and resolve them successfully.
+ * Work side by side with the Design Manager and design engineering for allocated projects and provide technical consultancies and advice the dimension that critical to performance through system diagram.
+ * Conduct experiments or other relevant analysis methods and tools to develop and validate our understanding and solutions.
+ * Ability to identify risk and keep all stakeholders up to date on progress and status of allocated projects.
+ * Confidently and clearly present and articulate ideas to audience in both written and verbal communication.
+ * Drive analysis of data, ensure robust test methodology and conclusive proposals for timely delivery of solutions and verification report using basic competency in Matlab, Minitab, Excel and/or Python.
+ * Build and maintain effective working relationships with design engineers and broader cross teams at all levels.
+
+Our Graduate Programme
+
+
+
+
+Our graduate programme is designed to help you drive your career at Dyson with a two-year journey to help you grow both personally and professionally. We’ll help you to improve your knowledge and support your future career progression with workshops to give you baseline soft skills in addition to technical training. Our unique experiential journey provides a framework so you can reach your full potential with leadership talks, lunch-and-learns and more. You may have the opportunity to rotate into a variety of teams to support your professional development.
+
+
+
+
+About You
+
+
+
+
+Our graduate roles are competitive and delivering the next generation of Dyson technology is tough, so you will need to be:
+
+
+
+
+ * Graduating by August 2023
+ * Working towards or have achieved a bachelor’s or master’s degree in Mechanical or Mechatronic Engineering (other relevant engineering disciplines will be considered).
+ * A good working knowledge of the fundamentals of fluid dynamics, Air - Solid separations and physics.
+ * A sound understanding of experimental methods and processes, particularly regarding pressure, flow measurement techniques.
+ * A good understanding of the principles and application of CFD methods.
+ * A good working knowledge of commercial CAD tools, preferably NX.
+ * A good working knowledge of Matlab or any other adequate analysis tools.
+ * A good working knowledge on MS Office Excel, Words, Power Point.
+ * High levels of initiative and self-motivation.
+ * Good analytical ability and attention to detail.
+ * Ability to communicate appropriate, concise, and accurate information in written and verbal format.
+ * To be able to multi-task and plan effectively when working with a variety of project teams and projects in an often high-pressure, competitive environment.
+ * Excellent team-working skills
+ * To be eligible you will need to have no more than two years of relevant work experience post-graduation (Phd students are not eligible for our graduate programmes).
+
+
+
+
+For your application to be considered, please upload 1) your detailed resume and 2) transcript (all semesters inclusive) in a single file together with your online application.
+
+
+
+
+Benefits
+
+
+
+
+Dyson Malaysia monitors the market to ensure competitive salaries and bonuses. Beyond that, you’ll enjoy a transport allowance and comprehensive medical care and insurance. But financial benefits are just the start of a Dyson career. Professional growth, leadership development and new opportunities abound, driven by regular reviews and dynamic workshops. And with a vibrant culture, the latest devices and a relaxed dress code reflecting our engineering spirit, it’s an exciting team environment geared to fuelling and realising ambition.
+
+
+
+
+Dyson is an equal opportunity employer. We know that great minds don’t think alike, and it takes all kinds of minds to make our technology so unique. We welcome applications from all backgrounds and employment decisions are made without regard to race, colour, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other any other dimension of diversity.
+
+

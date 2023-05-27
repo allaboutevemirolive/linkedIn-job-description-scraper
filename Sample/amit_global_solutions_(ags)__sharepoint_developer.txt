@@ -1,0 +1,48 @@
+Website: https://www.linkedin.com/jobs/view/3612376299
+
+Sharepoint Developer
+
+Role Name: Sharepoint Developer
+
+Hire Type: 12 Months Extendable Contract under amIT Global Solutions
+
+Job Location: KL, Malaysia
+
+Job Description:
+
+• Utilize extensive SharePoint knowledge to design, develop and provide quality solutions. Engage in project lifecycle of Analyse & Design, Build, Test, Deployment, and Post Go Live.
+
+• Incident Management - Review information, incidents, problems and analysis collected and escalated by IT Help Desk team. Incident tickets resolving with root-cause analysis, trouble-shooting and providing advises on SAP application system and processes. 
+
+• Change Request Management (Enhancement and Operational CR) -Evaluate application Change Requests (CR) for enhancements and fixes. Responsible for development end to end based on agreed business blueprint design and scope.
+
+• Handle and deliver Incident tickets and Change Requests (CR) within agreed defined SLA and KPI. Ensure in timely and quality delivery of CR enhancements.
+
+• Analyse user requirements and transform into IT solutions according to best practises. 
+
+• Prepare technical, functional documentation, test cases & scenarios, end-user documentation and manuals. Ensures systems changes are documented to sustain future support, maintenance and enhancements.
+
+• Business partnering with Business Group users to ensure Business As Usual, meet customer business needs and ensure zero or minimal business operation impact. Deliver high quality IT services.
+
+• Timely report progress to Functional Lead.
+
+• Receptive to performance and developmental feedback.
+
+
+
+
+JOB REQUIREMENTS
+
+• Candidate should have a Degree/Diploma in IT/Computer Science, Business or in any discipline.
+
+• Minimum 5 year(s) of MS SharePoint working experience.
+
+• Strong knowledge in designing, and creating complex solutions using Microsoft SharePoint, SharePoint Designer and various ./NET.
+
+• Must have strong system migration experience including developing migration strategy and plan. If have experiences in using ShareGate, ProvenTeq and any migration tool is added advantage.
+
+• Candidate must have project implementation experience in the followings:
+
+• SharePoint Architecture and Design planning 
+
+• SharePoint Administration

@@ -1,0 +1,118 @@
+Website: https://www.linkedin.com/jobs/view/3613940881
+
+Principal Software Engineer, gt.school (Remote) - $200,000/year USD
+
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, gt.school. Have you got what it takes?
+
+
+
+
+Are you a Software Architect with an unwavering commitment to well-engineered code who thrives in the fast-paced world of AWS cloud computing? Do you relish the challenge of leading product development, crafting, and executing complex architectural decisions? If you're driven by a passion for pushing the boundaries of what's possible in tech, then GT School is looking for you!
+
+
+
+
+At GT School, we're not just developing software; we're revolutionizing education. Our groundbreaking data platform, CoachBot, empowers students to learn independently, with no teacher or tutor required. Through tight integration with numerous learning apps, CoachBot harnesses the power of analytics to assess student performance, delivering targeted real-time feedback and encouraging progress with innovative motivational techniques - including cash rewards!
+
+
+
+
+What sets us apart? Our platform is 100% cloud-native, utilizing cutting-edge AWS technologies like Lambda, Step Functions, Glue, AppSync, and QuickSight. This means you'll spend less time maintaining old code and more time pioneering new solutions in a dynamic, ever-evolving tech landscape.
+
+
+
+
+We believe that technical leadership shouldn't mean "graduating" to administration and management - here, you'll always be at the cutting edge, driving the design and development of new features. As our Principal Software Architect, you'll lead by example, delivering the most complex features and making the most challenging architectural decisions. You'll have the opportunity to inspire and shape a team of talented engineers, all while remaining hands-on and engaged with the technology you love.
+
+
+
+
+If you're a strategic thinker with a proven track record in software architecture and cloud technologies, and you're ready to redefine the future of education, we'd love to hear from you!
+
+
+
+
+What You Will Be Doing
+
+
+
+
+ * Making the most complex architectural decisions in the product
+ * Reviewing feature design proposals from other team members and simplifying them
+ * Reviewing the code of other team members for simplicity and correctness
+ * Standardizing best practices into playbooks to improve the quality of the whole team
+
+
+
+
+Principal Software Engineer Key Responsibilities
+
+
+
+
+ * Own the architecture and quality of the whole product
+
+
+
+
+Basic Requirements
+
+
+
+
+ * 5+ years of experience in software development
+ * 3+ years of experience in software architecture
+ * 3+ years of experience developing using AWS cloud patterns
+
+
+
+
+About Gt.school
+
+
+
+
+gt.school is a stealth EdTech startup in Austin, Texas, the center of educational innovation in the US. Our unique approach leverages 50+ years of learning science, cutting-edge data analytics and high-performance life skills coaching. In doing so, we can help students learn 5x faster and unlock their full potential in both academics and in life. We are a remote-first company that hires globally via Crossover.
+
+
+
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+
+
+
+Working with Crossover
+
+
+
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $100 USD/hour, which equates to $200,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+
+
+
+What to expect next:
+
+
+
+
+ * You will receive an email with a link to start your self-paced, online job application.
+ * Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+
+
+
+Important! If you do not receive an email from us:
+
+
+
+
+ * First, emails may take up to 15 minutes to send, refresh and check again.
+ * Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+ * Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+ * If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4642-MY-PutraJay-PrincipalSoftw1
+
+

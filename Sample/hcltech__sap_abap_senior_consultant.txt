@@ -1,0 +1,29 @@
+Website: https://www.linkedin.com/jobs/view/3618741602
+
+SAP ABAP Senior Consultant
+
+As an SAP ABAP consultant you will design, implement, and deploy SAP solutions to achieve defined business goals. You will align technology with business strategy, working directly with the client gathering requirements to analyze, design and or configure, implement technology best practice.
+
+Responsibilities: -
+
+ * Planning, monitoring, and managing all development tasks.
+ * Define and design robust architecture of new features.
+ * Continuously improve the development efficiency
+ * Create development standards and checklists.
+ * Developing technical specifications for SAP custom report or interface or enhancement or form to solve complex business problems based on end user functional requirements.
+ * Developing programs that conform to the functional and technical specification.
+ * Performance tuning of programs
+
+
+
+
+Qualifications: -
+
+ * 4 to 8 years of experience in SAP ABAP Programming with SAP development tools
+ * Applied programming skills and experience (ABAP OO/JavaScript/HTML5)
+ * Extended knowledge of software design and software architecture
+ * Highly customer-oriented attitude with good communication skills
+ * Working Experience in Agile development model
+ * Working in SD, MM, PP, QM, PM, FI Solution will be a plus.
+ * Knowledge on HANA, OData will be a plus.
+ * Working with HTML5/JavaScript will be a plus.

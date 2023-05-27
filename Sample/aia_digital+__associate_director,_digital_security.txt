@@ -1,0 +1,45 @@
+Website: https://www.linkedin.com/jobs/view/3615446328
+
+Associate Director, Digital Security
+
+At AIA we’ve started an exciting movement to create a healthier, more sustainable future for everyone.
+
+As pioneering innovators for over 100 years, we’re now transforming our organisation to be faster, simpler and more connected. Because we want to be even better equipped to develop digital solutions and experiences that help more people live Healthier, Longer, Better Lives.
+
+To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhanced experiences that will impact the lives of millions of people and create a healthier future for everyone.
+
+If you believe in developing a better tomorrow, read on.
+
+WE ARE LOOKING FOR .....
+
+Responsible for ensuring the security and integrity of AIA's information systems related to email and M365 Security across the AIA Group. They must be a deep technical security expert who has worked in a top tier global organization. To succeed they must also have excellent teamwork and communication skills.
+
+ * Develop AIA's information technology security procedures and overall cyber security framework
+ * Provides strategy and leadership across all aspects of Email and M365 security
+ * Deep technical experience working with various email security as well as other security technologies such as Microsoft Defender, Cloud Application Security Brokers
+ * Administer email security systems to ensure they are up to date and security policies are tuned.
+ * Proactively secures identity and access, implements threat protection, manages information protection, and enforces compliance
+ * Evaluate, test, recommend, coordinate, monitor and maintain IT security policies, procedures and systems including access management for both hardware and software
+ * Design, implement and troubleshoot various information systems and cyber security software to identify security risks and exposures
+ * Act as an escalation point for internal AIA stakeholders when managing email security related incidents
+ * Ability to identify and mitigate email security vulnerabilities and explain how to avoid them
+ * Provide Subject Matter Expertise to Cybersecurity, M365 Service Management during incidents
+   
+   
+
+Job Requirements
+
+ * Degree holder in Computer Science or Masters in Information Systems / Technology
+ * 10+ years of experience in Information Security in one or more of the following areas: security operations, incident analysis & handling, phishing email response
+ * Strong knowledge of endpoint security and management, specifically with Microsoft Defender 365 and Intune
+ * Process oriented - well organized and able to focus on a multi-tasking environment
+ * Excellent product knowledge on leading technologies such as email security gateways
+ * Excellent team working and collaborative skills
+ * Be adaptable, able to interact and build strong relationships with people from a diverse range of backgrounds.
+ * Occasional travel is required.
+   
+   
+
+Build a career with us as we help our customers and the community live Healthier, Longer, Better Lives.
+
+You must provide all requested information, including Personal Data, to be considered for this career opportunity. Failure to provide such information may influence the processing and outcome of your application. You are responsible for ensuring that the information you submit is accurate and up-to-date.

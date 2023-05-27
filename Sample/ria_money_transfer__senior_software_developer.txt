@@ -1,0 +1,119 @@
+Website: https://www.linkedin.com/jobs/view/3348018743
+
+Senior Software Developer
+
+Job Description
+
+As a company whose mission is to be the most progressive and inclusive money transfer business in the world, we deliver the highly reliable payment services to our customers. With locations in over 402k locations in 165 countries, we have adopted the true identity of what it means to be multicultural and embody the idea of being family, no matter where we are.
+
+At Ria, you’ll be surrounded by colleagues, both in Kuala Lumpur, MY and across the Globe, who are dedicated to each other and empowered to be creative and nurture “out of the box” solutions.
+
+Ria Flex team is involved in the development and maintenance of all Ria web and mobile applications. This member will perform application analysis, design, development, unit testing, and implementation activities. They will be responsible for maintaining, enhancing, and developing new robust applications which aid in growing Ria's business footprint.
+
+WHAT YOU WILL DO:
+
+
+ * Design, develop and maintain REST based services
+ * Write and modify complex and efficient MS SQL Server Stored Procedures and queries
+ * Design and develop backend systems that integrate to external systems and support existing processes as well as develop and maintain web/windows applications
+ * Prepare test data and functional specifications
+ * Build integrations with various external services based on technical documents
+   
+   
+
+OUR TECHNOLOGIES:
+
+
+ * .Net, C#, RESTful services, SOAP, SQL Server.
+   
+   
+
+WHAT YOU HAVE:
+
+
+ * A minimum of 5 years' experience with software development.
+ * 2+ years of experience in developing SOAP/REST based services.
+ * Proven Microsoft SQL Server including stored procedures, views, functions, tables etc..
+ * Excellent skills in object-oriented design paradigms.
+   
+   
+
+BONUS POINTS FOR THESE:
+
+
+ * A bachelor's degree in Computer Science or closely related field from an accredited university; Masters preferred.
+ * REST API documentation using Swagger, Angular, HTML5, CSS, JQuery and experience working with a financial organization.
+   
+   
+
+Why Choose Ria?
+
+In this business, humility can be hard to come by. We put others ahead of ourselves, the way our customers do every day. Because this isn’t just business, it’s personal. People deserve much more than just a fair price. They deserve empathy, hope and ultimately respect.
+
+This how we do right by people and their needs – not more, not less.
+
+We never rest, we raise the bar and put people first.
+
+We work hard and take nothing for granted.
+
+We facilitate possibilities in every possible way.
+
+We champion people’s needs, today and tomorrow.
+
+We open ways for a better everyday life.
+
+Responsibilities
+
+WHAT YOU WILL DO:
+
+
+ * Design, develop and maintain REST based services
+ * Write and modify complex and efficient MS SQL Server Stored Procedures and queries
+ * Design and develop backend systems that integrate to external systems and support existing processes as well as develop and maintain web/windows applications
+ * Prepare test data and functional specifications
+ * Build integrations with various external services based on technical documents
+   
+   
+
+OUR TECHNOLOGIES:
+
+
+ * .Net, C#, RESTful services, SOAP, SQL Server.
+   
+   
+
+Qualifications
+
+WHAT YOU HAVE:
+
+
+ * A minimum of 5 years' experience with software development.
+ * 2+ years of experience in developing SOAP/REST based services.
+ * Proven Microsoft SQL Server including stored procedures, views, functions, tables etc..
+ * Excellent skills in object-oriented design paradigms.
+   
+   
+
+BONUS POINTS FOR THESE:
+
+
+ * A bachelor's degree in Computer Science or closely related field from an accredited university; Masters preferred.
+ * REST API documentation using Swagger, Angular, HTML5, CSS, JQuery and experience working with a financial organization.
+   
+   
+
+Why Choose Ria?
+
+In this business, humility can be hard to come by. We put others ahead of ourselves, the way our customers do every day. Because this isn’t just business, it’s personal. People deserve much more than just a fair price. They deserve empathy, hope and ultimately respect.
+
+This how we do right by people and their needs – not more, not less.
+
+We never rest, we raise the bar and put people first.
+
+We work hard and take nothing for granted.
+
+We facilitate possibilities in every possible way.
+
+We champion people’s needs, today and tomorrow.
+
+We open ways for a better everyday life.

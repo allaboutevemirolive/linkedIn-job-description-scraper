@@ -1,0 +1,103 @@
+Website: https://www.linkedin.com/jobs/view/3381808821
+
+Java developer
+
+About Capgemini :-
+
+
+
+
+The speed of change is throwing traditional business methods into question and disrupting the relevance of entire industries. Capgemini, a global leader in consulting, digital transformation, technology and engineering services, is at the forefront of innovation and well placed to address opportunities for our clients in the evolving world of cloud, digital and platforms. Building on its strong 50-year heritage and deep industry-specific expertise, Capgemini enables organisations to realise their business ambitions through an array of services from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people. Today, it is a multicultural company with over 300,000 team members in almost 50 countries. With Altran, the Group reported 2020 combined revenues of EUR 18 billion. Learn more about us at www.capgemini.com.
+
+
+
+
+Responsibilities :-
+
+
+
+
+Primary Skills: Springboot, Microservices, hands on experience, knowledge CI / CD environment
+
+
+
+
+Domain / Functional Skills: Banking knowledge is an advantage
+
+
+
+
+ * To lead infrastructure discussion with infrastructure team and Vendor on cloud and interface integration.
+
+
+
+ * To involve in the development of REST API and SOAP API
+
+
+
+ * Influences technical decisions which involve technology that falls within area of specialization.
+
+
+
+ * Contributes to the specification and design stages of a project, providing detailed input regarding area of specialization, from feasibility through to implementation.
+
+
+
+ * Provides ongoing support and expert advice to the development team throughout the life of the project.
+
+
+
+ * Monitors the deployment of all technology (within the area of specialization).
+
+
+
+ * Monitors and evaluates the performance of technology (within the area of specialization) when deployed in new or unique circumstances
+
+
+
+ * Strongly influences control procedures and processes that exist in relation to the deployment of technology (within the area of specialization)
+
+
+
+
+Let's talk about what's in it for you!
+
+
+
+
+Passionate people are Capgemini's Ace of Spades - join us to discover a career that will challenge, support and inspire you. Working at Capgemini you'll find the rewards are more than just financial. You will work alongside some very smart and inspiring people on exciting projects and you will also enjoy incredible benefits. We offer flexible work practices and 40 hours of self-development every year with a huge selection of learning opportunities to choose from.
+
+
+
+
+As "Architects of Positive Futures", Capgemini actively supports the community in 3 ways:
+
+
+
+
+Diversity and Inclusion - we believe diversity of thought fuels excellence and innovation, which is why we positively encourage applications from suitably qualified candidates regardless of their gender identity, ethnicity, sexual orientation, religion, ability, intersex status or age. To support our commitment to diversity and inclusion, we celebrate or recognise special events and days of significance that are important to our employees such as Diwali, Bastille Day, Pride, IDAHOBIT, IWD and International day of people with Disabilities. Our Employee Resource Groups Women@Capgemini, OutFront, Indigeneous, Parents and Careers and Sustainability Community of Practice support the grassroots passion of employees to drive our diversity agenda and effect change.
+
+
+
+
+Digital inclusion - at Capgemini we are using our skills to drive social impact initiatives focusing on helping society address the impact of the digital and automation revolution. We also provide employees with opportunities to give back to the community through charity projects and volunteer days.
+
+
+
+
+Environmental Sustainability - Capgemini joined the CDP's (Carbon Disclosure Project) prestigious "A list" for its commitment to the Net-Zero economy. As well as focusing on helping our clients transform towards more sustainable business models, Capgemini recently announced its commitment to becoming a netzero busines by 2030.
+
+
+
+
+Recognised by Ethisphere as one of the World's Most Ethical Companies for the last 9 years in a row, ethics and values are at the heart of Capgemini's corporate culture and business. Embedded in our DNA, our seven values - Honesty, Boldness, Trust, Team Spirit, Freedom, Fun and Modesty - have remained the same since company inception in 1967. To see how we bring these values to life, visit www.capgemini.com/au-en/careers/ and listen to some of our employee's stories.
+
+
+
+
+Come join us, bring your whole self to work, create new possibilities for you, your customers and your community and help us to be Architects of Positive Futures.
+
+
+
+
+Please note unsolicited resumes from employment agencies or other third parties will not be considered.

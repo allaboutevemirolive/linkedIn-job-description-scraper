@@ -1,0 +1,43 @@
+Website: https://www.linkedin.com/jobs/view/3613064983
+
+System Analyst
+
+Join Accenture and help transform leading organizations and communities around the world. The sheer scale of our capabilities and client engagements and the way we collaborate, operate and deliver value provides an unparalleled opportunity to grow and advance. Choose Accenture, and make delivering innovative work part of your extraordinary career.
+
+
+
+
+Technology moves at a breakneck pace. Today’s new breakthrough is tomorrow’s obsolete solution. Are you just bystanders watching it all go by or are you leveraging your expertise to help clients innovate grow and improve their operations?
+
+
+
+
+Accenture Technology delivers everything from point solutions for a single business function to large, long-term outsourcing services and complex systems integration installations spanning multiple businesses and functions. Join us and become an integral part of our experienced Technology team with the credibility, expertise and insight to help our clients become high-performing organizations.
+
+
+
+
+Job Description
+
+ * Responsible for end-to-end software development and support for all work transitioned from Group (which could be projects, quarterly change requests, L3 production fixes). This includes analysis and design to development, implementation, testing and support
+ * Responsible for quality assurance of the team delivery in conformance to the software delivery methodology and tools
+ * Partner closely with the Group domain team and developer to plan and manage transitioned deliverables
+
+
+
+
+Domain-Specific
+
+Key responsibilities include:
+
+ * System Analyst with CRM experience (Must Have : MS Dynamics | Optional : Siebel / Salesforce) and integration with downstreams.
+ * Experience in CRM modules for Customer Service Requests, Leads or Single Customer View.
+ * Banking knowledge is a plus.
+ * Able to understand business/ERP/CRM solutions and how they create business impact and industry process transformation.
+
+Skills:
+
+ * Must Have: MS Dynamics
+ * Good to Have: SQL, Java, FRS/FSD/TSD, shell scripting
+ * Platform: Accelerated Build Program
+ * OS: Windows

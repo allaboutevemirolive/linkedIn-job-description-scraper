@@ -1,0 +1,34 @@
+Website: https://www.linkedin.com/jobs/view/3619138726
+
+Programmer
+
+Job Responsibility
+
+ * Analyzes user needs and designs software for client use.
+ * Develops code and designs software applications based on user specifications.
+ * Modifies existing software to correct errors or improve performance.
+ * Monitors and assists with software testing and validation procedures and programming.
+ * Working in all phases of Software development
+ * Interact with fellow team members on a regular basis.
+ * Provide technical on/off site Support.
+ * Willing to learn and adapt to any technology as required.
+   
+
+Job Requirements
+
+ * Possess at least 4 Year(s) of working experience in the related field is required for this position.
+ * Possess at least a Bachelor's Degree/ Post-Graduate Diploma/Professional Degree, Master's Degree in Computer Science and Engineering or any related field.
+ * Must have working experience in PHP Laravel Framework, and JavaScript.
+ * Working experience in accounting/financial software is advantages.
+ * Must have Ability to write queries in MySQL.
+ * Must have knowledge of Data Structure & OOP concepts.
+ * Working knowledge in version control system like IT.
+ * Working knowledge on REST API
+ * Must be analytical and a problem-solver.
+   
+
+Job Benifits
+
+ * Miscellaneous allowance
+ * Medical
+ * Regular hours, Mondays - Fridays.

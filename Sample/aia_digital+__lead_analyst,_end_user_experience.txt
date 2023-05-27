@@ -1,0 +1,54 @@
+Website: https://www.linkedin.com/jobs/view/3615444639
+
+Lead Analyst, End User Experience
+
+At AIA we’ve started an exciting movement to create a healthier, more sustainable future for everyone.
+
+As pioneering innovators for over 100 years, we’re now transforming our organisation to be faster, simpler and more connected. Because we want to be even better equipped to develop digital solutions and experiences that help more people live Healthier, Longer, Better Lives.
+
+To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhanced experiences that will impact the lives of millions of people and create a healthier future for everyone.
+
+If you believe in developing a better tomorrow, read on.
+
+WE ARE LOOKING FOR .....
+
+As a Mac Support Subject Matter Expert, you will be a key part of the team, tasked with improving the end user experience for Apple devices within the business.
+
+Roles And Responsibilities
+
+ * Provides expertise in the specification of AIA’s business requirements, performance levels and the scoping of Mac/JAMF relates initiatives, changes and service requests, ensuring traceability back to desire business outcomes.
+ * The successful applicant will be a Mac, Apple & Jamf subject matter expert, providing customer service focused technical Mac, Apple & Jamf support to a large sized user base.
+ * Assess vulnerability & patch information from compliance scans for Mac OS (any release) and determine application and production impacts.
+ * Utilize enterprise tools, such as Jamf, to automate patch deployment and software deployment.
+ * Play a key role in defining hardware standards, engineering and securing the standard desktop platform, implementation of policies and procedures to ensure consistency with customer goals, industry best practices, and regulatory requirements.
+ * Provide Mac OS X knowledge and Engineering level experience for Mac OS X imaging and application packaging.
+ * Exposure to hybrid Mac/PC environments, with experience supporting MacBook Air, MacBook Pro, iMac, Mac Pro, iPhone, and iPad.
+ * Create and maintain base images for desktop and laptop computers including the automated portion of the overall imaging process.
+ * Assists in proactively developing patch and vulnerability management procedures and processes within the operations team and in conjunction with business and IT partners.
+ * Someone with expert knowledge of macOS, iOS & Windows 10 management and deployment as well as expert knowledge of scripting (AppleScript, Shell, Bash, PowerShell etc) for automation
+ * Create and maintain detailed documentation, processes and procedures.
+ * Actively participate in operational ITIL processes i.e. Incident, Change Management (CAB), Release Management, Problem Management, and Availability Management.
+   
+   
+
+Minimum Job Requirements
+
+ * Must have a minimum of 7 to 9 years’ experience with Apple Mac hardware and administering/supporting Mac OS X in a medium to large enterprise.
+ * Expert knowledge in Jamf Pro - including system design, implementation and management.
+ * Expert knowledge of macOS, iOS & Windows 10 management and deployment.
+ * Expert knowledge of scripting (AppleScript, Shell, Bash, PowerShell etc) for automation.
+ * Demonstrable experience in software packaging and deployment.
+ * Knowledge of MDM technologies, preferably supporting Jamf running alongside Intune.
+ * Knowledgeable in supporting Microsoft Office 365 and Azure Conditional Access.
+ * Strong problem-solving experience to effectively troubleshoot/diagnose complex issues.
+ * Applicable certifications to demonstrate technical competencies, for example, Apple Certified Support Professional (ACSP), Apple Certified Mac Technician (ACMT).
+ * High proficiency with centralized Mac OS X security, encryption, and policy management as well as Active Directory integration
+ * Excellent communications and interpersonal and presentation skills.
+ * Experience of working within a fast paced BAU environment.
+ * Bachelor’s Degree in Computer Science, Information Systems, or other related business, scientific, or technical discipline.
+   
+   
+
+Build a career with us as we help our customers and the community live Healthier, Longer, Better Lives.
+
+You must provide all requested information, including Personal Data, to be considered for this career opportunity. Failure to provide such information may influence the processing and outcome of your application. You are responsible for ensuring that the information you submit is accurate and up-to-date.

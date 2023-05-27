@@ -1,0 +1,58 @@
+Website: https://www.linkedin.com/jobs/view/3596181798
+
+Senior Camera Systems Engineer (Electronics)
+
+About Us
+
+
+
+
+Dyson is a global technology enterprise. We solve the problems others choose to ignore, with surprising new inventions that defy convention and simply work better. We’re growing fast and our ambition is huge - more categories, more locations and more people.
+
+
+
+
+About The Role
+
+
+
+
+The Senior Camera Systems Engineer will join the Robotics Hardware Integration team as a part of Dyson’s Hardware Electronics department. The candidate will be responsible for the system-level analysis, design, and development of advanced camera systems from concept to production for use across a wide range of exciting future products.
+
+
+
+
+ * Design, build and test proof of concepts to evaluate camera systems hardware configuration.
+ * Define the optical, electrical, and optoelectronic components’ specifications to meet camera systems requirements.
+ * Review design proposals from camera integrator partners and provide professional feedback to drive design maturity.
+ * Design and perform laboratory experiments to verify and validate the hardware design of camera systems.
+ * Provide in-depth analysis and solutions for identified design issues during camera systems development.
+ * Devise test methods and evaluate emerging camera systems technologies from image sensor and camera module vendors.
+
+
+About you
+
+
+ * A degree in a relevant discipline (e.g. Electronics Engineering, Mechatronics Engineering, Optical Engineering, Physics)
+ * At least 2 years of experience working on the design, development, and verification of camera systems.
+ * Expertise in digital camera and optics technology.
+ * Good understanding of the interaction of key camera components.
+ * Experience with designing/performing optical and electrical laboratory testing for camera systems.
+ * Proficiency in at least one of the major schematic capture and layout packages such as Altium Designer and Siemens Xpedition.
+ * Proficiency in data analysis, image/signal processing and automation of tests using Python, Matlab, LabVIEW or other programming languages.
+ * Strong analytical skills with the ability to work independently and effectively as a team.
+ * A highly motivated person with good communication skills and the ability to work within a team.
+ * Independent, integrity and self-driven with a strong focus on results.
+ * Possess a strong command of written and spoken English.
+
+
+Benefits
+
+Dyson monitors the market to ensure competitive salaries and bonuses. Beyond that, you’ll enjoy a transport allowance and comprehensive medical care and insurance. But financial benefits are just the start of a Dyson career. Professional growth, leadership development and new opportunities abound, driven by regular reviews and dynamic workshops. And with a vibrant culture, the latest devices and a relaxed dress code reflecting our engineering spirit, it’s an exciting team environment geared to fuelling and realising ambition.
+
+
+
+
+Dyson is an equal opportunity employer. We know that great minds don’t think alike, and it takes all kinds of minds to make our technology so unique. We welcome applications from all backgrounds and employment decisions are made without regard to race, colour, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other any other dimension of diversity.
+
+

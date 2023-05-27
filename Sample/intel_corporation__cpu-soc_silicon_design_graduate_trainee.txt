@@ -1,0 +1,73 @@
+Website: https://www.linkedin.com/jobs/view/3562670785
+
+CPU-SoC Silicon Design Graduate Trainee
+
+Job Description
+
+
+
+
+In this position, you will be involving in the training, design and development of next generation SOC/CPU for wide range of Intel products. Your responsibilities will include some of the following but not limited to: - Assist design unit owner in Register Transfer Level RTL model functional validation. Use CAD tool extensively to simulate logic behavior and circuit performance and direction of physical design for next generation, deep sub-micron embedded circuit solutions. Verify the circuit behavior against the original simulation model and first silicon. - Define VLSI Structural Design methodology and developing design flows. Implement structural physical designs, such as synthesis, floor planning, power-grid and clock tree designs, timing budgeting and closure, place and route, RC-extraction and integration. Verify structural physical designs, such as functional equivalency, timing/performance, noise, layout design rules, reliability and power. - Develop Analog IP on next generation deep submicron process for the Intel's SOC, perform tasks related to Very-large-scale integration VLSI complementary metal-oxide-semiconductor CMOS IC design, Solid state physics and physical layout. Such tasks may include: Circuit design of high speed clocking related circuits [phase-locked loop PLL, delay-locked loop DLL, bandgap] or high voltage input/output IO [double data rate DDR/LPDDR, General-purpose input/output GPIO, OPIO]. - Responsible for Integration of Third party IPs -- Synthesis, functional and/or timing convergence, and pre and post-si debug of IPs developed by various external vendors as well as within the company. Handling of signals crossing power planes and clock domains, industry standard protocols including hardware and software details dealing with Memory LPDDR, storage eMMC, SATA, UFS, peripherals PCIe, USB, and MIPI interfaces in SOC devices. System integration dealing with Si/ Platform/ FW/ MW/ drivers/ OS/ Apps on Android Windows-based tablets and phones.
+
+
+
+
+Qualifications
+
+
+
+
+You must possess a Bachelor of Engineering degree or a Master of Science degree in Electronic, Electrical or Computer Engineering. Additional qualifications include: - Familiarity with Very Large Scale Integration VLSI Complementary Metal-Oxide Semiconductor CMOS logic circuit design - Well versed in UNIX, C programming and relevant Computer Aided Design CAD tools.
+
+
+
+
+Inside this Business Group
+
+
+
+
+In the Design Engineering Group (DEG), we take pride in developing the best-in-class SOCs, Cores, and IPs that power Intel’s products. From development, to integration, validation, and manufacturing readiness, our mission is to deliver leadership products through the pursuit of Moore’s Law and groundbreaking innovations. DEG is Intel’s engineering group, supplying silicon to business units as well as other engineering teams. As a critical provider of all Intel products, DEG leadership has a responsibility to ensure the delivery of these products in a cost efficient and effective manner.
+
+
+
+
+Other Locations
+
+
+
+
+MY,Penang
+
+
+
+
+Posting Statement
+
+
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+
+
+
+Benefits
+
+
+
+
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here: https://www.intel.com/content/www/us/en/jobs/benefits.html
+
+
+
+
+Working Model
+
+
+
+
+This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site.
+
+In certain circumstances the work model may change to accommodate business needs.
+

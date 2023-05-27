@@ -1,0 +1,80 @@
+Website: https://www.linkedin.com/jobs/view/3612358666
+
+PHP Developer
+
+Role - PHP Developer
+
+Location - KL, MALAYSIA
+
+Salary - Upto 11k MYR
+
+Experience - 4+ Years
+
+
+
+
+
+
+
+About the job -
+
+
+
+
+We are currently looking for a Middle PHP Developer to join in Kuala Lumpur. Your primary duties will be:
+
+● Write, test, maintain, and document reusable code in PHP using Lumen/Laravel and
+
+Javascript/Angular.
+
+● Get enterprise-quality, horizontally scalable code using best practises, quickly and
+
+according to specification.
+
+● Develop APIs, outputting JSON, or XML for use by frontend interfaces.
+
+● Participate fully in code reviews and work with internal developers to ensure quality
+
+code.
+
+● Collaborate daily with other teammates across the entire software development
+
+lifecycle.
+
+● Fix bugs
+
+
+
+
+What skills you must have?
+
+
+
+
+● Experience with PHP and Lumen / Laravel / Symfony / Slim
+
+● Experience with MySql, MongoDB, and Redis
+
+● Ability to optimize performance in high load and big data environments
+
+● Knowledge of object-oriented PHP programming
+
+● Experience working with developing APIs
+
+● Experience with JavaScript, Angular/ VueJS
+
+● Passion for implementing industry standards / best coding practises
+
+● Desire to get fresh thoughts and discover new technologies
+
+● Basic Linux server and environment experiences
+
+● Understanding of networking, platforms, caching layers, proxies, or other web
+
+services used in the organisation
+
+● Experience with Git
+
+● Experience with Clickhouse as a summation
+
+● Knowledge of Go as plus

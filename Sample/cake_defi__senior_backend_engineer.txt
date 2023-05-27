@@ -1,0 +1,43 @@
+Website: https://www.linkedin.com/jobs/view/3500496023
+
+Senior Backend Engineer
+
+Founded in 2019, Cake DeFi is a leading decentralised finance services provider and Southeast Asia’s fastest growing fintech platform. "We Do Crypto. You Do You." - Our vision is to become a one-stop platform for all crypto users to get easy access to DeFi and Web3 services. To date, more than 1 million users from over 190 countries trust us to manage over $1 billion in assets. We are a profitable, cashflow positive private rocket ship that's just getting ready for take-off. Join us.
+
+About The Team
+
+Our engineering team is the backbone of everything you see at the company. We pride ourselves on writing good code. We care about good engineering practices, working with great people, and working on real and impactful products.
+
+We practice test-driven development, and are more than happy to allow team members the opportunity to solve problems with unconventional or cutting-edge methods. If you care about continually improving your craft, and want to work with like-minded peers, this is the place for you!
+
+What You’ll Do
+
+ * Design & develop Cake DeFi’s systems that are able to to process upward of thousands of transactions per second globally.
+ * Take full ownership for our data design, database, caching strategy while ensuring scalability and auditability.
+ * Design, develop, and maintain modern TypeScript Node.js applications.
+ * Follow and champion best coding practices when developing.
+ * Familiar with test-driven development (TDD) and implement unit tests for your work.
+ * Actively communicate with the team during development processes.
+ * Be willing to pick up any other technology stacks such as Bitcoin, Ethereum, web3.js etc. when required.
+
+What You’ll Need
+
+ * Experienced in designing and developing a highly scalable system that processes upward of thousands of transactions per second.
+ * Expert-level understanding and familiarity with JavaScript, TypeScript and Node.js.
+ * Understanding of cybersecurity, basic cryptography and user privacy is a bonus.
+ * Familiar with commonly used NoSQL and Middlewares, such as Redis and Kafka
+ * Familiar with common network protocols (HTTP/TCP)
+ * Familiar with distributed systems, performance tuning, massive concurrency handling, and caching mechanisms
+ * Enjoy following clean code practices
+ * Experienced in working with code versioning system (Git), bugs and issues tracker.
+ * We value knowledge & skills over paper qualifications.
+ * Comfortable working remotely via telecommuting. We will be working closely via Slack video calls and other collaboration tools.
+
+We want to transform and decentralise finance with tomorrow’s technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.
+
+We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.
+
+
+
+
+#LI-KA1

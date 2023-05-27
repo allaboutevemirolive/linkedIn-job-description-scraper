@@ -1,0 +1,47 @@
+Website: https://www.linkedin.com/jobs/view/3615981119
+
+Software Engineer (Java)
+
+We are recruiting for a Java Software Developer to join our fantastic offices in Malaysia. In this role, you will be actively encouraged to push the boundaries of new technology to ensure that we choose the most appropriate solutions for delivering our software to enable you to progress to meet your own potential.
+
+Key Responsibilities
+
+
+ * Implementing new features across the Ideagen Products using Java and open-source technologies
+ * Build well architected Cloud hosted and On-Premises solutions
+ * Working collaboratively with team members to deliver high standard products and optimising user experience.
+ * Providing unit tests to support and validate for any development work undertaken
+ * Work across the Software Development Lifecycle and contribute towards the defining and developing a Sprint backlog to achieve the goals set
+ * Collaborate with team members to identify issue, bugs, defects, and best practices.
+   
+
+Skills & Experience
+
+
+ * Preferably 3- 5 years’ hands on development experience on Java platform and open-source technologies
+ * Front end development experience such as React, jQuery, HTML, CSS and JavaScript/TypeScript
+ * Back-end development experience such as Java Swing, Play Framework, Hibernate v3/ v4, Springboot
+ * Database development experience specifically on MySQL with ability to write advance SQL script
+ * Working knowledge of CI/CD workflow specifically Jenkins
+ * Working knowledge of Maven built
+ * Working knowledge of using Git/Bitbucket as software version control
+ * Has exposure in Docker containers, Kubernetes
+ * Experience in Microservices software design, development and deployment on public cloud infrastructure (AWS)
+   
+
+Behaviours
+
+
+ * Ambitious - Drive, Planning & Execution
+ * Adventurous - Flexibility, Resilience & Savvy thinking
+ * Community - Collaboration & Communication
+   
+
+What's in it for you?
+
+While we take our work and deliverables seriously, we have a relaxed working environment and we want our people to be rewarded for their hard work. We offer benefits such as; Medical and Life Insurance, Dental, 16% Employer EPF Contribution Scheme, Contractual Bonus, Flexible Holidays, free office fruits and more!
+
+Who are Ideagen?
+
+If you have ever flown in a plane, been in hospital, or even given blood, there is a good chance we've helped keep you safe. For nearly a quarter of a century, we have been providing software solutions to thousands of customers such as the UK NHS, Virgin, PwC, Emirates, Heineken and even Harvard University. We are not a large faceless corporation, but we are not a fly-by-night dot com company either. With more than 1150 employees in multiple locations across the UK, USA, Dubai, Malaysia, and Bulgaria – not including our global Partner Network – we're one of the most exciting and fastest growing software companies in the world.
+

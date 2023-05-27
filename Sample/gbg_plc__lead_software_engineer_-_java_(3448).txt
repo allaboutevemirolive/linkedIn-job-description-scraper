@@ -1,0 +1,110 @@
+Website: https://www.linkedin.com/jobs/view/3616677575
+
+Lead Software Engineer - Java (3448)
+
+About GBG:
+
+
+
+
+GBG is the leading expert in global digital identity. We combine our powerful technology, the most accurate data coverage and our talented team to deliver award-winning location intelligence, identity verification and fraud prevention solutions.
+
+
+
+
+With over 30 years’ experience, we bring together a team of over 1,250 dedicated experts with local industry insight from around the world to make it easy for businesses to identify and verify customers and locations, protecting everyone, everywhere from fraud.
+
+
+
+
+Why you should be@GBG
+
+(With the 95% of our team members that recommend us as a great place to work)
+
+
+
+
+ * We make the world a safer place
+ * We trust each other and win together
+ * We are local experts in a global business
+ * We want you to be yourself
+ * We grow when you grow
+
+
+
+
+About the team:
+
+
+
+
+Unicorn Team - The Unicorn team comprises 31 individuals located in Melbourne, Sydney, and Kuala Lumpur. It is composed of four Scrum teams, UI/UX team, DevOps, Product Management, Architect, and Research Team. As a Lead Software Engineer. You will have the exciting opportunity to work with a group of talented engineers and leverage cutting-edge technology to develop software that enables secure online transactions for all. We place great value on diversity, creativity, and innovation, and are committed to creating a supportive and inclusive work environment where everyone can thrive.
+
+
+
+
+The Role
+
+
+
+
+We are seeking a lead software engineer which will be working closely with and under the guidance of the Software Engineering Manager to deliver new fraud detection platform for GBG. The role will generally involve analysing and building a technical understanding of GBG products. A key part of the role will be ensuring our projects are delivered to high standards of innovation, quality, and excellence as well as on time and budget.
+
+
+
+
+What you will do:
+
+
+
+
+ * Be part one of the member within the Unicorn team in Kuala Lumpur, build up knowledge and technical capability to deliver features in line with the overall technical and product strategy
+ * Lead, develop, and manage a team of software engineers to be technically capable to deliver features in line with the overall technical and product strategy
+ * Deliver product enhancements according to the requirements and take part in new developments
+ * Design, Code, Automate, and refactor codes, programs, scripts and other software services
+ * Diagnose and troubleshoot problems
+ * Work with the Software Engineering Manager, Product Owner and Scrum Team to build the technology design to deliver new features or enhancements which will include writing detailed technical requirements, user story planning etc
+ * Act as scrum master, attend stakeholder meetings, provide trainings etc.
+ * Participation in iterative agile approaches to software development
+
+
+
+
+What we're looking for:
+
+
+
+
+Mix of essential and desired:
+
+ * Expert knowledge and experience with Java
+ * Experience with RDBMS such as MySQL Database applications (Database design would be an advantage)
+ * Good exposure and knowledge of Open-Source Technologies and solution such as Kafka, Spark, Prometheus, Graffana and etc
+ * Knowledge of Lambda and real time streaming processing architecture
+ * CI/CD, cloud and containers knowledge (Terraform, Kubernetes, Dockers and etc.) would be an advantage
+ * Experience with Angular, graph database such as Janus or Neo4j algorithms and UX/UI design principles would be an advantage
+ * Ability to learn new skills and technologies according to the business need and industry demands
+ * Good oral and written communication skills with exceptional attention to detail.
+ * Ability to interpret and translate customer needs to be able to resolve issue in a timely manner.
+ * Encourage a culture of innovation focused on adding value.
+ * Able to work as part of a team to provide guidance and assistance.
+ * Proven ability to prioritise and to work independently, managing one’s own workload.
+ * A focus on thorough software testing, resulting in a high-quality product
+
+
+
+
+To find out more
+
+
+
+Click apply to see more about what’s important to us, including our Work When and Where You Want policy, our commitment to ESG, I&D and much more.
+
+
+
+To chat to the Talent Attraction team and find out more about our benefits, drop an email to behired@gbgplc.com and we’ll be in touch!
+
+
+
+
+Make life@GBG work for you.

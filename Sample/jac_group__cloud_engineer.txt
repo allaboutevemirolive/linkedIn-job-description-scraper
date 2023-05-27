@@ -1,0 +1,45 @@
+Website: https://www.linkedin.com/jobs/view/3613004978
+
+Cloud Engineer
+
+Job Responsibilities
+
+
+
+
+ * Work with clients to understand their business requirements and provide AWS cloud-based solutions to meet those requirements.
+ * Lead and manage the design, development, and implementation of AWS cloud solutions for clients in the FSI industry.
+ * Conduct detailed technical assessments of existing systems and applications to determine their cloud readiness and develop migration strategies.
+ * Perform the migration of on-premise infrastructure and applications to AWS cloud environments.
+ * Implement cloud-based security, monitoring, and automation solutions to ensure the security and availability of cloud-based systems and applications.
+ * Develop and maintain technical documentation and knowledge base articles.
+ * Collaborate with cross-functional teams to ensure successful delivery of projects.
+   
+   
+
+JOB REQUIREMENTS
+
+
+
+
+ * Bachelor's degree in Computer Science or related field.
+ * Minimum of 4 years of experience working with AWS cloud technologies.
+ * Hands-on experience with AWS cloud migration tools and methodologies.
+ * Solid understanding of cloud infrastructure and architecture principles.
+ * Strong experience with AWS services such as EC2, S3, RDS, Lambda, and VPC.
+ * Experience with scripting languages such as Python, Bash, or PowerShell.
+ * Knowledge of networking concepts and protocols.
+ * Willing to travel and accept overseas assignment.
+ * Excellent problem-solving and analytical skills.
+ * Strong communication and collaboration skills.
+ * Excellent written and oral communication skills in English.
+ * Experience in the FSI industry an added advantage.
+   
+   
+
+
+
+
+#countrymalaysia
+
+

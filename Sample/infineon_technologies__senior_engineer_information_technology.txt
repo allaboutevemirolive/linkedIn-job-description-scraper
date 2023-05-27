@@ -1,0 +1,49 @@
+Website: https://www.linkedin.com/jobs/view/3504256103
+
+Senior Engineer Information Technology
+
+In your new role you will:
+
+
+
+
+ * Provide 2nd Level Support for SAP Process Integration (PI), SAP Landscape Transformation (SAP SLT) and SAP Cloud Integration globally.
+ * Manage Incident and Service Order tickets in receive, categorize, prioritize and track incidents or service orders using remedy tool as the central Infineon ticketing platform.
+ * Analyze, investigate, fix known issues, provide workarounds to users and work towards timely resolution according to SLAs.
+ * Internal Control Monitoring to provide daily system checks and monitoring as required and drive efficiencies to ensure the system and processes perform as effectively as they should.
+ * Perform problem management to identify problem trends and implement corrective actions, communicate with the change request team and application owners.
+ * Ensure system and support related documentation is maintained and up to date, documents known errors, workarounds and resolution plans.
+ * Work on shift mode on a rotation basis (morning: 9:00am – 6:15pm &afternoon: 1.45pm-11.00pm)
+ * Able to work on call standby support on a rotation basis (11.00pm -9.00am & weekend (Saturday & Sunday)
+ * Team members provide global support and work closely with team members in other regions.
+   
+   
+
+You are best equipped for this task if you have:
+
+
+
+
+ * Bachelor's Degree in Computer Science, Information Technology or any equivalent field.
+ * Minimum 1 year of relevant professional experience in system supportor end-user support. Fresh Graduate with relevant experience will beconsidered.
+ * Knowledge in programming languages such as ASP, XML, ABAP,JAVA,XSLT.
+ * Excellent analytical and problem-solving skills and are able to critically engage with new issues.
+ * Good communication skills (mainly English) and a proactive team player.
+ * Strong in service support operations.
+ * Knowledgeable in Enterprise Application Integration methodologies /processes is a plus.
+ * Experience in SAP PI, SAP SLT or SAP Cloud Platform tools and framework will be an added advantage.
+ * Strong programming skills in Java will be an added advantage.
+   
+   
+
+Part of your life. Part of tomorrow.
+
+
+
+
+Infineon is a world leader in semiconductor solutions that make life easier, safer, and greener. Our solutions for efficient energy management, smart mobility, and secure, seamless communications link the real and the digital world.
+
+
+
+
+Infineon Technologies (Malaysia) Sdn Bhd, with its 8.000 employees, is the largest manufacturing site of Infineon. The company has established itself as a leading manufacturing site for Power Semiconductors, Logic Semiconductors, Discrete and Sensor Products. We are committed to increasing productivity, on-time delivery and providing customized solutions while maintaining the highest level of product quality. The success of Infineon Melaka is evidenced by eleven National Awards received from the Prime Minister’s Office as well as 15 corporate awards.

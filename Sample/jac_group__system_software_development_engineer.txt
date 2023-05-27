@@ -1,0 +1,44 @@
+Website: https://www.linkedin.com/jobs/view/3581362107
+
+SYSTEM SOFTWARE DEVELOPMENT ENGINEER
+
+Job Responsibilities
+
+
+
+
+ * To designs, develops, integrates, tests, validates, and/or debugs software across multiple layers of the software stack spanning firmware, drivers, operating systems, middleware, frameworks, algorithms, and applications/UI for a specific technology, product/platform, and/or market segment, including the development of software to enable specific features, capabilities, solutions, reference platforms.
+   
+   
+
+
+
+
+Job Requirements
+
+
+
+
+ * Bachelor's degree in Computer Science, Computer Engineering, Electronics Electrical Engineering or Software Engineering or any other related field
+ * 5+ years of related working experience or a Master's Degree in same areas with 2+ year experience
+ * Good programming skills in one of the popular programming languages, like C/C++, Python, Golang.
+ * Technology expertise on some of the following: SW frameworks and libraries, compilers, debuggers and profiles, embedded, microcontrollers, firmware, drivers, kernel or deep learning frameworks.
+ * Embedded systems, microcontrollers, CPU architecture.
+ * Demonstrated work experience in system software engineering.
+ * Linux Kernel, Device Drivers, RTOS, Open Source, Embedded software development.
+ * Low-level Virtual Platforms for hardware/software simulation.
+ * Other programming languages such as: C Sharp, Java, Bash, assembly.
+ * Cloud Native / Software containerization (Docker, Kubernetes, etc.).
+ * AI/Machine Learning Frameworks: OpenVino.
+ * Parallel/Graphics Compute development.
+ * FPGA, Verilog, OpenCL or RTL Design.
+ * V ersion control and continuous integration tools
+   
+   
+
+
+
+
+#countrymalaysia
+
+

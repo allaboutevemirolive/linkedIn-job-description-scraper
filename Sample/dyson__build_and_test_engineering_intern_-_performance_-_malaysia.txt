@@ -1,0 +1,94 @@
+Website: https://www.linkedin.com/jobs/view/3596181756
+
+Build and Test Engineering Intern - Performance - Malaysia
+
+About Us
+
+
+
+
+Dyson is a global technology enterprise. We solve the problems others choose to ignore, with surprising new inventions that defy convention and simply work better. We are driven by progress and thrive on the challenge of relentless improvement. We are growing fast, and our ambition is huge – more categories, more locations and more people.
+
+
+
+
+Our scale and rapid growth make Dyson rich in new opportunities. We value new ideas and diverse perspectives, so our people are trusted with real work and responsibility from the outset. You’ll develop fast and have the chance to move into different business areas and regions. And you’ll be part of a global network of like-minded people – a community that supports and learns from each other.
+
+
+
+
+The SEA Build and Test team is responsible for supporting the development of Dyson products by producing prototypes and performing verification & test activities related to both software and hardware for all product categories.
+
+
+
+
+About The Role
+
+
+
+
+Upon joining us in the internship programme, you’ll be assigned to various tasks from day one. You will be contributing towards the development of test methods and rigs, simulation and verification testing to providing support during Mass Production manufacturing, based on your individual skills and experiences
+
+
+
+
+Some Of Your Tasks Could Include
+
+
+
+
+ * Solving engineering challenges to create better, faster, more cost-effective solutions for Dyson’s unique products
+ * Conceptualizing and Designing experiments and necessary rigs/fixtures for component and system characterisation and validation
+ * Investigating, Developing and Building the test rigs/fixtures to meet test specifications
+ * Testing and Assessing robustness of our rigs/fixtures designs to provide repeatable and reliable test results
+ * Supporting the execution of test method activities across categories
+
+
+
+
+Working with teams across Research, Design & Development (RDD) with broad range of disciplines, you will be comfortable learning from others, but also sharing your own knowledge, ideas and opinions. We will support you with a development framework designed to help you make the most of your internship.
+
+
+
+
+About You
+
+
+
+
+Our internships are competitive and delivering the next generation of Dyson technology is tough, so you’ll need to be
+
+
+
+
+ * Studying towards a Bachelor's degree in Engineering or Science related disciplines
+ * Able to commit full-time for at least 12 weeks
+ * Familiar with programming languages such as Matlab, Labview, Python, Java or similar
+ * Experiences in using CAD (Computer Aided Drawing) such as Solidworks, Unigraphics or similar
+ * Able to demonstrate how you have applied technical knowledge and engineering skills to solve problems
+ * Have a creative approach to problem solving to ensure our machines are better
+ * Self-driven, independent and aspire to learn and add more positive energy to the team
+ * Be able to thrive in Dyson’s fast-paced environment
+ * Willing to travel to Johor
+
+
+
+
+For applications to be considered, please upload your detailed resume.
+
+
+
+
+Benefits
+
+
+
+
+Dyson Malaysia monitors the market to ensure competitive stipends. But financial benefits are just the start of a Dyson career. Professional growth, leadership development and new opportunities abound, driven by regular reviews and dynamic workshops. And with a vibrant culture, the latest devices and a relaxed dress code reflecting our engineering spirit, it’s an exciting team environment geared to fuelling and realising ambition.
+
+
+
+
+Dyson is an equal opportunity employer. We know that great minds don’t think alike, and it takes all kinds of minds to make our technology so unique. We welcome applications from all backgrounds and employment decisions are made without regard to race, colour, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other any other dimension of diversity.
+
+

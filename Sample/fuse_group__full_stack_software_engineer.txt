@@ -1,0 +1,81 @@
+Website: https://www.linkedin.com/jobs/view/3613619927
+
+Full Stack Software Engineer
+
+FUSE is an insurtech platform that connects various insurance products from many insurance companies with multiple distribution means, channels, or partners. We deploy the latest cutting-edge technology to make insurance easy and affordable for anyone. Our platform support primarily 3 business models, namely Business-To-Agents/Brokers (B2A), Business-To-Customers (B2C), as well as Micro Insurance (B2B2C).
+
+
+
+
+Our FUSE Pro App is tailor-made for B2A businesses. This App enables anyone to become an independent insurance consultant to act like an expert; to instantly curate the most suitable and best insurance products for their customers. Our B2B2C model supports digital small ticket-size insurance products, making insurance affordable for everyone.
+
+
+
+
+FUSE is trusted by channel partners such as Tokopedia, Grab, and 30+ insurance companies, along with 100,000+ registered partners. FUSE currently generates more than 2.5 million insurance policies each month.
+
+
+
+
+We have more than 400 teammates, with 24 branches across 4 countries, we strive to be the #1 insurtech platform in SEA and make insurance available for everyone in the region.
+
+
+
+
+Responsibilities:
+
+• Maintain & support the company's applications.
+
+• Responsible for software design, development, and coding.
+
+• Plan & execute software module design and monitor the software design progress.
+
+• Write well-designed, testable, efficient code by using best development practices.
+
+• Perform & conduct application/software testing, maintenance, and support.
+
+• Perform operations support and application services.
+
+• Prepare comprehensive documentation or manual to record details of development works.
+
+• Any other ad hoc task as assigned from time to time.
+
+
+
+
+Skills:
+
+• Backend: Java (spring boot framework), Databases(MYSQL, Redis).
+
+• Frontend: Flutter, Vue.
+
+• Experience with microservices technologies, such as Docker and Elastic Kubernetes Service (EKS), is a plus.
+
+• Familiar with the entire SDLC and experience in using Git Version Control System
+
+• Understand the details of every line of code, every unit test, and every commit message.
+
+• Good coding standards, organizational programming skills, and commenting practice.
+
+• Responsible, committed, passionate, and reliable with good leadership and communication skill.
+
+• Able to work independently and efficiently.
+
+• Highly motivated and willing to learn and develop new skills.
+
+• Fresh graduates with solid programming skills and good attitudes can apply.
+
+
+
+
+Benefits:
+
+• Festive allowance and bonus.
+
+• Employee Insurance package.
+
+• Opportunity to travel overseas to work.
+
+• Office is located within walking distance to LRT.
+
+• Allowance for the business trip.

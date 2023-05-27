@@ -1,0 +1,46 @@
+Website: https://www.linkedin.com/jobs/view/3501228384
+
+Applications Engineer, Customer Enablement & Debug
+
+Lattice Overview
+
+Lattice Semiconductor (NASDAQ: LSCC) is the global leader in smart connectivity solutions, providing market leading intellectual property and low-power, small form-factor devices that enable more than 8,000 global customers to quickly deliver innovative and differentiated cost and power efficient products.
+
+The Company's broad, end-market exposure solves customer problems across the network from the Edge to the Cloud for clients in consumer electronics, industrial equipment, communications infrastructure, computing and automotive. Our technology, long-standing relationships and commitment to world-class support enables our customers to quickly and easily unleash innovative solutions to create a smart, secure and connected world.
+
+Our control, connect and compute solutions enable the Internet of Things to operate safely, easily and more autonomously at the edge of the network core. While you may not see our products, you are interacting with them all day, every day. We make your experience smarter and better-connected.
+
+Join Team Lattice…and help us continue to drive innovation that creates a smarter, better-connected world. Together, we enable what’s next.
+
+Description
+
+Responsibilities & Skills
+
+ * Lattice Semiconductor is looking for an Applications Engineer who will drive Customer Enablement and Debug for technical support issues. This is a global position that will provide technical leadership and foundation to enable worldwide customer engagement.
+   
+
+Responsibilities
+
+ * Drive debug and issue resolution for customers, including leading direct engagement with strategic customers critical to Lattice business. Demonstrate breadth in resolution of issues that range across various industries, applications and use cases.
+ * Define methodology for more efficient debug and troubleshooting across the full spectrum of the FPGA development cycle, including areas such as RTL design, PCB board design, FPGA architecture, FPGA timing closure, soft-IP integration, embedded systems design, implementation for protocols across various industries, and more.
+ * Transform TS ticket trends & root cause into engineering improvements. This includes improving design collaterals to enhance the customers’ development journey (Reference Designs, User Guides, Application Notes), and engaging with R&D teams on product definition to meet customer needs.
+ * Augment the Lattice field team by providing technical guidance via technical trainings and developing new design collaterals.
+ * Play an integral role in the transformation of the TS organization. Mentor and grow the next generation of engineers as part of organizational development to form specialized engineers for comprehensive coverage.
+   
+
+Qualifications
+
+ * 10 years of FPGA experience, either as a developer, or designer/user.
+ * Demonstrated expertise in debug across silicon, software, IP, board, and RTL design.
+ * Experience in specific applications (vision, industry automation, AI/ML, communications/networking protocols, embedded systems) is an added advantage.
+ * Ability to work through ambiguities and define processes that scales the team to support more products and higher complexity issues.
+ * Outstanding communication skills and stakeholder management. Experience with direct customer engagement is a plus.
+ * Excel in working across functional teams, sites and cultures.
+   
+
+Benefits
+
+Competitive benefits package including:
+
+ * Medical (HMO), dental, vision effective on date of hire
+ * Employee Stock Purchase Plan, Well-being Programs, Tuition Reimbursement and more

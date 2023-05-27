@@ -1,0 +1,62 @@
+Website: https://www.linkedin.com/jobs/view/3563628132
+
+ICDC - Consultant - Software Developer - [KL-MY]
+
+At Deloitte, we offer a unique and exceptional career experience to inspire and empower talents like you to make an impact that matters for our clientsDate: 13-May-2023
+
+Service Line / Portfolios: Enterprise Technology & Performance
+
+Location:
+
+Kuala Lumpur, MY
+
+At Deloitte, we offer a unique and exceptional career experience to inspire and empower talents in Software Engineering. We are doing build technical cloud & solutions dominantly. You will have chance to work at front-end, back-end, mobile tech, API and low code developer.
+
+Deloitte offers you a highly inclusive, collaborative workplace and unrivalled opportunities to realize your full potential. We are always looking for people with the relentless energy to push themselves further, and to find new avenues and unique ways to reach our shared goals.
+
+Cloud is transforming the way technology enables the business. It represents a radical shift in how IT services are obtained, used, and managed. Companies are navigating through the various cloud options and deciding between private, public, or a combination across different and dynamic provider ecosystems. Our cloud specialists guide our clients through multi-year journeys from the case for change through implementation across all dimensions of cloud - business alignment, technology architecture and design, cloud application on-boarding, and transforming their operating model – to help solve our client’s most complex issues with the focus on value creation.
+
+Our practitioners work collaboratively within integrated, cross-functional teams to deliver comprehensive strategies that enable Cloud and Infrastructure transformations. Teamwork is crucial as teams are composed of a diverse group of specialists across multiple disciplines from both within our consulting practice and from our clients, helping drive towards a successful outcome.
+
+Our practitioners are expected to grow to be able to handle full-stack development. Architects biggest value is that they can expose latest technologies in cross industries and cross sectors.
+
+Work you will do
+
+As a consultant within KLDC team, you are part of a tech team who will do the tech customization, cloud integration.
+
+You will put future-forward thinking into projects that push the edges of technology to support the change of our clients. You will establish and nurture positive working relationships with teams and clients with the intention to exceed client expectations.
+
+ * You will develop middle logic layer and backend handoff to partnering systems.
+ * You will involve in database design and development.
+ * You will perform primary and secondary research, conduct analyses and appropriate modelling tasks that feeds directly into the development of technology-enabled solutions for tackling our clients’ complex business problems.
+ * You will leverage on your training in technology, utilize analytical abilities and communication skills to support the project teams in delivery of our digital solution architectures and in development of work products that addresses our clients’ business needs and help achieve their strategic goals.
+ * You will support the project teams in developing presentation materials and in coordination of communications with the client.
+ * You will assist the project teams in delivery of business-driven, technology-enabled solutions to help our clients meet pressing challenges and seize opportunities in their respective markets.
+ * You will work with diverse and talented project team members to solve problems, improve performance, and generate value for our clients across all industries.
+ * You will uphold the firm’s standards and ethos in working with fellow team members and in your interactions with the clients.
+ * You will support business development efforts by contributing directly to the preparation, development of proposals, presentations and publications.
+   
+
+Enough About Us, Let's Talk About You
+
+ * You will be responsible for management and delivery of a system(s) within a platform leveraging agile practices, by leveraging existing experience of working in an agile environment.
+ * The right person will be a detailed and hands-on developer with at least 4 years of relevant experience
+ * Good programming languages: Java/ .Net/ Kotlin/ Swift/ Outsystems
+ * Strong technical skills in Front-end (React, Vue, Angular, Webpack) OR Back-end (Spring boot, Struts, Spring frameworks, Ruby on Rails, Web Server, Restful APIs)
+ * Experience in delivering solutions on cloud platforms.
+ * Technical proficiency including systems development experience, strong troubleshooting and problem-solving skills, and issue management in a multi-platform environment
+ * Experience with cloud native applications and serverless design is an advantage
+ * Demonstrated skills in communication (oral, written, presentation), analysis, problem solving and short term and long-term planning
+ * Demonstrated portfolio of work showcasing technical competence
+ * An appreciation of the consulting lifestyle and ability to travel (both locally and abroad) is a pre-requisite to fit to our short-term and long-term project assignment.
+   
+
+Next Steps
+
+So what are you waiting for? Join the winning team now.
+
+Due to volume of applications, we regret only shortlisted candidates will be notified.
+
+Requisition ID: 98861
+
+In Malaysia, the services are provided by Deloitte and other related entities in Malaysia ("Deloitte in Malaysia"), which are affiliates of Deloitte Southeast Asia Ltd. Deloitte Southeast Asia Ltd is a member firm of Deloitte Touche Tohmatsu Limited. Deloitte in Malaysia, which is within the Deloitte Network, is the entity that is providing this Website.

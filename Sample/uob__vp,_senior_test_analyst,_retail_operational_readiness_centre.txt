@@ -1,0 +1,46 @@
+Website: https://www.linkedin.com/jobs/view/3325522218
+
+VP, Senior Test Analyst, Retail Operational Readiness Centre
+
+About UOB
+
+United Overseas Bank Limited (UOB) is a leading bank in Asia with a global network of more than 500 branches and offices in 19 countries and territories in Asia Pacific, Europe and North America. In Asia, we operate through our head office in Singapore and banking subsidiaries in China, Indonesia, Malaysia and Thailand, as well as branches and offices.
+
+Our history spans more than 80 years. Over this time, we have been guided by our values — Honorable, Enterprising, United and Committed. This means we always strive to do what is right, build for the future, work as one team and pursue long-term success. It is how we work, consistently, be it towards the company, our colleagues or our customers.
+
+About The Department
+
+The Technology and Operations function is comprised of five teams of specialists with distinct capabilities: business partnership, technology, operations, risk governance and planning support and services. We work closely together to harness the power of technology to support our physical and digital banking services and operations. This includes developing, centralising and standardising technology systems as well as banking operations in Singapore and overseas branches.
+
+Job Responsibilities
+
+ * Lead, coordinate and manage user acceptance testing for retail banking applications
+ * Understand user requirement, review functional specification and plan the testing to ensure adequate testing coverage
+ * Manage end to end testing ensuring quality test verification and documentation, defect reporting, issue resolution, and progress tracking in timely manner
+ * Support business/ operation users in operational readiness, pilot run, health check and project post implementation
+ * Responsible in developing system functionality and user training manual, target operating model and other relevant documentation where applicable
+ * Analyze and provide support/ relevant input on production issues and/ or customer complaints channeled via support staff/ helpdesk.
+ * Participate in country and group level projects as assigned from time to time
+ * Identify and initiate improvements in the test processes and execution
+ * Ensure application parameters setup are carried out with proper control
+ * Provide in-depth training to new hire/existing staff on user acceptance testing management and production support
+   
+   
+
+Job Requirements
+
+ * Bachelor’s Degree in Computer Science or equivalent
+ * Minimum 5 years of experience in functional testing in retail banking domain
+ * Experience in leading a team and has actual handling of job responsibilities described above
+ * Knowledge in retail banking operations, products and services
+ * Good communication and interpersonal skills
+ * Able to work independently and as a team player
+ * Practical knowledge on TOSCA testing tools an added advantage
+   
+   
+
+Be a part of UOB Family
+
+UOB is an equal opportunity employer. UOB does not discriminate on the basis of a candidate's age, race, gender, color, religion, sexual orientation, physical or mental disability, or other non-merit factors. All employment decisions at UOB are based on business needs, job requirements and qualifications. If you require any assistance or accommodations to be made for the recruitment process, please inform us when you submit your online application.
+
+Apply now and make a difference.

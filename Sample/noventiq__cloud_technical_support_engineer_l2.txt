@@ -1,0 +1,137 @@
+Website: https://www.linkedin.com/jobs/view/3567602610
+
+Cloud Technical Support Engineer L2
+
+Description
+
+Noventiq is hiring!
+
+Noventiq’s story is one of change. We grew, expanded, and adapted, learning more at each step. Now effecting change is at the heart of everything we do. And that doesn't just apply to our customers, it’s how we feel about everyone who works with us.
+
+Noventiq (the brand name of Cyprus-registered Softline Holding plc) is a leading global solutions and services provider in digital transformation and cybersecurity, headquartered and listed in London. The company enables, facilitates and accelerates digital transformation for its customers’ businesses, connecting 75,000+ organizations from all sectors with hundreds of best-in-class IT vendors, alongside its own services and solutions.
+
+With a turnover of US$ 1.1 billion in the fiscal year of 2021, Noventiq is currently one of the fastest growing companies in the sector. In October 2021, company "Softline Holding plc" got its primary listing on the London Stock Exchange (LSE:SFTL). Noventiq’s growth is underpinned by its three-dimensional strategy to expand its geography, portfolio and sales channels. The strategy is supported by Noventiq's active approach to M&As, enabling the company to take advantage of the ongoing consolidation in the industry. Noventiq's 3900 employees work in almost 60 countries throughout Asia, Latin America, Eastern Europe and Africa—markets with significant growth potential.
+
+We’re looking for talent in Noventiq Malaysia. You’ll be a part of our Delivery team.
+
+What You’ll Do
+
+Implementing all the processes and activities related to Managed Services which can be supporting them to customers or partners, including but not limited to follow responsibilities:
+
+ Operation And Support
+
+ * Responsible for Customer's Infrastructure Environment/Systems/Applications
+ * Provide the Operation, Administration, and Maintainance of the Customer's systems or Applications
+ * Responsible for solving any problems while operating the Application/System/Infrastructure
+ * Coordinate with internal and external teams to resolve any arising issues
+ * Incident management (create, update, respond, and resolve the ticket in ticketing system)
+ * Problem management (receive, test, reproduce, classify, and report any problem ticket to the Development if any)
+ * Request management (maintain, control, execute, changes, service requests and respond back to customers)
+ * Responsible for answer to customer inquiries on the telephone, through online methods, and by e-mail.
+ * Provide the analyst/troubles shooting for the critical incident and report the RCA
+ * Conduct independent case research tools, databases, knowledge bases, etc.,
+ * Contribute to the technical content in online knowledge base.
+ * Interfaces with customers on general and specific issues within areas of functional expertise.
+   
+
+ Monitoring
+
+ * Installation, set up, configuration and customize the monitoring system
+ * Responsible to resolve any system issue reported by monitoring tool.
+ * Proactive report of performance and system usage of the Application and preventive action.
+   
+
+About You
+
+ * We offer local candidate only.
+ * Have more than 3 years in Cloud Ops, Infrastructure Management, IT Managed Services…
+ * Background: Computer Science Fundamentals
+ * English skills: Intermediate level
+   
+
+ Technical Skill
+
+ * Public cloud fundamental (Azure, AWS, GCP)
+ * Active Directory - Basic configuration, Network basic troubleshooting, Printer - Basic configuration,
+ * Manage Email in Exchange On-premises/Office 365,
+ * Driver Installation, Application Installation, Troubleshooting Windows OS
+ * Troubleshooting macOS, Troubleshooting Hardware Issues, AntiVirus
+ * Spam & phishing, manage permissions on Fileservers, VPN-Basic Configuration, firewall, network
+   
+
+ Domain And Platform
+
+ * Have experience with one of the below System advantages: Salesforce, SharePoint, MS Dynamic, Tableau, Power BI
+   
+
+ Tools and Software
+
+ * Ticketing system: ServiceNow, Zendesk, Freshdesk, Jira service desk, Itop
+ * Monitoring software: Solar-wind, Data dog, Zabbix, PRTC, Nagios, PRTG, AppDynamic
+ * Microsoft Office: Word, Excel, PowerPoint, Outlook, OneNote, Microsoft Project, Microsoft Visio, Office 365,
+ * Remote Desktop: RDP, VNC, TeamViewer, ScreenConnect…
+ * Chat: Microsoft Teams, Skype for Business, Jabber, Slack,...
+ * Meeting: WebEx, Zoom, Meet, GoToMeeting, BlueJeans, X-Lite, Bria Solo, ...
+ * Software and Tools: JIRA Tool, Microsoft Project Software, Gantt Chart Software, Risk Management Tools, …
+   
+
+ Non-Engineering Skills
+
+ * Business or Domain: Customer service, Bank, Finance, Insurance, Aviation, Automotive, Oil and Gas, Health Care, ERP, Data Warehouse
+ * Face-to-face or personal communication, broadcast media communications, written methods of communication, ...
+ * Mobile communications channels, electronic communications channels, ...
+ * Issues and opportunities of solution, limitation of the current solution, business viewpoints for new solution, …
+ * Personal skills: 2-way communication, presentation, counseling, motivating, and proactivity, ...
+ * Workplace skills: Critical thinking and problem solving, forecasting and decision-making, policy/law knowledge and savvy, …
+ * Professional communication skills: Direct communication within professional teams, direct communication with client and partner teams, ...
+ * Business knowledge: customer service, administration, service management, marketing, and relation,...
+ * Minimum certificate level in Professional Service or related quantitative fields
+   
+
+What we offer
+
+ * Organization Contributions
+   
+
+ Project Contributions: Job KPI, Consultant, …
+
+ Model Contributions: Work Performance, Optimization Solutions, Best Approaches,
+
+ * [Managed Service] Project Contributions
+   
+
+ Project Scale: Team Size, Project Man-Months, Onsite, Offshore…
+
+ Project Type: Technology, Business Domain
+
+ * Training and Coaching Contributions
+   
+
+ Training: Courses or Materials of Development,…
+
+ Proficiency: Coaching or Consulting
+
+ Improvements: Tools or Conventions
+
+ Programs: Transfer Technical or Transfer Functional
+
+ * Individual or Personal Contributions
+   
+
+ Community Sharing: Workshop, Semina,
+
+Benefits And Allowance
+
+ * Working time: Mond-Fri, flexible working time, WFH is appliable
+ * Attractive Bonus, & Allowances for mobile, transportation, parking
+ * Opportunities to work with global colleagues from different cultures
+ * Premium Healthcare insurance for employees and family (spouse/children)
+ * External and Internal Training Opportunities & English classes are sponsored by company
+ * Birthday paid day-off & Birthday gift
+ * Recognition program, Referral program
+ * Working device provided or reimbursement on personal device
+ * Other activities: annual company trip, year-end dinner, exciting engagement events, Coaching opportunities, etc.
+ * Annual Salary Review & Promotion
+   
+
+Don’t forget to include your CV and cover letter. We receive a lot of applications, but we try to notice each of our potential candidates.

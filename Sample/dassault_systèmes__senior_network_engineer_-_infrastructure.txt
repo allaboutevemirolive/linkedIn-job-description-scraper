@@ -1,0 +1,26 @@
+Website: https://www.linkedin.com/jobs/view/3505697121
+
+Senior Network Engineer - Infrastructure
+
+Role Description & Responsibilities
+
+ * Perform hands-on technical work as the key interface between our customers, infra engineers, and development to handle complex customer cases and internal projects on a variety of platforms including Windows, Linux, VMware, etc.
+ * Plan, setup and maintain (part of) the infrastructure of the Hosted Solutions environments.
+ * To use your knowledge to help ensure the integrity and the performance of the complete infrastructure are at the highest levels.
+ * Provide resolutions to problems reported by the support department and the monitoring platform during working hours and on-call shifts.
+ * Collaborate with cross-functional teams to develop solutions that support business requirements.
+   
+
+Qualifications
+
+ * Skilled Windows administrator. Knowledge of the Windows Server platform, like Active Directory, DFS, DNS, etc.
+ * Good knowledge of networking and security, next generation firewalls, load balancers and switching (preferably F5/Cisco/Arista/FortiNet).
+ * You have experience with automation and DevOp tools and languages like Ansible, Jenkins, PowerShell.
+   
+
+What's in it for you?
+
+ * Will be exposed to different parts of infrastructure engineering not only networking and security.
+ * Work in a culture of collaboration and innovation
+ * Be offered avenues to develop yourself for career progression
+ * Opportunity to work with a multi-national and multi-disciplinary team

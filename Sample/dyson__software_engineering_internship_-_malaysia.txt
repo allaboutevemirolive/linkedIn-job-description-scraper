@@ -1,0 +1,126 @@
+Website: https://www.linkedin.com/jobs/view/3596185339
+
+Software Engineering Internship - Malaysia
+
+About Us
+
+
+
+
+Dyson is a global technology enterprise. We solve the problems others choose to ignore, with surprising new inventions that defy convention and simply work better. We’re driven by progress and thrive on the challenge of relentless improvement. We’re growing fast and our ambition is huge – more categories, more locations and more people.
+
+
+
+
+Our internships are different. Join us and you’ll be working at the forefront of technology, using your technical know-how to influence the evolution of Dyson connected machines. Since we launched our first connected machine in 2014, our new technology is advancing at speed. Network-based robotics and intelligent sensing technologies, all enabled by advanced software and app platforms, are all cementing Dyson's place as a pioneering global technology enterprise.
+
+
+
+
+Our software and hardware need to combine to make our machines intelligent, so you’ll be interacting with teams from product developers to electronics engineers to ensure our solutions are functional, secure and easy to use.
+
+
+
+
+About The Role
+
+
+
+
+Our software and hardware need to combine to make our machines intelligent, so you’ll be interacting with teams from product developers to electronics engineers to ensure our solutions are functional, secure and easy to use. In addition, you’ll be supported with a development framework designed to provide the technical and commercial know-how to help you drive your Dyson career. The work will be challenging and varied but you’ll be getting stuck in from day one, helping to influence the future of Dyson technology.
+
+
+
+
+Dyson offers the opportunity for aspiring graduate software engineers to join one of the following teams:
+
+
+
+
+Intelligent Machines
+
+
+
+
+The Intelligent Machines team is responsible for developing robotics behaviour and machine learning software including robotics algorithm development and software implementation for the targeted hardware for our products and ecosystem.
+
+
+
+
+Embedded Software
+
+
+
+
+The embedded software team is responsible to design and implement firmware that runs on the target MCU inside Dyson product. The team delivers firmware that interprets what are the input signal coming from the sensors, process the input signal, translate it to a proper system behavior and produce the desired ouput to drive heaters or drive motors depending on the Dyson product
+
+
+
+
+Software Test & Quality Assurance
+
+
+
+
+Dyson Software Test & Quality Assurance teams are responsible for the verification of software customer features and software systems that sit across all Dyson machines, app and clouds. Harnessing a wide range of software or hardware environments across multiple platforms to develop automation code in various programming languages, such as Python, C/C++, java and labview, they drive and pioneer diverse sets of automated tests to ensure software features are robust and perform well. The team also lead continuous quality improvement in software at Dyson, ensuring software development activities comply with required industry and regulatory & standards, such as software security and safety.
+
+
+
+
+You’ll be assigned to a live project team putting your university learning into practice from the get go. Depending on your skillset you could be working on real time embedded software, Mobile App development, debugging, cloud computing or fast prototyping in C/C++.
+
+
+
+
+Whichever team you join, you’ll be applying your university knowledge to make our machines smart and reliable.
+
+
+
+
+Depending on your area of expertise your accountabilities may include:
+
+
+
+
+ * Software design, implementation, testing and integration in different domains
+ * Developing technical solutions for new & existing product streams for large volume manufacture
+ * Verifying & validating solutions against requirements
+ * Pro-actively adopting good quality engineering practices within the Dyson framework.
+
+About you
+
+
+
+
+You’ll Need To Be
+
+
+
+
+Working at the forefront of technology is tough so standards and expectations are high. You’ll be contributing to live projects from the start so you’ll need to be curious, hungry to learn and ready to get stuck in. But it’s not just about technical expertise.
+
+
+
+
+ * Studying towards a Bachelor’s degree in Computer Science, Computer, Electrical, Electronic Engineering, Robotics, Information Systems or related discipline
+ * In your penultimate year and able to commit full-time for at least 12 weeks from June/July 2023
+ * Familiar with programming languages such as Embedded C, Modern C++, Python, Java etc.
+ * Demonstrate practical application of your skills, for example via personal projects or society memberships/events
+ * Have a creative approach to problem solving to ensure our machines are better
+ * Be able to thrive in Dyson’s fast-paced environment
+ * Willing to travel to Johor for the internship
+ * Above all, you’ll want to play a key part in bringing the next generation of Dyson technology to the world.
+
+Benefits
+
+
+
+
+Dyson Malaysia monitors the market to ensure competitive stipends. But financial benefits are just the start of a Dyson career. Professional growth, leadership development and new opportunities abound, driven by regular reviews and dynamic workshops. And with a vibrant culture, the latest devices and a relaxed dress code reflecting our engineering spirit, it’s an exciting team environment geared to fuelling and realising ambition.
+
+
+
+
+Dyson is an equal opportunity employer. We know that great minds don’t think alike, and it takes all kinds of minds to make our technology so unique. We welcome applications from all backgrounds and employment decisions are made without regard to race, colour, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other any other dimension of diversity.
+
+

@@ -1,0 +1,81 @@
+Website: https://www.linkedin.com/jobs/view/3615446326
+
+Assistant Manager, ABAP & PO
+
+At AIA we’ve started an exciting movement to create a healthier, more sustainable future for everyone.
+
+As pioneering innovators for over 100 years, we’re now transforming our organisation to be faster, simpler and more connected. Because we want to be even better equipped to develop digital solutions and experiences that help more people live Healthier, Longer, Better Lives.
+
+To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhanced experiences that will impact the lives of millions of people and create a healthier future for everyone.
+
+If you believe in developing a better tomorrow, read on.
+
+About The Role
+ * Provide on-going support for the SAP ECC system in relation to programming work in ABAP.
+ * Ensure programs are coded and delivered according to AIA programming standards while maintaining necessary documentation of the development work
+ * Ensure SAP PO interface configuration are maintained with due diligence, taking into consideration on impact to all existing SAP PO interfaces
+ * Ensure all addition/changes to SAP PO interfaces and configuration are documented and saved according to AIA practice
+ * Attending to incidents & changes requests for SAP(primarily focused in moderate to high complexity based on Complexity Matrix defined), primarily in the areas of ABAP Workflow, SAPScript, Smartforms, IDocs and PO.
+ * Develop & maintain development documentation (Technical specifications) and other relevant documentation as necessary to ensure sustainability of development work and compliance to Change Governance.
+ * Deploy changes related to incidents & change requests to production system.
+ * Perform POC and feasibility studies for proposed solution in SAP
+ * Perform research beyond SAP solution and integration between SAP and other solution
+ * The resolution time of incidents & change requests must meet agreed SLA time based on incident/change request’s priority.
+ * In term of ABAP specific skillset, he or she is expected to be able to perform ABAP programming in various areas listed but not limited to list below:
+    * Forms: SAPscript, Smartforms, PDF forms
+    * Report: Query report, List reporting, ALV reporting,
+    * Interface: Flat file (in txt/excel format), IDOC, ALE, BAPI, Data Medium Exchange Engine (DMEE)
+    * Conversion: BDC, LSMW
+    * Enhancement: user exits, BADI, Enhancement Implementation, Enhancement Spot, Business Transaction Events (BTE).
+    * Others: Workflow, Screen painting, Dialog/DYNPRO programming
+    * Any other new SAP technology in the future.
+
+ * In the event when assigned to SAP projects, he or she is expected to perform ABAP programming during such assignment with minimal guidance, and adhere to AIA project management process and practice.
+ * Conduct technical training where required on system interfaces
+ * Perform ABAP code review of ABAP colleagues (QA check) to ensure programs delivered adhere to AIA programming standards
+ * Demonstrate keen eye for identifying business process improvements opportunities and to highlight to the team
+   
+   
+
+Education
+
+Job Requirements :
+
+ * Bachelor’s degree Information Technology/Systems, or Engineering or Business related degree majoring in computing systems
+   
+   
+
+Experience
+
+ * More than 8 years SAP ABAP experience
+ * Strong hands-on experience in ALV, BAPI, IDoc, ALE, Smartforms, SAPScripts, Adobe Form, BAdi, BTE, Enhancement Framework, ABAP Objects
+ * Strong hands-on experience in SAP Workflow
+ * Dialog programming experience
+ * Programming experience in the areas of FICO/TRM/ARIBA/CONCUR will be advantageous
+ * Experience with SAP PO will be advantageous
+ * Experience in Java programming for ABAP will be advantageous
+   
+   
+
+Practical Skills/Abilities
+
+ * Possess in-depth analytical, communication, presentation and soft skills
+ * Attention to detail especially in ABAP programming and design ensuring program logic is efficient (no expensive code), and ability to think in a logical manner
+ * Able to communicate well in English
+ * Able to write clearly and work within deadlines
+ * Able to work extended hours when necessary
+ * Possess personal attributes such as diligent, meticulous, tactful interpersonal skills, professional integrity and initiative
+ * Keen to learn, a team player and have good working attitude
+ * MS Office (Excel, Word, Project, PowerPoint, Access, Visio) skills
+   
+   
+
+Certificates/licenses
+
+ * SAP certification/training in ABAP will be advantageous
+   
+   
+
+Build a career with us as we help our customers and the community live Healthier, Longer, Better Lives.
+
+You must provide all requested information, including Personal Data, to be considered for this career opportunity. Failure to provide such information may influence the processing and outcome of your application. You are responsible for ensuring that the information you submit is accurate and up-to-date.

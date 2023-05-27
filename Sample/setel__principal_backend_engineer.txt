@@ -1,0 +1,78 @@
+Website: https://www.linkedin.com/jobs/view/3465492297
+
+Principal Backend Engineer
+
+About Setel:
+
+The Future of Mobility
+
+Introduced in July 2018, Setel is a mobile platform that aims to delight customers by innovating for better, inclusive mobility. Setel serves customers across Malaysia by powering one app as the constant companion to ease motorists’ journey across fueling, parking, EV charging, motor insurance, road tax, auto assistance, general purchases, and more across an ecosystem of PETRONAS petrol stations, retail partners, and online merchants.
+
+Role Purpose:
+
+We’re looking for a Principal Engineer to join the Setel Engineering team. We are obsessed with delivering a seamless and frictionless retail experience for our customers. We strongly believe that we can only deliver these amazing experiences for our customers and merchants when we drive a work culture that inspires innovation, rewards risk-taking, and celebrates stations, retail partners, and online merchants nationwide. We strongly believe that we can only deliver these amazing experiences for our customers and partners when we drive a work culture that inspires innovation, rewards risk-taking, and celebrate success. If you live to solve hard problems love proving out new technologies and take pride in your deliverables, then we’d love to meet you!
+
+In This Role You Will:
+
+ * Be the central technical architect for our rapidly growing suite of applications in a modern microservices architecture.
+ * Work across 10+ teams to mentor engineers with best engineering practices.
+ * Lead architectural decisions on inter-team dependencies for large-scale features.
+ * Afforded freedom to try out new technologies, build out POC and optimize technical debts.
+ * Implement application architecture in conjunction with the individual team leads.
+ * Work with product managers, and engineering leads to understand the application requirements, identify solutions, and determine feasibility & timelines.
+ * Build & deploy web applications and integrate with internal backend and external APIs.
+ * Build & deploy various microservices and APIs as well as develop applications that depend upon them.
+ * Define best practices alongside your team for all aspects of the software development lifecycle, including processes & conventions.
+ * Monitor API performance and suggest methods to improve.
+ * Contribute to the continuous improvement of engineering processes and tools.
+ * Regularly communicate with CTO, CPO, product, and engineering leads on project and delivery status.
+   
+   
+
+You’re A Great Fit If You Have:
+
+ * 7+ years as a Software Engineer for a large-scale, mobile-first product with over a 3 million user base.
+ * Great verbal and written communication skills horizontally and vertically.
+ * Deployed mobile-responsive and highly reactive front-end web applications that serve thousands of concurrent users.
+ * Experience with ReactJS, or Angular web frameworks.
+ * Experience with microservice architectures and understanding scaling and concurrency concerns.
+ * Built, deployed, and managed high-performant backend APIs on Node JS.
+ * Followed coding best practices such as SOLID, Functional Programming, or DDD.
+ * Working knowledge of NodeJS frameworks like NextJS, and NestJS on Typescript.
+ * Know how to optimize the database in MongoDB/DynamoDB, MySQL/Postgres, and caching in Redis/Memcached.
+ * Familiarity with Docker containers using Swarm / Kubernetes orchestration.
+ * Used application performance monitoring tools e.g. New Relic, Prometheus, DataDog, etc.
+ * Used common tools for software development (Git, Slack, JIRA).
+ * Built Payment / Rewards & Loyalty / Marketplace / e-Commerce / SaaS products.
+ * Hands-on experience with Amazon Web Services (AWS) toolset is a bonus.
+ * Experience working with a distributed team across multiple time zones.
+   
+   
+
+What Makes Working With Us Awesome
+
+ * Our people and culture- You will get to work with awesome and friendly colleagues with whom you can expect to collaborate well to deliver your work. Empowerment is given and you will get a lot of opportunities for peer learning.
+ * Availability of tools and applications: You will be provided with different tools to facilitate your work. Automate your work whenever possible so that you can focus on delivering impact for your role.
+ * Development-focused- Your learning and growth matter most to us. We are people-centric and always ready to help our people to define what they want to make an impact on and craft their learning plan accordingly.
+   
+   
+
+Cool Perks/ Benefits
+
+ * Hybrid working arrangement; Flexible working hours
+ * Relax and unwind in the leisure area with video games, board games, books, and more.
+ * Wear your favourite jeans, or any cool OOTD so that you can work comfortably (in style).
+ * Coffee, tea, or snacks are available for consumption in the pantry. Because you’ll be happier with a full tummy.
+ * A healthy body leads to a brilliant mind. Let’s get moving with the inter-company sports team.
+ * There will be workshops, talent shows, sports activities, and other events for sharing and bonding.
+   
+   
+
+Personal Data Protection
+
+Setel Ventures Sdn Bhd is fully committed to the protection of Personal Data and compliance with the Personal Data Protection Act 2010 (“Act”). Setel Ventures Sdn Bhd assures that any Personal Data collected, stored, processed, and used for the purpose of this registration/application shall comply with the requirements of the Act and only be used within Setel Ventures Sdn Bhd.
+
+We ensure that the data you submit to us remains confidential and is used for the purposes stated in the data privacy statement.
+
+By clicking on "Apply", I agree to the data privacy statement and I accept it.
+

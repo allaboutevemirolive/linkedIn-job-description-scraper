@@ -1,0 +1,35 @@
+Website: https://www.linkedin.com/jobs/view/3618710849
+
+Fullstack Developer (Javascript, Up to 16k)
+
+About The Company
+
+Randstad has partnered with a financial institution, a leader in its industry, to build a super app serving a large pool of users.
+
+About The Job
+
+As a Full-Stack Developer， you will be responsible for developing and maintaining the web applications. You'll work on both front-end and back-end development, collaborating with other teams to identify and solve complex problems. You will come up with creative digital solutions & work on latest technologies.
+
+Responsibilities
+
+ * Develop new user-facing features
+ * Build reusable code and libraries for future use following our coding standards
+ * Optimize applications
+ * Collaborate with other team members and stakeholders
+ * Produce specifications from requirements and develop solutions with minimum defects
+ * Assist to ensure all activities and dependencies are identified in the planning phase
+ * Escalate issues and delays in a timely manner
+ * Ensure solutions delivered to testing achieve the agreed quality standard
+ * Document resolutions of issues
+ * Ensure standard issue tracking systems used
+
+experience required
+
+ * Minimum 3 years of professional experience in fullstack development.
+ * Possess a Bachelor of degree in Computer Science, or relevant field.
+ * Good to have skills: Javascript (preferably common frameworks like ReactJS, AngularJS, VueJS, KnockoutJS, NodeJS etc.), HTML5 & CSS.
+   
+
+If you share the same passion, fun, energy and would like to work in a progressive and forward thinking environment, kindly send your latest CV to us by applying or give us a call for a confidential discussion.
+
+Tong Yu | Randstad | +6012 288 8412 | tongyu.chai@randstad.com.my

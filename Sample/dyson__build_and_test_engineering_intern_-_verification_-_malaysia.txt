@@ -1,0 +1,88 @@
+Website: https://www.linkedin.com/jobs/view/3596185354
+
+Build and Test Engineering Intern - Verification - Malaysia
+
+About Us
+
+
+
+
+Dyson is a global technology enterprise. We solve the problems others choose to ignore, with surprising new inventions that defy convention and simply work better. We are driven by progress and thrive on the challenge of relentless improvement. We are growing fast, and our ambition is huge – more categories, more locations and more people.
+
+
+
+
+Our internships are different. Join us and you will be working at the forefront of technology, using your technical knowledge to influence the evolution of Dyson machines. Since we launched our first connected machine in 2014, our innovative technology is advancing at speed. Network-based robotics and intelligent sensing technologies, all enabled by advanced software and app platforms, are all cementing Dyson's place as a pioneering global technology enterprise.
+
+
+
+
+The SEA Build and Test team is responsible for supporting the development of Dyson products by producing prototypes and performing verification & test activities related to both software and hardware for all product categories.
+
+
+
+
+About The Role
+
+
+
+
+Whether you join us for an Industrial Training or a 3-month summer internship, you will be assigned to a project team from day one. Depending on your skills and experiences you could be contributing toward the development of test methods and rigs, simulation and verification testing to providing support during Mass Production manufacturing.
+
+
+
+
+Some Of Your Tasks Could Include
+
+
+
+
+ * Supporting test activities across categories
+ * Developing and executing test methods
+ * Developing and testing algorithms to ensure electronics, software and hardware integration
+ * Designing experiments and necessary rigs/fixtures for component and system characterisation and validation
+ * Testing and assessing the reliability and robustness of our designs
+ * Solving engineering challenges to create better, faster, more cost-effective solutions for Dyson’s unique products
+ * Coding and programming web page and test algorithm using programming language
+
+
+
+
+Working with teams across Research, Design & Development (RDD) with broad range of disciplines, you will be comfortable learning from others, but also sharing your own knowledge, ideas and opinions. We will support you with a development framework designed to help you make the most of your internship.
+
+
+
+
+About You
+
+
+
+
+Working at the forefront of technology is tough so standards and expectations are high. You will be contributing to live projects from the start, so you will need to be curious, hungry to learn and ready to get stuck in. But it is not just about technical expertise. You will need to be:
+ * Studying towards a Bachelor's degree in Electrical, Electronics, Mechanical, Industrial, Software and Mechatronics Engineering or Science related disciplines.
+ * In your penultimate year and able to commit full-time for at least 12 weeks
+ * Graduating by Q3 2024
+ * Familiar with either of these skills:
+    * Programming languages such as Embedded C, Modern C++, Python, Java etc.
+    * Electronics Design knowledge or have experience in Electronics Design through school projects or related activities
+    * Mechatronics knowledge such as CAD (Computer Aided Drawing) design/Power Electronics/Robotics
+
+ * Able to perform research on a specific topic and provide consultation to Engineers. Self-driven, independent and aspire to learn and add more positive energy to the team
+ * Have a creative approach to problem solving to ensure our machines are better
+ * Be able to thrive in Dyson’s fast-paced environment
+ * Able to apply your technical knowledge to solve problems.
+ * Willing to travel to Johor for internship
+
+Benefits
+
+
+
+
+Dyson monitors the market to ensure competitive stipends. Professional growth, leadership development and new opportunities abound, driven by regular reviews and dynamic workshops. And with a vibrant culture, the latest devices and a relaxed dress code reflecting our engineering spirit, it is an exciting team environment geared to fuelling and realising ambition.
+
+
+
+
+Dyson is an equal opportunity employer. We know that great minds don’t think alike, and it takes all kinds of minds to make our technology so unique. We welcome applications from all backgrounds and employment decisions are made without regard to race, colour, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other any other dimension of diversity.
+
+

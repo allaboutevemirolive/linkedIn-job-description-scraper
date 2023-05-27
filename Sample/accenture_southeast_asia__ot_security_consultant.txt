@@ -1,0 +1,46 @@
+Website: https://www.linkedin.com/jobs/view/3501495058
+
+OT Security Consultant
+
+“The future workforce is an equal one – we are setting the goal to achieve a gender balanced workforce by 2025. Find out more here.” https://www.accenture.com/my-en/about/inclusion-diversity/gender-equality.
+
+About Accenture
+
+Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song—all powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. Our 721,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at www.accenture.com.
+
+Security team helps organizations prepare, protect, detect, respond and recover along all points of the security lifecycle. Leveraging our global resources and advanced technologies, we create integrated, turnkey solutions tailored to your needs across your entire value chain. Whether we’re defending against known cyberattacks, detecting and responding to the unknown, or running an entire security operations center, we will help you build cyber resilience to grow with confidence.
+
+
+Job Description
+
+
+Our Operational Technology (OT) team helps clients identify and evaluate security gaps in industrial control systems (ICS), subsequently driving the implementation of solutions to mitigate security exposure. Our OT security consultants are expected to anticipate security requirements, analyze and understand the client security posture and formulate right-sized solutions based on industry leading practices tailored to their specific industries.
+
+You will be responsible for leading ICS security vulnerability assessments and remediation activities along with providing recommendations across a broad range of security domains. An OT Security Consultant / Manager must be proficient with industrial control systems /networks and be able to either lead or support ICS vulnerability assessments and remediation efforts.
+
+In order to be successful at this role, you must have experience in most of the following skills:
+
+Minimum of 2 years control systems security background with relevant previous experience in a technical or consulting environment.
+
+Minimum 2 years of experience with ICS systems and ICS security industry practices along with exposure to Operational technologies
+
+Minimum 2 years with supporting PLC, DCS, SIS, HMI or SCADA systems. Experience supporting and troubleshooting industrial protocols such as OPC, Modbus TCP, HART, Foundation Fieldbus
+
+2 years comprehensive working knowledge of one or more of the following: IEC 62443/ISA 99, ISO 27001, NIST SP 800-82, CPNI Good Practice.
+
+Experience deploying or supporting security practices and technologies such as risk or vulnerability assessments, antivirus software, firewalls, intrusion detection systems, centralized alert logging and monitoring in ICS environments
+
+Experience in deploying security program at energy companies or large manufacturing organizations
+
+Ability to author technical and non-technical documents for varying audiences from technical automation personnel to senior security or operations personnel
+
+Experience designing, maintaining and supporting ICS network infrastructure, including industrial wireless networking – e.g. CCNA, CCNP preferred.
+
+Relevant industry or industrial certifications are highly preferred
+
+Ideally have experience and skills in safety-related control systems, including a work
+
+You will also have opportunities to hone your functional skills and expertise in an area of specialization. We offer a variety of formal and informal training programs at every level to help you acquire and build specialized skills faster. Learning takes place both on the job and through formal training conducted online, in the classroom, or in collaboration with teammates. The sheer variety of work we do, and the experience it offers, provide an unbeatable platform from which to build a career.
+
+Accenture is an equal opportunities employer and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, or any other basis as protected by applicable law.
+

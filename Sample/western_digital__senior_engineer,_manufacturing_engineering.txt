@@ -1,0 +1,59 @@
+Website: https://www.linkedin.com/jobs/view/3618560395
+
+Senior Engineer, Manufacturing Engineering
+
+Company Description
+
+At Western Digital, our vision is to power global innovation and push the boundaries of technology to make what you thought was once impossible, possible.
+
+At our core, Western Digital is a company of problem solvers. People achieve extraordinary things given the right technology. For decades, we’ve been doing just that. Our technology helped people put a man on the moon.
+
+We are a key partner to some of the largest and highest growth organizations in the world. From energizing the most competitive gaming platforms, to enabling systems to make cities safer and cars smarter and more connected, to powering the data centers behind many of the world’s biggest companies and public cloud, Western Digital is fueling a brighter, smarter future.
+
+Binge-watch any shows, use social media or shop online lately? You’ll find Western Digital supporting the storage infrastructure behind many of these platforms. And, that flash memory card that captures and preserves your most precious moments? That’s us, too.
+
+We offer an expansive portfolio of technologies, storage devices and platforms for business and consumers alike. Our data-centric solutions are comprised of the Western Digital®, G-Technology™, SanDisk® and WD® brands.
+
+Today’s exceptional challenges require your unique skills. It’s You & Western Digital. Together, we’re the next BIG thing in data.
+
+Job Description
+
+ * Manufacturing Engineering Process Engineer for Solid State Drive (SSD) Backend Assembly Operation, covering the Product customization build from Labeling, inspection and Packing Process in the production line.
+ * Define the Product Labeling Process at both Manual and Automation line for SSD Products, with error proof systems interlock.
+ * Maintaining the Master Data Attribute for the Labeling and Packaging Material.
+ * Create/Generate the Automation Machine recipes/program for Label Placement, Auto Inspection of Final Product (including the information printed on the Product label) and Packing process.
+ * Design, validate, and analyze for Product quality which includes the Product cosmetic check as well as the Product label quality (Printing Smear/Alignment, placement alignment and etc.) and continuous improvement on the Backend Assembly processes to maximize the UPH/output.
+ * Provide engineering support to project teams to resolve production and quality issues (backend Process).
+ * Collaborate and communicate with internal customers directly on Labeling related issue including both Manual process as well as Automated process.
+ * Drive for process cpk improvement to meet cpk goal of >1.67 and stretch goal of >2.0.
+ * Drive for Process Yield FPY improvement to meet >99.7%.
+ * Define process critical parameter CTQ with trigger limit being define, with trigger alarm being turn on. Define process troubleshooting procedure for manufacturing and OCAP.
+ * Drive for process automation and data automated reporting for real time process improvement.
+ * Leading the Final Inspection Machine calibration and MSA with supplier.
+ * Line e-FAI Conversion buy off for all Labeling process - both Manual and Automated Machine.
+ * Design & Review automation software solutions for SSD Automated Labeling Process (customize machine)
+ * Perform automation software coding standardization / upgrade by to enable SECS/GEM and Database integration alias closely with MES team.
+ * Enable automation performance enhancement along with automation engineering team (machine development team).
+ * Enable machine performance data availability and automation system integration through collaboration with IT team.
+ * Enable APC initiative, Machine learning and Artificial Intelligent programming to enable Light-off Automation manufacturing environment.
+ * Receipt Management Systems for each machine.
+ * Inspection Program/Reciept optimization
+   
+
+Qualifications
+
+ * Bachelor’s degree in Mechanical Engineering, Manufacturing Engineering, Engineering/Computer Science, or related field(s)
+ * 5+ years’ industrial experience in fast paced manufacturing environment
+ * Proven track record of success in process improvement and development
+ * Experience maintaining effective technical relationships with suppliers, vendors, customers (internal and external)
+ * Willingness to execute on multiple tasks in a fast-paced start-up environment
+ * Ability to work within project teams and with customers with dedication and technical excellence
+   
+
+Additional Information
+
+Western Digital thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and contribution.
+
+Western Digital is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our hiring process. Please contact us at jobs.accommodations@wdc.com to advise us of your accommodation request. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.
+
+NOTICE TO CANDIDATES: Western Digital has received reports of scams where a payment is requested on Western Digital’s behalf as a condition for receiving an offer of employment. Please be aware that Western Digital and its subsidiaries will never request payment as a condition for applying for a position or receiving an offer of employment. Should you encounter any such requests, please report it immediately to compliance@wdc.com.

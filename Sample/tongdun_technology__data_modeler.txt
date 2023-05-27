@@ -1,0 +1,45 @@
+Website: https://www.linkedin.com/jobs/view/3612378364
+
+Data Modeler
+
+JobDescription
+
+
+
+
+Tongdun Technology is a super fast-growing unicorn FinTech company specializing in risk management, big data analytics, and anti-fraud services. Valued at $2 Billion by CBINSIGHT and regarded as the Best FinTech Company in Asia by Business Insider, Tongdun Technology is serving more than 10,000 clients worldwide, trusted by Banks, E-Commerce, P2P, and State-Owned Enterprises.
+
+
+
+
+Tongdun Technology was founded by the top and respected international figures in the technology sectors (ex- Alibaba, Paypal, China UnionPay, FICO, SAS, etc.) and backed by well-known investors across Asia-Pacific. We are here to help companies from Financial Industry to develop its business to the next level and promote financial inclusion.
+
+
+
+
+
+
+
+An excellent opportunity to join a super fast growing unicorn FinTech company (www.tongdun.cn/EN) specializing in risk management and anti-fraud services . The ideal candidate will have a strong academic background and looking to move into an exciting fast paced data modeller position.
+
+
+
+
+Responsibilities:
+
+ * Good understanding of the business pain points of customers on the Internet or financial industry, and rapidly convert customer needs into business needs and product needs
+ * According to the actual business situation, responsible for the testing, monitoring and optimization of business security risk strategies and models, and provide decision support for risk management
+ * Continuously promote the implementation of rule models and strategies, conduct in-depth analysis of abnormal risk warnings, and propose independent risk judgments, track, analyse and optimize business risk indicators, and continuously verify and optimize models
+ * Analyse customer group characteristics, establish differentiated risk control strategies and rule sets for scenario-based characteristics, and be responsible for risk control-related data analysis, business rule design, and risk control model application strategy settings
+
+
+
+
+Skills:-
+
+ * Bachelor’s degree or higher qualification in, mathematics, statistics, economics, computer and other related majors are preferred
+ * Have a keen business judgment ability, good at capturing customer needs, and able to provide view on product development paths and priorities according to strategies or algorithms
+ * Familiar with data analysis or data mining, proficient in one or more of SQL, SAS, PYTHON, java, R software
+ * Willingness to learn, strong communication skills, and efficiently coordination with internal and external teams
+ * More than 3 years’ experience in data analysis or modelling, experience in risk control and anti-fraud development, testing, and product experience is preferred
+ * Familiar with operation mode of the Internet or financial industry and experience in Internet financial risk control industry are preferred.

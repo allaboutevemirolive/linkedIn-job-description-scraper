@@ -1,0 +1,51 @@
+Website: https://www.linkedin.com/jobs/view/3618031372
+
+System Engineer/Administrator
+
+We are now hiring Continuous Improvement Engineer to be placed across Plexus Sites
+
+
+
+
+Responsibilities:
+
+
+
+
+ * Manage Windows Server operating systems, services and processes.
+ * Manage Active Directory, DNS, DHCP, Radius Server, SCCM, Exchange, and others.
+ * Provide solutions to continuous business functions and ensure the availability, integrity and security of Plexus data.
+ * Manage security and system updates on server platforms, adhering to internal security policies and audit findings.
+ * Assist to provides evidence of activity based on scheduled routine or in support of on-going audit.
+ * Follows established change management policy and procedure to research and recommend new technology, test and implement system updates, modifications or deletions.
+ * Proactively monitor systems to anticipate growth and plan system upgrade opportunities.
+ * Ensures stakeholder satisfaction by resolving operational issues regarding area of expertise and assignments based on company policies and procedures.
+ * Assists in the deployment of code or system changes within a multiple tiered environment.
+ * Work with cross functional team members to troubleshoot issues and discover root cause analysis for continuous improvement.
+ * Partner and collaborate with members of global IT to deploy purchased or developed technologies that support business requirements.
+ * Some travel may be required to meet the needs of the business.
+ * Ability to support activities outside of normal working hours when necessary.
+
+
+
+
+Requirements:
+
+
+
+
+ * Bachelor's Degree in Computer Sciences, Information Technology or related fields.
+ * 5 years working experience in a related field. Experience in a manufacturing environment is highly desirable.
+ * Advanced working knowledge with Microsoft Windows Server architecture. MCSA/MCSE in Windows Server Infrastructure is a definite plus.
+ * Advanced knowledge of Active Directory, SCCM or Exchange Server will be advantageous.
+ * Excellent communication, organizational, time management and problem solving skills.
+ * Strong sense of urgency, performance-minded and able to work under time constraints.
+ * Excellent customer service skills including direct interaction with users, assertiveness and persistence to address issues to closure.
+ * Positive attitude and eager to learn.
+ * Good organization skills, with the ability to prioritize tasks accordingly, in a fast paced changing environment.
+ * Demonstrated ability to work independently, as well as within teams required.
+
+
+
+
+Plexus is an equal opportunity employer

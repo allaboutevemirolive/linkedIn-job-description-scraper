@@ -1,0 +1,46 @@
+Website: https://www.linkedin.com/jobs/view/3615440967
+
+Lead Analyst, Identity & Access Management
+
+At AIA we’ve started an exciting movement to create a healthier, more sustainable future for everyone.
+
+As pioneering innovators for over 100 years, we’re now transforming our organisation to be faster, simpler and more connected. Because we want to be even better equipped to develop digital solutions and experiences that help more people live Healthier, Longer, Better Lives.
+
+To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhanced experiences that will impact the lives of millions of people and create a healthier future for everyone.
+
+If you believe in developing a better tomorrow, read on.
+
+WE ARE LOOKING FOR .....
+
+Provide security administration functions support to ensure all the defined functions are properly executed according to the guidelines and procedures. Handle security administration and implement controls to safeguard company resources. Conduct technical research and solutions to security issues. Continually improve guidelines and processes. Require security mindset and skills in Windows, AS400, Unix, Linux and database. Prepare for regular reporting about the task status to management.
+
+Roles and Responsibilities
+
+ * Execute security admin according to security request according to guideline and procedure.
+ * Monitoring and control team daily operations on task completeness, quality, staff loadings and performance. Guide and train team members to properly handle security request.
+ * Conduct technical research and provide solutions to security issues.
+ * Update working guidelines and processes and also provide improvement request on internal used applications.
+ * Performs other responsibilities and duties periodically assigned by supervisor in order to meet operational and/or other requirements
+ * Provide operation report to management
+ * Implement AIA standard, process and procedure in daily operation
+ * Monitor with risk assessments on existing and proposed systems Strictly follow AIA standards and internal procedures/guidelines in daily operation
+   
+   
+
+Minimum Requirement
+
+ * Education – University graduated in Computer Science or equivalent
+ * Experience – 5 - 10 years of related working experience in Information Security.  
+ * Experience in managing and monitoring of information security tools and technologies  
+ * Experience in Windows, AS400, Unix, Linux, MSSQL and Oracle security area.
+ * Experience in using PowerShell, Kettle tool and script language (java script, python etc.)
+ * Good understanding of issues and exposure on root cause analysis.  
+ * Team Player and Collaboration  
+ * Good analytical and planning skills  
+ * Excellent written and verbal communication skills in English
+   
+   
+
+Build a career with us as we help our customers and the community live Healthier, Longer, Better Lives.
+
+You must provide all requested information, including Personal Data, to be considered for this career opportunity. Failure to provide such information may influence the processing and outcome of your application. You are responsible for ensuring that the information you submit is accurate and up-to-date.

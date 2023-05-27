@@ -1,0 +1,66 @@
+Website: https://www.linkedin.com/jobs/view/3616692789
+
+Digital Finance & Operating Model Platform (SAP FICO) - Consultant / Analyst - CFO & Enterprise Value
+
+Accenture:
+
+Accenture is a leading global professional services company, providing a broad range of services in strategy and consulting, interactive, technology and operations, with digital capabilities across all these services. We combine unmatched experience and specialized capabilities across more than 40 industries – powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. With 509,000 people serving clients in more than 120 countries, Accenture brings continuous innovation to help clients improve their performance and create lasting value across their enterprises. Visit us at www.accenture.com
+
+Brief Profile: We are looking for a candidate who can bring finance knowledge, process expertise, world class capabilities to our clients to deliver business value
+
+To work with leading global clients to develop and execute solutioning, system design, blueprinting, proof of concepts, data modeling, etc. of Finance technology solutions in SAP
+
+Work may require extensive travel (international/within India) to client sites for project work
+
+Key responsibilities of the role:
+
+Draw on extensive knowledge and experience across SAP System Integration projects to provide insightful, deal-relevant points of view and recommendations based on robust analysis
+
+Participate in the project delivery of Finance module / application design, blueprint, solutioning, modeling, proof-of-concept development, etc.
+
+Have a good understanding of all modules that integrate with Finance module and play an active role in integration during design and implementation
+
+Responsible for interacting with business users for requirement gathering and providing timely updates on progress made
+
+Support continuous improvement capability with regards to methodology, tools, practices and maturity
+
+Key Competencies and Skills:
+
+Process exposure in Finance, Operating Model, Shared Services Operations
+
+Finance business process knowledge related to Organization Structure, Master Data, Accounts Payable, Accounts Receivable, Asset Accounting, General Ledger, Chart of Accounts, Taxation, Costing, Treasury, etc.
+
+Experience in SAP Reporting capabilities in BI/BO, BW, SAC, etc.
+
+Understanding of SAP and Allied Systems’ Reporting and Customization capabilities
+
+Understanding of Fiori and Dashboard development capabilities in SAP Core ERP and Allied Systems
+
+Strong requirement gathering skills (like AS IS, TO-BE, Gaps), business Process understanding, RICEF objects etc.
+
+Deep knowledge and experience in SAP System Integration projects, namely, SAP ECC and S/4HANA Finance modules / applications
+
+Strong MS office skills. Should well versed with preparing workshop materials, process flow diagrams & excel skills (Vlook up, Pivot etc.)
+
+Drawing on extensive knowledge and experience across SAP System Integration projects to be able to deliver projects on design and implementation
+
+Supervision of Accenture analysts and consultants and client personnel in limited capacity
+
+Ability to work independently with minimal supervision
+
+Experience in : 1+ years’ experience of working on SAP4HANA
+
+2+ years’ experience of working on SAP FICO + Project Improvement
+
+4+years’ experience in Finance Technology relevant projects
+
+Technical Experience:
+
+SAP FI-CO
+
+SAP S4HANA
+
+SAP SD, MM, PS, PP, HR, etc. (Preferable)
+
+SAP BW, BI, BO, SAC, SF, etc. (Preferable)
+

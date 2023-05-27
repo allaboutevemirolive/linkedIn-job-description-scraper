@@ -1,0 +1,151 @@
+Website: https://www.linkedin.com/jobs/view/3472908136
+
+Associate I - Semiconductor S/W Product Development
+
+Job Description
+
+Role Proficiency:
+
+Acts under continuous guidance and support develop test and document applications
+
+Outcomes
+
+ * Interpret the applications features and component design developing the same in accordance with user stories/ specifications per directions provided
+ * Code debug test. document and communicate product/component/feature development stages.
+ * Identify and report opportunities to improve efficiency and quality (e.g. repeatable processes that can be automated)
+ * Adhere to project timelines and communicate effectively over e-mails and conversations
+ * Conduct unit testing to validate unit level functionalities
+ * Practice FAST goals; seek and accept feedback
+ * Learn technology business domain system domain individually and as recommended by the project/account
+   
+
+Measures Of Outcomes
+
+ * Adherence to engineering process and standards (coding standards)
+ * Adherence to schedule / timelines
+ * Adherence to SLAs where applicable
+ * Number of defects post delivery
+ * Number of non-compliance issues
+ * Reduction of reoccurrence of known defects
+ * Quickly turnaround production bugs
+ * Meet the Defined productivity standards for project
+ * Completion of all mandatory training requirements
+   
+
+Code
+
+Outputs Expected:
+
+ * Learn coding standards and practice them in development. Develop code with guidance for the above
+   
+
+Configure
+
+ * Follow configuration process
+   
+
+Test
+
+ * Create and conduct unit testing
+ * Document test results
+   
+
+Domain Relevance
+
+ * Develop features and components with good understanding of the business problem being addressed for the client
+   
+
+Manage Defects
+
+ * Raise
+   
+
+fix
+
+retest defects
+
+Document
+
+ * Create documentation for one's own work
+   
+
+Status Reporting
+
+ * Report status of tasks assigned
+ * Comply with project related reporting standards/process
+   
+
+Manage Knowledge
+
+ * Consume project related documents
+   
+
+share point
+
+libraries and client universities
+
+Release
+
+ * Adhere to release management process
+   
+
+Requirement
+
+ * Understand the requirements/user stories
+   
+
+Design
+
+ * Understand the design/LLD and link it to requirements/user stories
+   
+
+Skill Examples
+
+ * Explain and communicate the design / development to the mentors/leads
+ * Perform and evaluate test results against product specifications
+ * Develop user interfaces business software components and embedded software components
+ * Manage and guarantee high levels of cohesion and quality
+ * Use data models
+ * Perform and evaluate tests in the customer or target environment
+ * Team player
+ * Good written and verbal communication abilities
+ * Proactively ask for and offer help
+   
+
+Knowledge Examples
+
+ * Appropriate software programs / modules
+ * Programming languages
+ * DBMS
+ * Operating Systems and software platforms
+ * Integrated development environment (IDE)
+ * Agile methodology
+ * Knowledge of customer domain and also sub domain where problem is solved
+   
+
+Additional Comments
+
+Responsibilities:
+
+ * Provide support to Module R&D NPI programs in product and process development
+ * To provide technical support and data analysis on product related issues and product improvements (Cost and Yield).
+ * Handles new transceiver product transfers from NPI to mass volume production lifecycle.
+ * Prepares product engineering documentation and engineering related changes with related revision change.
+ * Supports pilot manufacturing line in the assembly, testing and evaluation of new products.
+ * Collaborates with R&D team and participate in the design, qualification, and implementation of new test processes.
+ * Evaluates Product yield, cost, performance and suitability for release into production.
+ * Develops and maintains a systematic debug guide documentation for responsible products.
+ * Acquires hands-on technical knowledge on products and test methodology as well as applications transferred from R&D.
+ * Drives efforts in product re-engineering, cost reduction, yield improvement, quality and reliability improvement.
+ * Supports and initiates ECOs, BOM changes, test processes, procedures and specification modifications.
+ * Provides technical support and analysis on product related issues and RMA.
+ * Engage customers, sales, and marketing with customer qualification cycle.
+ * Conducts data analysis and statistics pertaining to product performance and quality improvements. Requirements:
+ * Master/Bachelor’s degree in Electronics/Electrical, Communications, Mechatronics or Applied Science in Physics/Photonics
+ * Preferably with relevant experience in product engineering.
+ * Experience working in PCBA, Semiconductor devices, IC fabrication manufacturing environment and Product Testing.
+ * Good knowledge in BOM maintenance, statistical quality tools and problem analysis
+ * Understand basic test methodologies and able to interpret/read electrical schematics and mechanical drawings
+ * Strong technical knowledge and ability to trouble shoot product and test equipment issues and initiatives to drive performance goals.
+ * Experience on New Product (NPI) qualifications and transfer.
+ * Knowledge in Zemax Optical modeling is an advantage.

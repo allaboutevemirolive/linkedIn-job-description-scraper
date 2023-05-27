@@ -1,0 +1,112 @@
+Website: https://www.linkedin.com/jobs/view/3616695859
+
+Senior Engineering Manager (Bangkok based, relocation provided)
+
+About Agoda
+
+
+
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+
+
+
+Get to Know our Team:
+
+
+
+
+In Agoda’s Engineering department, we build the scalable and fault-tolerant systems. Our systems cover all major areas of our business: website, mobile apps, affiliate apis, inventory and pricing, product information, customer data, communications, partner data, booking systems, payments, finance and more. These mission-critical systems change frequently with dozens of releases per day, so we must employ state-of-the-art CI/CD, experimentation and advanced testing techniques in order to make sure everything works without any downtime. We also ensure that our systems are self-healing, responding gracefully to extreme loads or unexpected input. In order to accomplish this, we use state-of-the-art languages like React, Redux state management, Javascript, Kotlin, Scala, data technologies like Kafka, Aerospike and Big Data, and agile development practices. Most importantly though, we hire great people from all around the world and empower them to be successful. Whether it’s building new projects like Flights and Packages or innovating on the latest fintech idea or reimagining our existing business, you’ll make a big impact as part of our Engineering team.
+
+
+
+
+The Opportunity:
+
+
+
+
+The Senior Engineering Manager role at Agoda is one of the most significant and challenging roles in Technology. The right candidate has both deep technical knowledge and exhibits extremely strong leadership and people development skills. They should also have experience leading large engineering teams and managing managers.
+
+
+
+
+In this Role, you’ll get to:
+
+
+
+
+ * Manage large engineering teams
+ * Directly manage engineering managers and star engineers.
+ * Provide technical input into new business ideas
+ * Work with senior leadership up to C-level
+ * Work and drive initiatives outside of your core team
+ * Build and guide the technical roadmap for your area
+ * Take ownership of major projects that are strategic to Agoda
+ * It’s important to have a love of engineering and a passion for building things elegantly and at scale. Staying in touch with where the industry is going is crucial, and it’s important to have strong opinions about how systems should be architected, engineered, and maintained
+ * Developing people – Despite our investment and belief in technology, people are still our greatest asset. The right candidate will have a keen interest in developing people: inspiring those around them so they can achieve their potential. Being able to bring A-players such as yourself from outside and integrating them into the business will also be important
+
+
+
+
+What you’ll Need to Succeed:
+
+
+
+
+ * Experience managing large engineering teams (>25 people)
+ * Experience hiring and managing engineering managers
+ * Experience developing future engineering managers from within the company
+ * Experience rapidly growing a team
+ * Experience communicating to C-level
+ * At least 5 years of experience managing engineering teams , 10+ years of experience in software engineering.
+ * Demonstrable experience as a system owner with operational responsibility
+ * Able to operate with autonomously: making decisions, setting KPIs, with a strong sense of ownership
+ * Extremely proficient in at least one programming language ( React, Javascript Kotlin, Scala, Java, C#)  
+ * Knowledge in scale, microservices and clean architecture
+ * A focus on velocity and quality, along with the right engineering metrics to guide and improve these
+ * Excellent people management and communication skills
+ * Minimum a B.S. in Computer Science or quantitative field;
+
+
+
+
+It’s Great if you have:
+
+
+
+
+ * Proficiency in range of backend programming languages.
+ * Proficiency with web client-side technologies (React, Redux. state management, JavaScript, SASS, Performance optimization)
+ * Proficiency in one or more mobile platforms (iOS, Android, Web)
+ * Have experience managing in a data driven company with experience analyzing and working with Big Data
+ * A key player at an Internet company that is at scale with large numbers of users and transactions per second
+ * Worked on global projects serving world markets with distributed data centers
+
+
+
+
+#sanjose #losangeles #tirana #sydney #melbourne #perth #vienna #minsk #brussels #saopaolo #sofia #vancouver #shanghai #beijing #shenzhen #zagreb #cyprus #copenhagen #helsinki #paris #berlin #athens #hongkong #budapest #jakarta #dublin #telaviv #milan #rome #tokyo #osaka #luxembourg #kualalumpur #amsterdam #oslo #jerusalem #manila #moscow #belgrade #bratislava #barcelona #madrid #stockholm #zurich #taipei #tainan #istanbul #london #marrakech #wroclaw #rio #IT #4 #5
+
+
+
+
+Equal Opportunity Employer
+
+
+
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+
+
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+
+
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+
+

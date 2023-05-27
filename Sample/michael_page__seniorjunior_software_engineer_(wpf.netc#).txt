@@ -1,0 +1,46 @@
+Website: https://www.linkedin.com/jobs/view/3612363062
+
+Senior/Junior Software Engineer (WPF.NETC#)
+
+ * Attractive remuneration package|Be part of a globally recognized organisation
+   
+   
+   
+
+About Our Client
+
+Our client is the global leader in providing cash technology solutions across a diverse industry including finance, retail in and servicing clients in more than 120 countries. They are headquartered in the UK and has more than 100 years of presence globally in the technology solutions industry. With their current expansion in the APAC region, they are looking to grow the Malaysia team and is looking for 1 Junior and 1 Senior software engineers to be part of the movement. If you are looking for a global exposure and working environment with strong .NET desktop application experience, apply with us!
+
+Job Description
+
+
+ * Work closely with Project Managers and other members of the project team.
+ * Opportunity to lead and manage project team members in full software development life cycle.
+ * Designing, coding, testing and deployment modern applications/software based desktop application on the business and technical requirement.
+ * Produce project estimates and attend client meetings.
+ * Assist in application architecture design and technical solutions, and make relevant recommendations to the project team/clients.
+ * Ensure timely completion of assigned deliverable / work.
+ * Communicate to the Project Manager/Lead with efficiency and accuracy any progress regarding projects.
+   
+
+The Successful Applicant
+
+
+ * 1 year - 7 years of experience in WPF/desktop application development.
+ * Demonstrated expertise using .Net, C#, Bootstrap (CSS, HTML5), jQuery, and JSON.
+ * Experience with cloud computing platforms such as AWS, Azure, or Google Cloud Platform
+ * Experience with version control systems such as Git
+ * Experience leading Agile development teams using Scrum or Kanban methodologies
+ * Experience overseeing the work of development partners
+
+What's on Offer
+
+ * Attractive remuneration package
+ * Opportunity for extensive training/development and career progression
+ * Be part of a globally recognised organisation
+   
+   
+
+Contact: Wei Ling Woon
+
+Quote job ref: JN-052023-6062243

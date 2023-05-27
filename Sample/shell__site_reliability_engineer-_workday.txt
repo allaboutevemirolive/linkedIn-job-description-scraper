@@ -1,0 +1,97 @@
+Website: https://www.linkedin.com/jobs/view/3618860523
+
+Site Reliability Engineer- Workday
+
+Where you fit in
+
+
+
+
+As a Workday IT Engineer, you will be part of the Workday Functional DevOps team, supporting functional configuration that is an integral part of the Workday Security supporting various other modules in Workday. Also, you will be deeply involved in end-to-end system features implementation, from design, configuration, testing and defects resolution to post-deployment maintenance and troubleshooting. You will be required to understand both the technical and business side of HRIT processes, to deliver greater business impact and improved employee experience in a more affordable way.
+
+
+
+
+What’s The Role
+
+
+
+
+ * Actively contribute to value delivery through “One Team – One Goal”, “Self-Organizing” and “Continuous Improvement” agile principles. We operate with a strong emphasis on teamwork and close collaboration across all roles and functions
+ * Troubleshoot issues in the Workday landscape & integrations to multiple systems – deploying fixes and/or working with other systems support teams to identify/deploy a fix
+ * Monitor end-to-end Workday landscape using monitoring tools, investigate and pro-actively fix systemic issues either through system changes or working with other systems support teams
+ * Ensuring the integrity of the end-to-end landscape, data flows and integrations with connected systems throughout the change and deployment lifecycle.
+ * Have a solid understanding of user needs – capture/clarify requirements to enable impact analysis and delivery of committed change requests in Workday through sprints
+ * Stay up to date with Workday Product development and Community, utilizing best practices and technical documentation available
+ * Engage on a daily basis with colleagues from HRIT DevOps Team (Product Owner, Scrum Master, DevOps Analysts, DevOps Engineers, security, Information Risk Management (IRM) & other IT and HR areas specialists) and actively participate in scrum ceremonies
+
+
+
+
+What We Need From You
+
+
+
+
+ * Bachelor's Degree or equivalent work experience and minimum 5 years of experience in information technology
+ * Quick learner who can upskill in Workday Security and Reporting module with our internal medium intense training. This also expects a Self-learning effort (under guidance)
+ * Strong communication and interpersonal skills (verbal and listening skills)
+ * Minimum of 3 years of Application development or support (any IT application)
+ * Good to have Knowledge of ServiceNow and Azure tools
+ * Ability to work in a team-oriented, collaborative environment, fast-paced and handle planned and unplanned responsibilities
+ * Influencing and showcasing stakeholder management skills
+
+
+
+
+Company Description
+
+
+
+
+Shell is a global energy company where we work towards powering progress through more and cleaner energy solutions. We use advanced technologies and take an innovative approach to help build a sustainable energy future. In India Shell has its business footprint in Information Technology, Projects & Technology, Finance Operations, Integrated Gas, and Downstream & Upstream spread across more than 7 main locations.
+
+
+
+
+An innovative place to work
+
+
+
+
+Join us and you’ll be adding your talent and imagination to a business with the ambition to shape the future – whether by investing in renewables, exploring new ways to store energy or developing technology that helps the world to use energy more efficiently, everyone at Shell does their part.
+
+
+
+
+An inclusive place to work
+
+
+
+
+To power progress together, we need to attract and develop the brightest minds and make sure every voice is heard. Here are just some of the ways we are nurturing an inclusive environment – one where you can express your ideas, extend your skills and reach your potential…
+
+
+
+
+We are creating a space where people with disabilities can excel through a transparent recruitment process, workplace adjustments and ongoing support in their roles. Feel free to let us know about your circumstances when you apply, and we’ll take it from there.
+
+
+
+
+We are striving to be a pioneer of an inclusive and diverse workplace, promoting equality for employees regardless of sexual orientation or gender identity.
+
+
+
+
+We consider ourselves a flexible employer and want to support you in finding the right balance. We encourage you to discuss this with us in your application.
+
+
+
+
+A rewarding place to work
+
+
+
+
+As an equal opportunity employer, combining our ideas through a creative, collaborative environment and global operations – we have developed and will continue to nurture a unique workplace with an impressive range of benefits to ensure that joining Shell is an inspired and rewarding career choice for everyone.

@@ -1,0 +1,133 @@
+Website: https://www.linkedin.com/jobs/view/3596186346
+
+Graduate Software Engineering - Malaysia
+
+About Us
+
+
+
+
+Dyson is a global technology enterprise. We solve the problems others choose to ignore, with surprising new inventions that defy convention and simply work better. We’re driven by progress and thrive on the challenge of relentless improvement. We’re growing fast and our ambition is huge – more categories, more locations and more people.
+
+
+
+
+Our scale and rapid growth make Dyson rich in new opportunities. We value new ideas and diverse perspectives, so our people are trusted with real work and responsibility from the outset. You’ll develop fast and have the chance to move into different business areas and regions. And you’ll be part of a global network of like-minded people – a community that supports and learns from each other.
+
+
+
+
+Join us as a graduate and you’ll be supporting the evolution of Dyson’s connected products. Since we launched our first connected product in 2014, our new technology is advancing at speed. Network-based robotics and intelligent sensing technologies, all enabled by advanced software and app platforms, are all cementing Dyson's place as a pioneering global technology enterprise.
+
+
+
+
+About The Role
+
+
+
+
+Our software and hardware need to combine to make our machines intelligent, so you’ll be interacting with teams from product developers to electronics engineers to ensure our solutions are functional, secure and easy to use. In addition, you’ll be supported with a development framework designed to provide the technical and commercial know-how to help you drive your Dyson career. The work will be challenging and varied but you’ll be getting stuck in from day one, helping to influence the future of Dyson technology.
+
+
+
+
+Dyson offers the opportunity for aspiring graduate software engineers to join one of the following teams:
+
+
+
+
+Intelligent Machines
+
+
+
+
+The Intelligent Machines team is responsible for developing robotics and new complex product software including robotics and machine learning algorithm development, and software implementation for the targeted hardware for our products and ecosystem.
+
+
+
+
+Embedded Software
+
+
+
+
+The embedded software team is responsible to design and implement firmware that runs on the target MCU inside Dyson product. The team delivers firmware that interprets what are the input signal coming from the sensors, process the input signal, translate it to a proper system behavior and produce the desired ouput to drive heaters or drive motors depending on the Dyson product.
+
+
+
+
+Software Test & Quality Assurance
+
+
+
+
+Dyson Software Test & Quality Assurance teams are responsible for the verification of software customer features and software systems that sit across all Dyson machines, app and clouds. Harnessing a wide range of software or hardware environments across multiple platforms to develop automation code in various programming languages, such as Python, C/C++, java and labview, they drive and pioneer diverse sets of automated tests to ensure software features are robust and perform well. The team also lead continuous quality improvement in software at Dyson, ensuring software development activities comply with required industry and regulatory & standards, such as software security and safety.
+
+
+
+
+As a Graduate Software Engineer You Could Be Working Across a Number Of Our Teams And Depending On Your Area Of Expertise, Your Accountabilities May Include
+
+
+
+
+Whatever your specialism, you’ll be playing a key role in making our machines smart and reliable.
+
+
+
+
+ * Software design, implementation, testing and integration in the embedded software
+ * Developing technical solutions for new & existing product streams for large volume manufacture
+ * Verifying & validating solutions against requirements
+ * Pro-actively adopting good quality engineering practices within the Dyson framework.
+
+Our Graduate Programme
+
+
+
+
+Our graduate programme is designed to help you drive your career at Dyson with a two-year journey to help you grow both personally and professionally. We’ll help you to improve your knowledge and support your future career progression with workshops to give you baseline soft skills in addition to technical training. Our unique experiential journey provides a framework so you can reach your full potential with leadership talks, lunch-and-learns and more. You may have the opportunity to rotate into a variety of teams to support your professional development.
+
+
+
+
+About You
+
+
+
+
+Our graduate roles are competitive and delivering the next generation of Dyson technology is tough, so you will need to be:
+
+
+
+
+ * Working towards or have achieved a Computer Science, Computer Engineering, Electrical, Electronic Engineering, Robotics, Information Systems or related discipline
+ * Graduating by August 2023
+ * Familiar with programming languages such as C, modern C++, Python etc.
+ * Able to evidence how you have applied your technical knowledge to solve problems, either through your university projects or as part of your co-curricular activities
+ * Have a creative approach to problem solving to ensure our machines are better
+ * Able to thrive in Dyson’s fast-paced environment
+ * Willing to relocate to Johor Bahru
+
+
+
+
+For application to be considered, please upload your detailed resume.
+
+
+
+
+Benefits
+
+
+
+
+Dyson Malysia monitors the market to ensure competitive salaries and bonuses. Beyond that, you’ll enjoy a transport allowance and comprehensive medical care and insurance. But financial benefits are just the start of a Dyson career. Professional growth, leadership development and new opportunities abound, driven by regular reviews and dynamic workshops. And with a vibrant culture, the latest devices and a relaxed dress code reflecting our engineering spirit, it’s an exciting team environment geared to fuelling and realising ambition.
+
+
+
+
+Dyson is an equal opportunity employer. We know that great minds don’t think alike, and it takes all kinds of minds to make our technology so unique. We welcome applications from all backgrounds and employment decisions are made without regard to race, colour, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other any other dimension of diversity.
+
+

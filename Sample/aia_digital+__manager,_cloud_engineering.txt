@@ -1,0 +1,61 @@
+Website: https://www.linkedin.com/jobs/view/3615446327
+
+Manager, Cloud Engineering
+
+At AIA we’ve started an exciting movement to create a healthier, more sustainable future for everyone.
+
+As pioneering innovators for over 100 years, we’re now transforming our organisation to be faster, simpler and more connected. Because we want to be even better equipped to develop digital solutions and experiences that help more people live Healthier, Longer, Better Lives.
+
+To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhanced experiences that will impact the lives of millions of people and create a healthier future for everyone.
+
+If you believe in developing a better tomorrow, read on.
+
+About The Role
+
+The overarching objective is to assist the wider team to assure the operational performance of Amplify Health’s Public Cloud services.
+
+The role will ensure the smooth operation of the Public Cloud services by responding to business requests.
+
+The role will also work closely with the Cloud Engineer, Automation to identify new use cases for automation from frequent business unit provisioning or support requests.
+
+Supporting of cloud environments such as Azure, while working
+
+Responsibilities Include, But Are Not Limited To, The Following
+
+ * Assist in the support of the AH Azure Cloud environment
+ * Liaise with service providers to ensure that operational processes (backup, patching, provisioning, monitoring) for service follow-up and incident management.
+ * Improve operational efficiency via use-case definition with the Automation Engineer
+ * Support Group Technical Risk to ensure compliance to all security requirements and standards
+ * Support of non-standard cloud services that might not be covered in service provider contracts
+   
+   
+
+Minimum Job Requirements
+
+ * 5+ years relevant experience in Cloud Engineering / Support role
+ * Excellent understanding and proven experience in Public Cloud implementation, workload migration and operational support in a multi-site enterprise environment
+ * Proven experience plus relevant professional certifications (Azure, AWS etc)
+ * Experience with Microsoft PowerShell
+ * Hands-on experience with Azure Kubernetes Service (AKS)
+ * Understanding of Infrastructure-As-Code configuration management tooling (at least one of the following – Terraform, Ansible, Saltstack, Chef/Puppet)
+ * Ability to define use-cases for automation and service improvement
+ * Practical experience of supporting Enterprise Public Cloud Services and automation
+ * Life insurance experience within a regional or multinational scope will be an advantage
+ * Experience within a decentralized organization, preferably within the Group unit
+ * Sound understanding of IT operating model design and best practices
+   
+   
+
+Special Skills
+
+ * Ability to demonstrate independent leadership, judgment, and decision making
+ * Ability to adjust to multiple and changing priorities, remaining flexible and open
+ * Ability to create and maintain cooperative working relationships with internal and external stakeholders of peer levels
+ * Analytical and communication skills to understand business context; and enquire, counsel, and present solutions in an understandable and simple manner.
+ * Be a self-starter and possess the confidence and skills to operate well within a team of highly skilled peers
+   
+   
+
+Build a career with us as we help our customers and the community live Healthier, Longer, Better Lives.
+
+You must provide all requested information, including Personal Data, to be considered for this career opportunity. Failure to provide such information may influence the processing and outcome of your application. You are responsible for ensuring that the information you submit is accurate and up-to-date.

@@ -1,0 +1,63 @@
+Website: https://www.linkedin.com/jobs/view/3564379738
+
+DTCO APR Manager
+
+Job Description
+
+
+
+
+Join Intel to have an opportunity to create and extend computing technology to connect and enrich the lives of every person on Earth. In this role you'll supervise a team of DTCO (Design Technology Co-Optimization) engineer performing all aspects of the SoC design flow from high level design to synthesis, place and route, timing and power to create an optimal design. In this technical manager role, responsibilities include although not limited to: - Support RTL synthesis and place and route experiments using internal and external vendor tools to improve Intel's product Power, Performance, and Area, for existing and future process nodes on internal Intel Architecture (IA/X86) and external ARM IP's. - Deal with changes in floorplan, corresponding scaling, and its impact to power, congestion, and timing for the present technology node and predict how it would impact the scaling of power, routing and timing for the next technology node. - Help improve cell utilization and transistor density metrics by leveraging leading edge tools and methodologies. - Able to analyze power (dynamic and leakage), performance (setup and hold), improve critical path timing, find ways to reduce congestion by making best use of available metal layers, debug tools and more. - Working on PPA (Power, Performance, Area) analysis on big and small IP blocks based on latest process technology nodes. - Manage both the people and the technical deliverables - Expect to work with cross site team members
+
+
+
+
+Qualifications
+
+
+
+
+You must possess the below requirements to be initially considered for this position. Preferred qualifications are in addition to the requirements and are considered a plus factor in identifying top candidates. Minimum Qualifications Bachelor Degree (Masters Degree preferred) in Electrical Engineering, Computer Engineering, Computer Science, or other related field of study 12+ years of relevant experience in silicon design and/or TFM development 5+ years of proven experience in managing teams with a strong record of delivery. Experience in tracking and reporting project progress. Experience in the following areas: At least one of the following: Python, Perl, TCL, Shell scripting Use of industry standard placement and routing CAD tools Preferred: Floor planning and power grid setup, Clock methodologies, IR droop and SI mitigation strategies, power and timing signoff conditions, and leveraging the industry standard tools, flows, and methodology to get the correct PPA tradeoffs. Experience performing feasibility or technology pathfinding Background in Artificial Intelligence and Machine Learning (AI-ML) #designenablement
+
+
+
+
+Inside this Business Group
+
+
+
+
+As the world's largest chip manufacturer, Intel strives to make every facet of semiconductor manufacturing state-of-the-art -- from semiconductor process development and manufacturing, through yield improvement to packaging, final test and optimization, and world class Supply Chain and facilities support. Employees in the Technology Development and Manufacturing Group are part of a worldwide network of design, development, manufacturing, and assembly/test facilities, all focused on utilizing the power of Moore’s Law to bring smart, connected devices to every person on Earth.
+
+
+
+
+Posting Statement
+
+
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+
+
+
+Benefits
+
+
+
+
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here: https://www.intel.com/content/www/us/en/jobs/benefits.html
+
+
+
+
+Working Model
+
+
+
+
+This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site.
+
+In certain circumstances the work model may change to accommodate business needs.
+

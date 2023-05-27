@@ -1,0 +1,51 @@
+Website: https://www.linkedin.com/jobs/view/3613019109
+
+System Software Engineer – Server Platform
+
+WHAT YOU DO AT AMD CHANGES EVERYTHING
+
+We care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next-generation computing experiences – the building blocks for the data center, artificial intelligence, PCs, gaming and embedded. Underpinning our mission is the AMD culture. We push the limits of innovation to solve the world’s most important challenges. We strive for execution excellence while being direct, humble, collaborative, and inclusive of diverse perspectives. This is who we are at our best. One Company. One Team.
+
+AMD together we advance_
+
+System Software Engineer – Server Platform
+
+The Role
+
+AMD is looking for a highly talented engineer to join our Datacenter Solution Engineering team as an overall expert in Server system software Engineer. System Software Engineer will work closely with our customers who are developing AMD EPYC based systems. This Engineer will develop end-to-end customer debug tool solution which help team to resolve customer critical issues in time through the debug tool time to meet product development or sustaining milestones. Opportunity to learn emulation and enable debug tools for post-silicon used.
+
+The Person
+
+A successful candidate is one who can drive technical decisions independently, has accountability for accuracy, reliability and completeness of assignment results critical to the project’s success. This role allows the opportunity to influence technical decisions that have a significant impact on multiple products or the product line. 
+
+Key Responsibilities
+
+ * Have the strong python software knowledge and programming skills which can handle large scale coding, hardware\driver interactions with software stacks. Familiar with software API handshake to HAL (Hardware Abstraction Layer) frameworks.
+ * Develop customer debug tools for server industry standard buses, such as DDR, PCIe, SATA, and other high speed IO protocol.
+ * Deliver the end-to-end solution to customer which including define tools framework, coding, tools validation, enable the tools installation package to customer.
+ * Provide the customer debug tool support and root cause analysis, knowing how to design the experiment by rule out, root cause the issue by co-work with INT\EXT team well.
+ * Further requirements include a strong understanding of BIOS, OS, BMC, and driver interactions at the system level as well as proficient understanding of x86 CPU architecture and functionality.
+ * A self-starter required and able to deal with a high level of ambiguity.
+   
+   
+
+Preferred Experience
+
+ * Engineering degree in Electrical Engineering, Computer Engineering, or Computer Science with 12+ years of extensive experience.
+ * The ideal candidate has worked at computer company as a developer who gone through the full software development product life cycle.
+ * Worked on multiple projects from development, through bring-up and validation and supported through the release to production.
+ * Strong knowledge of software architecture and OOP (Object Oriented Programming) desired.
+ * Experience in large scale software coding, data visualization, machine learning practice and familiar libraries such as Keras\Tensorflow, OpenCV, NumPy\SciPy for models build.
+ * Excellent communication skills are required in the role of supporting customers.
+   
+   
+
+Academic Credentials
+
+ * Bachelor’s or Master’s in computer engineering or computer science or electrical engineering, or comparable disciplines
+   
+   
+
+Benefits offered are described: AMD benefits at a glance.
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.

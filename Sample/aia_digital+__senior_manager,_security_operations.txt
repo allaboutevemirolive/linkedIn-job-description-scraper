@@ -1,0 +1,33 @@
+Website: https://www.linkedin.com/jobs/view/3615445418
+
+Senior Manager, Security Operations
+
+At AIA we’ve started an exciting movement to create a healthier, more sustainable future for everyone.
+
+As pioneering innovators for over 100 years, we’re now transforming our organisation to be faster, simpler and more connected. Because we want to be even better equipped to develop digital solutions and experiences that help more people live Healthier, Longer, Better Lives.
+
+To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhanced experiences that will impact the lives of millions of people and create a healthier future for everyone.
+
+If you believe in developing a better tomorrow, read on.
+
+WE ARE LOOKING FOR .....
+
+Define and drive Security Operations strategy and transformation plans to enhance the capability of the function. Run BAU security operations services.
+
+ * Identify and document long term strategic improvements for Security Operations to reduce risk, introduce automation and reduce manual activities
+ * Current in scope services are server/DB registration and vulnerability scanning, email security, Azure cloud security, Ali cloud security.
+ * Identify and transition operational activities from other security functions into the operating model.
+ * Manage a team of 20+ operational staff (including managing managers)
+ * Review existing security operations processes and controls to identify gaps and propose solutions inline with industry best practices.
+ * Ensure Security Operations roadmap is in-line with IAM uplift initiatives, while also influencing the projects to deliver operational requirements.
+ * Drive standardization of processes and controls across all cloud environments currently in use within AIA
+ * Work alongside the security location head to encourage engagement, reduce silos and ensure compliance to local and group policies
+ * Run BAU security operations processes including Azure IAM, AliCloud IAM, Key Vault operations, email security to meet or exceed service levels.
+ * Assess and define service levels where gaps in the governance exist.
+ * Manage a team to provide 24/7 cloud security support
+   
+   
+
+Build a career with us as we help our customers and the community live Healthier, Longer, Better Lives.
+
+You must provide all requested information, including Personal Data, to be considered for this career opportunity. Failure to provide such information may influence the processing and outcome of your application. You are responsible for ensuring that the information you submit is accurate and up-to-date.

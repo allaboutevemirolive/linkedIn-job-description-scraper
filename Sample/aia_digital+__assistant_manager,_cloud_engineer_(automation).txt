@@ -1,0 +1,39 @@
+Website: https://www.linkedin.com/jobs/view/3615441838
+
+Assistant Manager, Cloud Engineer (Automation)
+
+At AIA we’ve started an exciting movement to create a healthier, more sustainable future for everyone.
+
+As pioneering innovators for over 100 years, we’re now transforming our organisation to be faster, simpler and more connected. Because we want to be even better equipped to develop digital solutions and experiences that help more people live Healthier, Longer, Better Lives.
+
+To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhanced experiences that will impact the lives of millions of people and create a healthier future for everyone.
+
+If you believe in developing a better tomorrow, read on.
+
+WE ARE LOOKING FOR .....
+
+To supplement the existing AIA Cloud Centre of Excellence team in Malaysia Cyberjaya providing operational governance and support to AIA Bus within the Cloud environment.
+
+This role is specifically focused on optimization of cloud processes via automation.
+
+Responsibilities Include, But Are Not Limited To, The Following
+
+ * Assist in the operational governance of the AIA multi-cloud environment (predominantly Azure but with an AliCloud and AWS footprint)
+ * Liaise with service providers to ensure that operational processes (backup, patching, provisioning, monitoring) are delivered on time and to AIA standards
+ * Improve operational efficiency via ARM template enhancements as required
+ * Develop automation opportunities via the use of Infrastructure-As-Code tooling
+ * Management and compliance of Public Cloud technologies to audit standards
+ * Work with the Group Technical Risk to ensure compliance to all security requirements and standards
+ * Provisioning and support of non-standard cloud services that might not be covered in AIA service provider contracts
+ * Assist with Business Unit onboarding into their chosen cloud environment
+ * Reporting on the cloud environments as required
+ * Script writing and development of configuration templates are required for cloud automation
+ * Build a professional Public Cloud service focused on service optimization
+   
+   
+
+Other Responsibilities And Duties Will Be
+
+Build a career with us as we help our customers and the community live Healthier, Longer, Better Lives.
+
+You must provide all requested information, including Personal Data, to be considered for this career opportunity. Failure to provide such information may influence the processing and outcome of your application. You are responsible for ensuring that the information you submit is accurate and up-to-date.

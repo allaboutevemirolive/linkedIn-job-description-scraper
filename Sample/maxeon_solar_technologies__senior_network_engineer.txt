@@ -1,0 +1,66 @@
+Website: https://www.linkedin.com/jobs/view/3597712356
+
+Senior Network Engineer
+
+Powering Positive Change™ 
+
+In a world of constant change, the only way to make a meaningful impact is to stay ahead of the curve. That’s why at Maxeon Solar Technologies we’ve been pushing the boundaries of solar innovation every day for 35 years – from the very edge of outer space to countless rooftops below. 
+
+ 
+
+Our highly advanced solar products are powering the fight against climate change in more than 100 countries around the globe. And our brilliant, passionate, and driven team of more than 5,000 people globally are Powering Positive Change™ every day. 
+
+Are you ready to power positive change?
+
+The Network Engineer is responsible for managing and supporting the Network Infrastructure. The Engineer assists in the architecture, project management and consultancy in the infrastructure.
+
+ * Design and deploy functional networks (LAN, WLAN, WAN)
+ * Monitor network performance and integrity
+ * Resolve issues tiers of support have escalated by troubleshooting cloud and local infrastructure
+ * Automate tasks and monitor their effectiveness
+ * Create, oversee and test security measures (e.g. access authentication)
+ * Communicate with users when needed
+ * Maintain complete technical documentation
+ * Suggest improvements to network performance, capacity and scalability
+ * Plans, designs and implements local and wide-area network solutions between multiple platforms and protocols (including IP and VOIP)
+ * Supports/troubleshoots network issues and coordinates with vendors for installation of such items as routers and switches.
+ * Works on project implementation.
+ * Conducts project planning, cost analysis and vendor comparisons in coordination with our Purchasing team
+ * Operates Maxeon’s internal and external networks and communications systems, including LAN, WAN, VoIP, IPSEC, PSTN, datacenters, and other communications assets.
+ * Maintains a high level of functionality and availability of all VPNs, switching infrastructure, firewalls, wireless networks, and WAN links.
+ * Take primary responsibility for making improvements to the environment; develop technical standards.
+ * Responds and contributes to business continuity and disaster recovery circumstances relating to planned and unplanned events.
+ * Carry primary responsibility of tasks relating to planning, design, installation, configuration, documentation, operation, and continuous improvement of global Information Technology infrastructure.
+ * Must be willing to participate in on-call support in the nights & weekends as part of the network engineering team supporting Global Infrastructure
+ * Coordinate with vendors for hardware and services in cooperation with network management; conduct project planning, cost analysis, tech comparisons, and evaluations.
+ * Complies at all times the Environment, Health and Safety and Manufacturing Quality standards, rules and regulations
+ * Performs other duties may be assigned
+   
+
+Minimum Requirements
+ * Bachelors degree or 6 years of experience
+ * At least 4 years of experience in an Industrial environment
+ * Professional certification e.g. CCNP, CCIE, CISA, CISSP will be an added advantage
+ * Familiar with network design in the public cloud like AWS and AZURE will be an added advantage
+ * Must be familiar with L2 and L3 operation support on a global scale
+ * In-depth understanding of communication protocols (mainly TCP/IP) and routing protocols e.g. BGP, EIGRP, OSPF
+ * Solid understanding of network security eg. Firewall Policy, wireless security, cyber security, IPS/IDS, DDoS, ZTNA, MicroSegmentation etc
+ * Solid understanding of network operating systems eg. Cisco IOS, PAN OS & Junos OS
+ * Sharp troubleshooting skills
+ * Experience on the following equipment is a must:
+    * Cisco Routers
+    * Cisco Switches
+    * Cisco Meraki
+    * Palo Alto firewall
+    * Juniper SRX
+    * Pulse Secure VPN
+    * Cisco UCM
+      
+
+Safety Compliance
+
+Your safety is our number one priority at Maxeon. All our employees must complete regular workplace safety training and comply with our mandatory safety standards.
+
+Equal Employment Opportunity
+
+It is Maxeon’s policy to provide equal employment opportunity to all applicants and employees. Maxeon will not tolerate unlawful discrimination against any applicant or employee because of race, color, national origin or ancestry, gender (including pregnancy, childbirth, or related medical conditions), gender identity, age, religion, disability, family care status, veteran status, marital status, sexual orientation, or any other basis protected by national, local, state or federal laws or regulations.

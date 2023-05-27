@@ -1,0 +1,58 @@
+Website: https://www.linkedin.com/jobs/view/3533821281
+
+Github Administrator
+
+WHAT YOU DO AT AMD CHANGES EVERYTHING
+
+We care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next-generation computing experiences – the building blocks for the data center, artificial intelligence, PCs, gaming and embedded. Underpinning our mission is the AMD culture. We push the limits of innovation to solve the world’s most important challenges. We strive for execution excellence while being direct, humble, collaborative, and inclusive of diverse perspectives. This is who we are at our best. One Company. One Team.
+
+AMD together we advance_
+
+The Role
+
+The GitHub Team is an integral part of the AMD DevSecOps organization. We integrate and support every phase of the software development lifecycle (SDLC) and work closely with fellow developers to enable seamless collaboration between AMD teams and partners. The GitHub Team enables software developers to build secure applications and products through coding best practices with security in mind.
+
+The Person
+
+As a GitHub administrator, you will leverage your expertise in defining the guidelines and procedures for future enhancements and development efforts related to GitHub in order to guarantee a high level of service and support to our teams well into the future.
+
+You will work with global team members to improve tool processes and workflows, as well as development teams to advise on best possible solutions. Besides this, you will be working with various teams remotely and support fellow developers related to GitHub operations.
+
+Key Responsibilities
+
+ * All GitHub related administrations with security in mind best practices, eg members access, working with repositories, pull request, troubleshooting issue and etc.
+ * To manage, enhance and deploy GitHub self-hosted runner to container environment.
+ * To automate workflows between GitHub, ServiceNow and Azure services
+ * Work with various teams for tools integration, evaluation and implementation purposes.
+ * To generate/provide visibilities for all GitHub related usage, costing and operations
+ * To establish, enhance and implement processes to safeguard code in GitHub.
+   
+   
+
+Preferred Experience
+
+ * 3-5 years of experience in a similar role
+ * 2+ years in scripting languages like Perl, python, Java and shell
+ * Good understanding in GitHub branching strategy, Github API and GraphQL
+ * Experienced in SSO integration using SaaS based products.
+ * Excellent communication skills to work as part of a global organization
+ * Experienced in workflow setup using GitHub Action
+ * Cloud platforms experience an advantage
+ * Good understanding in Kubernetes
+   
+   
+
+Academic Credentials
+
+ * Bachelor's degree in computer science, information systems, or a similar field
+   
+   
+
+LOCATION:
+
+Penang, Malaysia
+
+Benefits offered are described: AMD benefits at a glance.
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.
+

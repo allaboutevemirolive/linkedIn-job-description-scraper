@@ -1,0 +1,93 @@
+Website: https://www.linkedin.com/jobs/view/3435348759
+
+Java Developer (Full Stack)
+
+Position Description
+
+
+
+
+Qualification
+
+
+
+
+ * 5+ years of experience with Java programming, including popular open-source libraries and frameworks with exposure in Cloud
+ * Must demonstrate experience in
+
+
+
+
+ Programming - Java/J2EE (Java 8 or higher), NodeJS
+
+
+
+
+ Frameworks - Spring Framework Suite, Ribbon, Zuul, Eureka, ELK Stack, Swagger Hub, OAuth 2, NodeJS, Spring Cloud Kubernetes
+
+
+
+
+ UI Frameworks - Backbone, Angular, HTML5, CSS3, JQuery, Bootstrap, Web Sockets
+
+
+
+
+ Data stores - Cassandra, HDFS, Azure Data Lake, MySQL, Microsoft SQL
+
+
+
+
+ Apache stack(some of the following): Kafka, Hadoop, Hive, Spark, Storm, Ignite, Flume, Avro, Mesos, Lucene, Solr, Zookeeper, Camel, Mahout
+
+
+
+
+ * Agile development using TFS, Jira, Confluence, Rally
+ * Experience programming with HTML 5, CSS, JavaScript, and mainstream front-end frameworks (Angular, React)
+ * Applied knowledge of API Development using REST and/or SOAP
+ * Familiarity with microservice architectures, design patterns, and monitoring tools
+ * Experience with cloud providers such as Azure, AWS, and/or GCP; working knowledge of containerization technologies including Docker and Kubernetes
+ * Experience in developing and deploying applications to cloud platforms AWS, GCP, PCF, Azure
+ * Experience with streaming platforms such as Apache Kafka
+ * Working knowledge of other JVM-based languages (Kotlin, Scala)
+ * Experience with data engineering platforms such as Apache Spark is a plus
+ * Familiarity with modern data patterns such as Event Sourcing and CQRS
+ * Experience with the CI/CD pipeline
+ * Demonstrated experience in enterprise security practices
+ * Industry recognized Technology Certifications
+
+
+
+
+Your future duties and responsibilities
+
+
+
+
+Required Qualifications To Be Successful In This Role
+
+
+
+
+Insights you can act on
+
+
+
+
+While technology is at the heart of our clients’ digital transformation, we understand that people are at the heart of business success.
+
+
+
+
+When you join CGI, you become a trusted advisor, collaborating with colleagues and clients to bring forward actionable insights that deliver meaningful and sustainable outcomes. We call our employees "members" because they are CGI shareholders and owners and owners who enjoy working and growing together to build a company we are proud of. This has been our Dream since 1976, and it has brought us to where we are today — one of the world’s largest independent providers of IT and business consulting services.
+
+
+
+
+At CGI, we recognize the richness that diversity brings. We strive to create a work culture where all belong and collaborate with clients in building more inclusive communities. As an equal-opportunity employer, we want to empower all our members to succeed and grow. If you require an accommodation at any point during the recruitment process, please let us know. We will be happy to assist.
+
+
+
+
+Ready to become part of our success story? Join CGI — where your ideas and actions make a difference.

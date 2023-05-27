@@ -1,0 +1,56 @@
+Website: https://www.linkedin.com/jobs/view/3567384886
+
+System Analyst (SAS Viya), Data
+
+About UOB
+
+United Overseas Bank Limited (UOB) is a leading bank in Asia with a global network of more than 500 branches and offices in 19 countries and territories in Asia Pacific, Europe and North America. In Asia, we operate through our head office in Singapore and banking subsidiaries in China, Indonesia, Malaysia and Thailand, as well as branches and offices.
+
+Our history spans more than 80 years. Over this time, we have been guided by our values — Honorable, Enterprising, United and Committed. This means we always strive to do what is right, build for the future, work as one team and pursue long-term success. It is how we work, consistently, be it towards the company, our colleagues or our customers.
+
+UOB Innovation Hub 2 (InnoHub 2) is a newly set up technology centre located in Kuala Lumpur as part of UOB Group Technology and Operations to deliver innovative financial technology solutions that enable business growth and technology transformation.
+
+About The Department
+
+The Technology and Operations function is comprised of five teams of specialists with distinct capabilities: business partnership, technology, operations, risk governance and planning support and services. We work closely together to harness the power of technology to support our physical and digital banking services and operations. This includes developing, centralising and standardising technology systems as well as banking operations in Singapore and overseas branches.
+
+Job Responsibilities
+
+ * Collaborate with business and IT to analyse, elicit and review business requirements
+ * Participate and contribute to technical solutioning and architecture reviews with architecture team
+ * Define functional and non-functional requirements and perform impact analysis assessment with the vendor
+ * Perform detailed estimation of projects and change requests
+ * Facilitate communication between vendor, project team, business stakeholders and internal IT team
+ * Conduct FSD review / Write and review user stories with Functional Business Analyst and Business Unit for sign-off
+ * Review interface design specifications created by development team
+ * Review test strategy and functional test cases created by testing team
+ * Support project and delivery team all throughout the project implementation
+ * Monitor and manage risks /issues related to requirements and scope creep
+   
+   
+
+Job Requirements
+ * Proven working experience of 2-15 years as a system analyst, with experience in credit and portfolio management projects in retail banking industry
+ * Freshers with good academic record in computer science and related areas who want to apply their knowledge to the banking industry are welcome to apply
+ * Functional knowledge of retail banking & business processes in one or more of the following areas:
+    * Hands on experience in projects to develop and implement credit scorecards and accompanying strategies
+    * Experience of working on platform provided by SAS for credit and portfolio management (Intelligent Decisioning)
+    * Understanding of cards, collections, core banking and campaign management systems and how they integrate recommendations from credit and portfolio management platforms
+
+ * Exposure to Data Warehouse & Big data tools for Information Management in one or more of the following areas:
+    * ETL & Data governance tools - Informatica PC, DQ, MM, Teradata GCFR, MDM
+    * RDBMS - Teradata, Oracle, NoSQL
+    * Reporting - MS Power BI, Qlik, OBIEE, Tableau, BO
+    * Cloudera administration suite
+
+ * Knowledge of Hadoop languages & tools – Spark, Python, R, Pig, Hue, Impala, Hive, Hbase, Informatica IDL would be an advantage
+ * Knowledge of platforms such as Kubernetes or Openshift for deploying container-based workload would be an advantage
+ * Experience in cloud-based deployments would be an advantage
+   
+   
+
+Be a part of UOB Family
+
+UOB is an equal opportunity employer. UOB does not discriminate on the basis of a candidate's age, race, gender, color, religion, sexual orientation, physical or mental disability, or other non-merit factors. All employment decisions at UOB are based on business needs, job requirements and qualifications. If you require any assistance or accommodations to be made for the recruitment process, please inform us when you submit your online application.
+
+Apply now and make a difference.

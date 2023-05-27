@@ -1,0 +1,59 @@
+Website: https://www.linkedin.com/jobs/view/3612331657
+
+Site Reliability Engineer
+
+Country
+
+Malaysia
+
+Job Family
+
+Technology
+
+For almost 90 years, GfK has been a reliable and trusted insight partner for the world’s biggest companies and leading brands who make a difference in every consumer’s life - and we will continue to build on this. We connect data, science and innovative digital research solutions to provide answers for key business questions around consumers, markets, ROI, brands and media. With our headquarters in Germany and a presence in around 60 countries worldwide, you benefit from our global company with a diverse community of 8,000+ employees.
+
+Harnessing the power of our workforce, the greatest asset we have is our people. As part of GfK, you can take your future into your own hands. We value talent, skills and responsibility and will support your development within our international teams. We are proud of our heritage and our future, as we continue our evolution from Market Research provider to SaaS data solutions and consulting partner. We value extraordinary people and this is why we are looking for YOU to help create our future. For our employees as well as for our clients we pursue one goal: Growth from Knowledge!
+
+Job Description
+
+About You
+
+You are a DevOps or Site Reliability Engineer with a passion for cloud infrastructure and automation. You’re a self-starter and you love keeping up to date with the latest developments in cloud, configuration management and container technologies. You understand the benefits of an immutable infrastructure and you enjoy enabling self-service deployments through continuous delivery pipelines.
+
+However, you have a head for operations and you know that security, backups, scalability and resilience are a paramount concern. In fact, you have a keen interest in security and you’re always looking for ways to use infrastructure-as-code to achieve security and compliance at scale. You understand that costs are a concern for the modern infrastructure engineer and you’re always looking for ways to reduce them.
+
+You thrive in a collaborative DevOps culture and you love to work as part of a cross-functional agile product delivery team alongside developers, data scientists, product owners and technical architects.
+
+Responsibilities
+
+Working in partnership with our software engineering teams, the Site Reliability Engineering (SRE) team is responsible for building and operating the next-generation infrastructure to support the GfK product portfolio.
+
+Working extensively with in our hybrid cloud environment (AWS, GCP, Azure, private VMWare cloud), you will be embedded within the product development and SRE squads to enable them to test and deploy software rapidly whilst ensuring the highest standards of reliability and security.
+
+You will influence architectural decisions with focus on security, scalability, cost and high-performance.
+
+Part of your role will be to set up and maintain monitoring, metrics and reporting systems for fine-grained observability and actionable alerting and also create and maintain appropriate backup, restore and redundancy solutions for business-critical data.
+
+Skills
+
+ * Linux administration skills and deep understanding of networking and TCP/IP.
+ * Experience with the major cloud providers and Terraform.
+ * Knowledge of technical architecture and modern day design patterns, including micro-services, serverless functions, NoSQL, RESTful APIs, etc.
+ * Demonstrable skills in a Configuration Management tool like Ansible.
+ * Experience in setting up and supporting CI/CD pipelines and tooling such as Jenkins, Bamboo or Gitlab CI
+ * Proficiency in a high level programming language such as Python, Ruby, Go or Java.
+ * Experience with monitoring, log aggregation and alerting tooling (ELK, Prometheus, etc).
+ * Experience with Docker and Kubernetes.
+   
+
+We are an ethical and honest company that is wholly committed to its clients and employees. We are proud to be an inclusive workplace for all and are committed to equal employment opportunity, focusing on all of our employees reaching their full potential.
+
+We respect and value every employee regardless of race, ethnicity, gender, sex, sexual orientation, age, personality, experience, culture, faith, socio-economic status, or physical or mental disabilities.
+
+We endorse the core principles and rights set forth in the United Nations Declaration of Human Rights and the Social Charter of Fundamental Rights of the European Union, promoting the universal values of human dignity, freedom, equality, and solidarity.
+
+Learn more about how we are driving diversity and inclusion in everything we do on: https://www.gfk.com/about-gfk/diversity-and-inclusion
+
+At GfK we work collaboratively with our colleagues but offer a flexible working approach, including dividing our time between office & remote working as well as the opportunity to flex our working hours around team core hours.
+
+Don't meet every single requirement? Some people are less likely to apply unless they meet all the requirements listed in a job specification. GfK is looking for self-starters to join our innovative team keen to take on a new challenge. So, if you're excited about this role but your skills and experience don't align perfectly with every requirement we've listed, we still encourage you to apply. You may be just the right candidate for this or other roles.

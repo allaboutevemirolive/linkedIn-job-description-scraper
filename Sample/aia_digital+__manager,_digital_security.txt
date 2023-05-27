@@ -1,0 +1,61 @@
+Website: https://www.linkedin.com/jobs/view/3615440975
+
+Manager, Digital Security
+
+At AIA we’ve started an exciting movement to create a healthier, more sustainable future for everyone.
+
+As pioneering innovators for over 100 years, we’re now transforming our organisation to be faster, simpler and more connected. Because we want to be even better equipped to develop digital solutions and experiences that help more people live Healthier, Longer, Better Lives.
+
+To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhanced experiences that will impact the lives of millions of people and create a healthier future for everyone.
+
+If you believe in developing a better tomorrow, read on.
+
+About The Role
+
+Oversee, develop, and manage Customer IAM service management processes to ensure that all services/products are delivered according to targets.
+
+ * Oversee, develop, and manage Customer IAM service management processes to ensure that all services/products are delivered according to targets.
+ * Manage vendors performance and to ensure that the vendors are delivering services and meeting service levels stated in the contract.
+ * Manage and run service review with business leads, vendors and relevant stakeholders.
+ * Manage and resolve customer feedbacks and escalations.
+ * Ensure services/products are managed and delivered in accordance with company’s IT Security and other relevant policies and standard.
+ * Contribute to short term and long-term strategic road maps for Customer IAM service management and ensure goals and initiatives are aligned with the Group Information Security objectives.
+ * Translate business needs into service offering requirements.
+ * Position the Customer IAM organization to embrace and support emerging customer service driven needs.
+ * Collaborate with internal and external stakeholders to review existing processes, capture operational challenges, and develop business requirements for improvement.
+ * To drive Continuous Service Improvement initiatives in improving service quality, efficiency, and compliance.
+ * Oversee application onboarding according to security and UX best practices
+ * Ensure daily operations and system workflows follow global standards and security policies.
+ * Maintain relationship between group teams providing standardized requirements, technology development and security.
+   
+   
+
+Job Requirements
+
+Education
+
+ * Degree in IT
+   
+   
+
+Experience
+
+ * 5-10 years of Information Security related working experience
+ * 3-5 years of Service Management and Service/Operations improvement related working experience
+ * Technical knowledge of IAM, Cybersecurity and other security domains. UX/CX
+ * Solid understanding of at least one Customer IAM product (e.g. Okta, ForgeRock, Azure B2C)
+ * Good understanding of Single Sign On, Identity Federation and the related authentication protocols including OAuth, OIDC and SAML.
+ * Working knowledge of ITIL processes, particularly Request, Problem, Incident and Change Management, how they interrelate, and how they can be adopted successfully.
+ * Basic understanding of IAM governance, risk and compliance principles and processes.
+   
+   
+
+Certifications/licenses
+
+ * CISSP/ CISM/ CRISC/ ITIL preferred
+   
+   
+
+Build a career with us as we help our customers and the community live Healthier, Longer, Better Lives.
+
+You must provide all requested information, including Personal Data, to be considered for this career opportunity. Failure to provide such information may influence the processing and outcome of your application. You are responsible for ensuring that the information you submit is accurate and up-to-date.

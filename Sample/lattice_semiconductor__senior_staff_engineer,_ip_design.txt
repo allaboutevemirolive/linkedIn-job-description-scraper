@@ -1,0 +1,23 @@
+Website: https://www.linkedin.com/jobs/view/3560264946
+
+Senior Staff Engineer, IP Design
+
+Lattice Overview
+
+We are seeking a Staff IP Design Engineer, passionate individual with technical leadership capabilities to build Connectivity IP portfolios for Lattice FPGA. The individual should have the ability to work closely with architect to translate specifications into high-speed RTL design, for the best Performance, Power and logic utilization.
+
+Responsibilities & Skills
+
+Key Skills
+
+ * Experience in high speed DDR protocols is a must.
+ * Hands-on experience in FPGA RTL design, logic verification, debug and timing closure are essential
+ * Programming skills (e.g.: C/C++, Perl, TCL or Python).
+ * Experience in hardware validation or hardware interoperability test is a plus.
+ * Experience in soft IP packaging, example design and testbench development will be an added advantage.
+   
+
+Education And General
+
+ * BS/MS/PhD in Electronics or Computer Engineering minimum of 10-15 years of FPGA high speed connectivity IP design experience.
+ * Independent and self-motivated, capable of executing under dynamic environment and uncertainties

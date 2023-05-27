@@ -1,0 +1,32 @@
+Website: https://www.linkedin.com/jobs/view/3501494311
+
+SAP BW Developer
+
+About Accenture
+
+Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Interactive, Technology and Operations services—all powered by the world’s largest network of Advanced Technology and Intelligent Operations centres. Our 506,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at www.accenture.com.
+
+The Team Accenture and SAP have a longstanding relationship that extends more than 40 years. As a leading business partner, we work with SAP end-to-end from product innovation, to development and delivery. Together, we are revolutionizing the future of business. We believe each industry has unique requirements, so business transformation is not a “one-size-fits-all.” But we see a common goal: clients want a simplified, accelerated path to the cloud and the transformational value that awaits. Leading with industry is core to our collaboration with SAP
+
+The Role SAP BW Developer will play a key role in working on major projects that may span a broad range of systems, providing subject matter expertise and technical direction; working closely with business users, BAs, PMs and IT team members to understand business requirements that drive the analysis, design and development of quality technical solutions that are aligned with the business and IT strategies, and are in compliance with the organization’s architectural standards; and application analysis, design, development, integration, and enhancement, and also involved in complex support issues.
+
+Minimum 3 – 5 years of experience
+
+Hands on experience in Business Warehouse including Extraction, Modelling, and Query design
+
+Experience with BW extractors, Master Data, DSOs, Cubes, Composite Providers, Open Hub Extracts, etc.
+
+Understanding of data extracts, report design and report development
+
+Significant and recent experience in the use and management of SAP Netweaver tools Business Warehouse 7.X with Business Objects 4.x and other related tools
+
+Understanding of SAP BW full life cycle development experience from design through implementation and production support
+
+Demonstrated ability to build and maintain complex Process Chains
+
+Experience with SAC, data warehouse cloud, BW4hana upgrade skills preferred
+
+You will also have opportunities to hone your functional skills and expertise in an area of specialization. We offer a variety of formal and informal training programs at every level to help you acquire and build specialized skills faster. Learning takes place both on the job and through formal training conducted online, in the classroom, or in collaboration with teammates. The sheer variety of work we do, and the experience it offers, provide an unbeatable platform from which to build a career.
+
+Accenture is an equal opportunities employer and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, or any other basis as protected by applicable law.
+

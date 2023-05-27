@@ -1,0 +1,47 @@
+Website: https://www.linkedin.com/jobs/view/3561469301
+
+.Net Developer
+
+Job Responsibilities
+
+
+
+
+ * Write clean, scalable code using .NET programming languages.
+ * Remain up to date with the terminology, concepts, and best practices for coding.
+ * Develop technical interfaces, specifications, and architecture.
+ * Use and adapt existing web applications for apps.
+ * Create and test software prototypes.
+ * Develop client displays and user interfaces.
+ * Assist software personnel in handling project related work and other requirements.
+ * Coordinate with other software professionals and developers.
+ * Communicate with customers for system requirements, deployment, and support.
+ * Coordinate with users for UAT Testing and signoff.
+   
+   
+
+
+
+
+Job Requirements
+
+
+
+
+ * Minimum 3 years’ experience in software development.
+ * Experience designing and implementing systems that integrate with .NET application’s API.
+ * Good knowledge of Microsoft technologies.
+ * Good knowledge of SOA based architecture REST/SOAP.
+ * Proficiency in JavaScript, JavaScript Frameworks, Model Binding, and Asynchronous programming. Skills in web services, XML, HTML5, SharePoint, SSIS, SSRS, MVC.
+ * Able to work well in a team setting.
+ * MS Dynamics CE experience (Certifications a plus).
+ * CRM industry and product knowledge an added advantage.
+   
+   
+
+
+
+
+#countrymalaysia
+
+

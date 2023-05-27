@@ -1,0 +1,91 @@
+Website: https://www.linkedin.com/jobs/view/3612361891
+
+Software Engineer
+
+Role Summary
+
+As a Software Engineer, you are passionate about communication, group dynamics and coaching and you are not afraid to raise issues and drive change to remove impediments from your deliveries. You’ll be working with a group of highly skilled, competent individuals who are working towards a common goal and your ability to dive into the details and, at times, take a step back will be paramount to the overall success of the components in ensuring the team takes pride in what it is they are delivering.
+
+
+
+
+Your responsibilities:
+
+
+
+
+I wear multiple hats...
+
+You are both a contributor, an enabler and mentor. Your success is measured in three dimensions; by the operational effectiveness of your team, the pace of delivery and the professional development of the team.
+
+
+
+
+Within the your team
+
+You appreciate the depths of agile practices and principles in place at Frog and can help your team appreciate them too to ensure they are equipped with the skills, tools and processes required for success. You assist the team, through coaching and mentoring, in discovering improved ways of collaborating and enable them to develop the right processes and methodologies for the context they are working within.
+
+
+
+
+You will work with the Delivery Management team to assist with bottlenecks, conflict resolution, systemic delivery failures and identify resourcing constraints.
+
+
+
+
+Outside of the team
+
+In support of the teams you will work closely with the Delivery Management team to ensure the business is equipped with the necessary skills and can apply them to the context of their component. You will need to work closely with Delivery Management to develop and drive company-wide and technology related initiatives and resolve systemic failures across multiple components.
+
+
+
+
+How you will contribute
+
+ * Help the team identify what good looks like in terms of rapid delivery, quality and cost management and how to achieve the required balance through the tools, processes and skills available
+ * Drive the professional development of your team and enable them to grow in their role
+ * Identify the gaps and mentor the team to ensure sprints are delivered against expectations
+ * Have intimate knowledge of each sprint goal and supporting deliverables and be accountable for significant delivery failures within their teams whereby the team does not constantly meet the objectives of the sprint
+ * Review and collate retrospective feedback to ensure best practices and improvement areas are identified and actioned
+ * Engage the Architecture team when the team requires significant architectural changes or cross-system solutions to be designed
+ * Code
+ * High level solution design both on your own and in collaboration with your team
+ * Quality assure your teams technical contributions
+ * Educate and communicate your approaches to building solutions to those in your team
+ * Build internal tooling to make you and your teams lives easier
+
+
+
+
+
+
+
+Development Language Skills & Experience
+
+
+
+
+ * Bachelor's Degree in Computer Science (or related field)
+ * Minimum 3 years of experience working in a commercial development environment engineering software as part of a wider product delivery team
+ * Knowledge of basic web development stack; PHP, Javascript, CSS, MySQL
+ * Knowledge of RESTful API, JSON Web Token, MVC, and Git source control
+ * Development experience with Laravel/Lumen and ReactJS or similar frameworks for PHP and Javascript
+ * Knowledge of concepts with container management like docker.
+ * OpenShift/Kubernetes experience is optional
+ * Able to write unit tests
+ * Follow tech trends and implement the best practices
+ * Agile Scrum experience is a plus
+ * Excellent analytical skills with a good problem-solving attitude
+ * Location will be based in Kuala Lumpur, Malaysia
+
+
+
+
+To apply, click the button below. If you feel you can impress our tech team, send your CV to this REST service:
+
+https://recruit.prod.frogdev.asia/
+
+
+
+
+Only shortlisted candidates will be notified. Thank you!

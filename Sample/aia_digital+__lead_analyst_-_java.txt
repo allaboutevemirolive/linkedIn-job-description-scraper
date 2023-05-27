@@ -1,0 +1,27 @@
+Website: https://www.linkedin.com/jobs/view/3615445398
+
+Lead Analyst - Java
+
+At AIA we’ve started an exciting movement to create a healthier, more sustainable future for everyone.
+
+As pioneering innovators for over 100 years, we’re now transforming our organisation to be faster, simpler and more connected. Because we want to be even better equipped to develop digital solutions and experiences that help more people live Healthier, Longer, Better Lives.
+
+To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhanced experiences that will impact the lives of millions of people and create a healthier future for everyone.
+
+If you believe in developing a better tomorrow, read on.
+
+WE ARE LOOKING FOR .....
+
+Responsible for providing application development and support services to meet AIA's business needs
+
+ * Understand users’ requirements and function specification;
+ * Produce detail technical specification and other necessary document;
+ * Develop J2EE web applications in Servlet, web service, jsp, html/css/js
+ * Prepare test case, conduct the unit test and system test.
+ * Communicate with IT PM and user about solution and development progress
+   
+   
+
+Build a career with us as we help our customers and the community live Healthier, Longer, Better Lives.
+
+You must provide all requested information, including Personal Data, to be considered for this career opportunity. Failure to provide such information may influence the processing and outcome of your application. You are responsible for ensuring that the information you submit is accurate and up-to-date.

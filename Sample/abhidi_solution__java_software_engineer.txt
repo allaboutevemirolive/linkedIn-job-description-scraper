@@ -1,0 +1,69 @@
+Website: https://www.linkedin.com/jobs/view/3616356458
+
+Java Software Engineer
+
+Job Title- ICS Control Central Self Service Developer/Java Developer
+
+
+
+PURPOSE
+
+ 
+
+ Seeking a Java developer who responsible to enhance current applications and troubleshooting.
+
+ 
+
+ROLES AND RESPONSIBILITIES
+
+ 
+
+·        Enhancing current applications according to planned road map
+
+·        Provides support if there are any issues
+
+·        Troubleshooting DevOps & Jenkins issues related to Self Service Portal Onboardings
+
+·        Participate SCRUM activities, e.g. daily stand-up, Sprint planning, Sprint Retrospective, etc. Ensure availability and monitor environments for Onboarding are up and running across different controls.
+
+ 
+
+OUR IDEAL CANDIDATE
+
+ 
+
+·        A minimum of 5+ years of working experience in Java software development, Javascript 4 years, PHP 5 years. Python 5 years.
+
+·        Hands-on experience in automation by using scripting such as Shell scripts, JavaScript etc
+
+Good Knowledge in JSP, JMS, Struts, Oracle, SQL, Stored Procedures, Linux, Spring, Hibernate, Web services and Angular JS/jQuery, React JS and Python.
+
+·        Bachelor's Degree in Computer Science, Computer Engineering, or related field.
+
+·        Technical knowledge & Hands on Java experience is a MUST.
+
+·        Good knowledge in SQL queries
+
+·        Independent individual who can resolved issues.
+
+·        In depth knowledge in Agile project deliveries.
+
+·        Excellent analytical and problem-solving skills.
+
+ 
+
+Skills:
+
+·        Java, database query know-how.
+
+·        Having experience of Unix, application server
+
+·        Experience in Jenkins, React JS and Rundeck is a plus
+
+·        Shell scripts, JavaScript, JSP, JMS, Struts, Oracle, SQL, Stored Procedures, Linux, Spring, Hibernate, Web services and Angular JS/jQuery, React JS and Python.
+
+
+
+
+Work Location- Bukit Jalil, Malaysia
+
