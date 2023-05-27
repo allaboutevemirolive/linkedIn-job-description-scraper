@@ -1,0 +1,15 @@
+{
+  "name": "linkedin-job-description-scraper",
+  "version": "1.0.0",
+  "description": "Scrap job descriptions from LinkedIn for further job market analysis",
+  "main": "job_scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nemsis",
+  "license": "ISC",
+  "dependencies": {
+    "html-to-text": "^9.0.5",
+    "playwright": "^1.34.3"
+  }
+}
